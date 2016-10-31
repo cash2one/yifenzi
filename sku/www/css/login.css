@@ -1,0 +1,26 @@
+/* 模块化样式 盖网*/
+*{ padding:0; margin:0px;}
+input,img{ border:none;}
+a{ color:#000}
+a:hover{ text-decoration:none;}
+/*登陆弹窗*/
+.loginBox01 .loginForm{width:265px; }
+.loginBox01 .loginForm span{ display:inline-block; width:265px; margin:0px auto; z-index:101}
+.loginBox01 .loginForm .inputtxt,.loginBox01 .loginForm .inputtxtCode{background:url(../images/bg/loginInputtxt.gif) left center no-repeat;}
+.loginBox01 .loginForm .inputtxt01,.loginBox01 .loginForm .inputtxt02,.loginBox01 .loginForm .inputtxtCode{ background:url(../images/bg/loginInputtx.gif) left center no-repeat;}
+.loginBox01 .loginForm span.mgt{text-align:left;}
+.loginBox01 .loginForm span.mgb{text-align:left;margin-top:20px;color:#fff;}
+.loginBox01 .loginForm span.mgb input{ margin-right:5px;}
+.loginBox01 .loginForm span.mgb a{ margin-left:10px; color:#fff;}
+.loginBox01 .loginForm span.mgb a:hover{color:#fff; text-decoration:underline;}
+.loginBox01 .loginForm input.inputtxt01{ width:212px; background-position:-22px -51px;z-index:101; height:17px; padding:12px 10px 12px 40px;}
+.loginBox01 .loginForm input.inputtxt01:focus{background-position:-21px -104px;}
+.loginBox01 .loginForm input.inputtxt02{ width:212px; background-position:-22px -158px; z-index:101; height:17px; padding:12px 10px 12px 40px;margin:10px 0 0 0;}
+.loginBox01 .loginForm input.inputtxt02:focus{background-position:-21px -210px;}
+.loginBox01 .loginForm .loginInputtxt{ width:22px; height:22px; background-position:0px -46px;}
+.loginBox01 .loginForm .loginInputpwd{ width:22px; height:22px; background-position:0px -12px;}
+.loginBox01 .loginForm .inputtxtCode{ width:85px; height:20px; padding:5px; line-height:20px; background-position:-22px -16px; margin:10px 0 0 0;}
+.loginBox01 .loginForm a.changeCode{ display:inline-block; width:85px;vertical-align:middle; height:22px; background:url(../images/bg/inputtxtbg.gif) 63px -68px no-repeat; overflow:hidden;}
+.loginBox01 .loginForm .errorMessage{ margin:-3px 0 0 0;}
+.loginBox01 .loginForm .changeCode{ display:inline-block; vertical-align:middle; }
+.loginBox01 .loginForm .loginbutton{ display:inline-block; width:70px; height:85px; font:bold 16px/85px "微软雅黑"; color:#fff;text-align:center; padding-left:60px; margin:30px 55px;background:url(../images/bg/loginButton.png) left center no-repeat; _background-image:url(../images/bg/loginButton.gif); cursor:pointer;}

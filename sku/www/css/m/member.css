@@ -1,0 +1,312 @@
+.sl{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}/*字符省略*/
+.wrap{height:100%;width:100%;padding-bottom:60px;}
+/*登录*/
+.loginMain{height:100%;margin-top: 20px;}
+.loginForm,.memberList{width: 100%;}
+.loginForm tr,.memberList tr{border-left: 1px #dbdbdb solid;border-top: 1px #dbdbdb solid;background:#fff;}
+.loginForm tr td,.memberList tr td{border-right: 1px #dbdbdb solid;border-bottom: 1px #dbdbdb solid;height: 45px;font-size: 16px;}
+.loginForm tr td{height:50px;}
+.loginForm tr td input{color: #9d9d9d;height: 100%;border: 0px;width: 60%;padding-left: 4.84%;line-height:3.5;font-size:14px;}
+.loginForm tr td .LFBut{background: url("../../images/m/bg/m_but2.png") no-repeat; background-size:100% 100%; width: 60px;height:29px;margin: 8px 5% 0 0;}
+.loginForm tr td img{width: 60px;border: 1px #d6d6d6 solid;display: block;height: 25px;margin: 9px 5% 0 0;}
+.loginSub{width: 87%;margin: 20px auto;height: 45px;display: block;background: #f44336;color: #fff;border: 0px;border-radius:4px;letter-spacing: 1px;font-size: 16px;}
+.loginCz{width: 87%;margin:10px auto 0;}
+.loginCz a{color: #313131;font-size: 16px;}
+.loginCz a:visited {color: #f44336}
+.h{height: 45px;}
+
+/*注册*/
+.loginForm tr td .rBtn{border-radius:4px;background: #f3f3f3;color: #f23f36;border: 1px #dbdbdb solid;width:32%;height:33px;line-height:2.4; text-align: center;margin: 5px 1% 0 0;font-size: 14px;}
+.rLink{color: #313131;display: block;text-align: center;margin:30px 0 0 0;}
+
+/*注册成功*/
+.rsTag{text-align: center;color: #85c629;font-size: 16px;line-height: 2.5;padding: 20px 0 0 0;}
+.rsTag img{margin-right: 10px;}
+.rsinfo{text-align: center;color: #898989;font-size: 16px;margin: 20px 0 0 0;}
+
+/*用户中心*/
+.memberList a{display: block;height: 45px;line-height: 2.9;color: #313131;}
+.memberInfo a{height: 80px;}
+.memberInfo span{display: block;}
+.memberInfo img{display: block;border-radius:100px;border: 1px #dadada solid;}
+.memberInfo .memberInfoImg{margin: 8px 0 0 4%;position: relative;}
+.memberInfoName{line-height: 5;margin-left: 2%;width: 30%;text-overflow:ellipsis; overflow:hidden; white-space:nowrap;}
+.memberInfoPhone{line-height: 5.7;margin-right: 4%;color: #898989;font-size: 14px;}
+.menberLeft{margin-left: 4%;}
+.menberRight{margin-right: 4%;color: #898989;background: url("../../images/m/bg/m_ioc4.png") no-repeat center right;background-size:10px 17px;padding-right: 20px;height: 45px;}
+.memberList .memberBanner td{background: none;}
+.memberBanner a{height: auto;}
+.memberBanner img{width: 96.7%;display: block;margin: 10px auto;}
+.menberRight img{display: block;margin-top: 19px;}
+/* 会员未定义级别，先屏蔽
+.memberInfoGrade{position: absolute;bottom: -2px;left: 17px;background: url("../../images/m/bg/m_ioc3.png");background-size:100%;width: 28px;height: 19px;}
+*/
+.memberInfoGrade span{width: 50%;text-align: center;color: #fff;}
+.GradeLeft{font-size: 14px;line-height: 1.5;}
+.GradeRight{font-size: 12px;line-height: 2;}
+
+/*用户中心（未登录）*/
+.memberInfo .menberRight{line-height: 5.2;height: 100%;}
+
+/*订单搜索*/
+.OSList li{margin-top: 15px;background: #fff;border-left: 1px #dbdbdb solid;border-top: 1px #dbdbdb solid;border-right: 1px #dbdbdb solid;color: #313131;position: relative;}
+.OSlistTitle{height: 40px;/*line-height: 2.8;*/line-height: normal;line-height: 40px;border-bottom: 1px #dbdbdb solid;}
+.OSlistTitleLeft{width: 40%;text-overflow:ellipsis; overflow:hidden; white-space:nowrap;}
+.OSlistTitleLeft,.OSlistTitleLeft2{background: url("../../images/m/bg/m_ioc6.png") no-repeat left center;background-size:14px 11px;margin-left: 4%;padding-left: 30px;height: 100%;}
+.OSlistTitleLeft2{background: no-repeat;padding-left: 0px;}
+.OSlistTitleRight{color: #f23f36;margin-right: 4%;height: 100%;}
+.OSProducts{display: block;/* height: 100px; */padding: 10px 4%;border-bottom: 1px #dbdbdb solid;overflow:hidden;}
+.OSProductsInfo{color: #313131;display:block; overflow : hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical;width: 100%;height:40px;line-height:20px;}
+.OSProductsRight{width: 58%;margin-left: 20px;color: #9d9d9d;display: block;}
+.OSListBtn{height: 50px;border-bottom: 1px #dbdbdb solid;}
+.OSListBtn input,.OSListBtn a{width:90px;height:35px;margin:7px 3% 0 0;display: block;text-align: center;line-height: 2.5;border-radius:4px;line-height: 35px;}
+.OSListBtn input{border:none;}
+.OSListCheckBtn{background: #fff;border: 1px #dbdbdb solid;}
+.OSListOnfirmBtn{background: #f44336;color: #fff;}
+.OSListBtn .OSListOnfirmBtn:FOCUS,.OSListBtn .OSListOnfirmBtn:VISITED,.bgf44336:FOCUS,.bgf44336:VISITED,.DeleteBtn:FOCUS,.DeleteBtn:VISITED{color: #fff;}
+
+/*我的订单*/
+.orderNav{height: 40px;background: #fff;}
+.orderNav a{color: #313131;letter-spacing: 1px;display: block;line-height: normal;line-height: 40px;position: relative;border-bottom: 1px #f23f36 solid;}
+.orderNav a img{position: absolute;bottom: -1px;left:43%;display: none;}
+.orderNav ul{border-top: 1px #dbdbdb solid;height: 40px;}
+.orderNav ul li{float: left;height: 40px;width: 20%;text-align: center;line-height: 2.5;background: url("../../images/m/bg/m_line.jpg") right center no-repeat;background-size:1px 33px;}
+.orderNav ul .orderNavLi{background:none;}
+.orderNav a .orderNavSelected{display: block;}
+.OSFinishLogo{position: absolute;right: 10px;bottom: 10px;}
+.header .mainNav .topNav .ordersSearchBtn{height:35px;margin: 4px 4px 0 0;width:60px; position:absolute;top:0;right:2%;line-height:35px;border-radius:4px;border: 1px #dbdbdb solid;color: #313131;overflow:hidden;}
+
+/*订单详情*/
+.ODItem{margin-top: 20px;border-left: 1px #dbdbdb solid;border-right: 1px #dbdbdb solid;border-top: 1px #dbdbdb solid;color: #313131;background: #fff;}
+.ODItem1 span,.ODItem1 a{display: block;}
+.ODItem ul li{border-bottom: 1px #dbdbdb solid;}
+.ODItem1 ul li{padding: 15px 4% 15px 4%;}
+.ODInfo{height: 22px;padding-left: 25px;}
+.ODInfo1{background: url("../../images/m/bg/m_ioc7.png") no-repeat center left;background-size:13px 14px;}
+.ODInfo2{background: url("../../images/m/bg/m_ioc10.png")no-repeat center left;background-size:11px 14px;}
+.ODInfo3{background: url("../../images/m/bg/m_ioc11.png")no-repeat center left;background-size:11px 14px;}
+.ODfont{margin-left: 25px;text-overflow:ellipsis; overflow:hidden; white-space:nowrap;width: 80%;}
+.ODItem1 a{background: url("../../images/m/bg/m_ioc4.png") right center no-repeat;background-size:10px 17px;}
+.ODItem2Str{color: #ff7a24;margin: 0 0 0 5px;}
+.ODItem2Info{font-size: 12px;display: block;margin-top: -5px;}
+.ODItem2Price{float: right;margin-right: 4%;}
+.ODProductsRight{width: 65%;}
+.ODItem2 .menberLeft{line-height: 45px;}
+.ODItem2 .menberRight{background: none;color: #313131;line-height: 45px;}
+.ODItem2 .OSProducts,.ODItem2 .OSlistTitle{border: 0;}
+.ODItem2 .d32f2f{color: #d32f2f;}
+.ODItem2 .OSProducts{/* height: 80px; */}
+.ODItem3Title{height: 45px;line-height: 45px;border-bottom: 1px #dbdbdb solid;}
+.ODItem3Title span,.ODItem3Info span{margin-left: 4%;display: block;}
+.ODItem3Info{border-bottom: 1px #dbdbdb solid;line-height: 25px;padding: 10px 0;}
+.ODWrap{position: relative;padding-bottom: 80px;}
+.ODFooter{position: fixed;bottom: 0px;left:0px;height: 50px;border: 1px #dbdbdb solid;background: #fff;width:100%;/* min-width:320px;max-width:640px; */}
+.ODFooter .OSListBtn a,.ODFooter .OSListBtn input{margin:7px 0 0 0;width:40.6%;}
+.ODFooter .OSListBtn .OSListCheckBtn{margin-left: 4.6%;}
+.ODFooter .OSListBtn .OSListOnfirmBtn{margin-right: 4.6%;}
+
+.green{color: #73a30c;}
+.gray{color: #898989;}
+.d32f2f{color: #d32f2f;}
+.highLight{border:thin solid #FF0000;}
+
+/*物流信息*/
+.logisticsInfo{background: #796b5e;color: #fff;padding: 15px 0 15px 4%;margin-top: 20px;}
+.logisticsInfo img{margin-right: 10px;}
+.logisticsInfo div{margin-top: 3px;}
+.LILeft{background: none;padding-left: 0px;color: #313131;}
+.LIDetails{padding: 15px 0;}
+.LIDetails div{padding: 0px 0 15px 20px;position: relative;margin-left: 4%;background: url("../../images/m/bg/m_line3.jpg") 5px repeat-y;background-size:1px 5px;}
+.LIDetails div:last-child{background: url("../../images/m/bg/m_line3.jpg") 5px 0px no-repeat;background-size:1px 15px;}
+.LIIoc{width: 11px;height: 11px;position: absolute;left:0px;top:5px;background: url("../../images/m/bg/m_ioc8.png") no-repeat;background-size:11px 11px;}
+.LIIoc2{width: 13px;height: 19px;position: absolute;left:-1px;top:0px;background: url("../../images/m/bg/m_ioc11.png") no-repeat #fff;background-size:13px 19px;}
+
+/*确定订单*/
+.OCList .OSProducts{/* height: 100px; */}
+.OCList .ODItem2Str{margin: 0;}
+.OCInfo2{display: block;height: auto;background: url("../../images/m/bg/m_ioc9.png") no-repeat 95% center #796b5e;background-size:10px 20px;}
+.ODInfo span{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;width: 80%;display: block;}
+.ODFooter .OSListBtn .OCBtn{width: 60%;margin: 7px auto;}
+
+/*选择颜色*/
+.SCPriced{text-decoration:line-through;font-size: 12px;margin-left: 10px;}
+.ColorList{color: #313131;margin-top: 20px;}
+.ColorList p{margin-left: 4%;}
+.ColorList span{display: block;border: 1px #dbdbdb solid;border-radius:4px;background: #fff;padding: 5px 10px;float: left;margin: 8px 0 8px 4%;cursor: pointer;}
+.ColorList .SelectColorItem{background: #f44336;color: #fff;border: 1px #f44336 solid;}
+.ColorList .specName{margin-bottom:5px;}
+.SelNum{border-top:1px #dbdbdb solid;border-bottom:1px #dbdbdb solid;padding: 15px 0;margin-top: 15px;}
+.SelNumLeft{margin-left: 4%;height: 35px;line-height: 35px;}
+.SelNumLeft span{margin-left: 10px;font-size: 12px;}
+.SelNumRight{margin-right: 4%;border: 1px #dbdbdb solid;line-height: 35px;}
+.SelNumRight,.SelNumJian,.SelNumJia{height: 35px;}
+.SelNumJian,.SelNumJia{font-weight: bold;text-align: center;color: #a0a0a0;width: 35px;}
+.SelNumJian{background: url("../../images/m/bg/m_jian.jpg") no-repeat center;background-size:15px 3px;}
+.SelNumJia{background: url("../../images/m/bg/m_jia.png") no-repeat center;background-size:15px 15px;}
+.SelNumRight input{border: 0px;height: 35px;display: block;width: 35px;text-align: center;border-left: 1px #dbdbdb solid;border-right: 1px #dbdbdb solid; }
+.bgf49436{background: #f49436;}
+.bgf44336{background: #f44336;color: #fff;border: 0px;}
+
+/*收货地址*/
+.addressList{margin-top: 20px;}
+.addressList {border-bottom: 1px #dbdbdb solid;height: auto;}
+.addressList li{margin-top: 0px;}
+.addressList .OSProducts{height: auto;padding: 15px 4%;line-height: 25px;font-size: 16px;border: 0px;}
+.addressList .OSProducts span{font-size: 14px;}
+.addressSel{background: url("../../images/m/bg/m_ioc13.png") no-repeat 98% 10px;background-size:25px;}
+
+/*添加收货地址*/
+.addressForm{margin-top: 20px;}
+.addressForm select{width: 100%;padding-left:4.84%;border: 0;height: 100%;color: #313131;}
+.AFDefault{display: block;padding-left:4.84%;height: 100%;line-height: 45px;color: #313131;}
+.AFDefaultSel{background: url("../../images/m/bg/m_ioc13.png") no-repeat 98% center;background-size:25px;}
+
+/*我的盖惠劵*/
+.couponNav ul li{width: 33.33%;}
+.coupnNum,.couponList li{border-radius:4px;border: 1px #e4e4e4 solid;box-shadow:0px 1px 0px #d7d7d7;background: #fff;width: 96%;margin: 20px auto 0 auto;}
+.coupnNum{text-align: center;color: #898989;padding: 15px 0;}
+.couponLeft{height: 86px;width: 150px;background: url("../../images/m/bg/m_bg1.jpg") no-repeat;background-size:100% 100%;color: #8c1818;text-align: center;border-top-left-radius: 4px;border-bottom-left-radius: 4px;}
+.couponLeft span{color: #fff;font-size: 20px;display: block;margin-top: 15px;}
+.couponRight{color: #898989;margin-left: 10px;width:45%;}
+.couponRight span{width: 100%;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;display: block;}
+.couponRight span:first-child{color: #313131;font-size: 16px;margin-top:19px;}
+.couponTitle{text-align: center;margin-top: 20px;color: #898989;}
+.couponList a{display: block;}
+.couponList2{margin-bottom: 30px;}
+.coupnNum span{font-size: 16px;margin: 0 3px;}
+.couponNav a img{left:45.5%;}
+
+/*我的红包积分*/
+.BPLeft span{color: #b25e03;font-size: 14px;margin-top: 20px;}
+.BPLeft{color: #fff;font-size: 20px;background: url("../../images/m/bg/m_bg2.jpg") no-repeat;background-size:100% 100%;}
+.couponRight .sl span{color: #898989;font-size: 12px;display: inline;}
+
+/*购物车*/
+.fontC{color: #313131;}
+.cartQSel{height: 25px;line-height: 25px;color: #313131;margin-top: 20px;}
+.cartTitleRight{margin: 8px 3%;}
+.cartTitleLeft{background: none;width: 80%;}
+.cartTitleLeft .cartName{width: 60%;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;display: block;}
+.cartSel{background: url("../../images/m/bg/m_ioc14.png") no-repeat;background-size:100%;width: 25px;height: 25px;display: block;margin: 30px 2% 0 4%;}
+.ODItem2 .cartProducts{padding: 0;width:84%;}
+.cartProductsRight{width: 61%;}
+.cartList li{padding: 10px 0;}
+.cartList .cartSel{margin-top: 25px;}
+.cartQSel .cartSel,.cartSel{margin: 0 10px 0 4%;}
+.cartTitle,.cartTitle .cartTitleLeft,.cartTitle .cartSel{margin: 0px;padding: 0px;}
+.cartTitle{margin:0 0 0 4%;}
+.cartTitle .cartSel{margin: 8px 10px 0 0;}
+.cartCount{line-height: 50px;margin-left: 4%;color: #313131;font-size: 12px;}
+.ODFooter .OSListBtn .cartBtn{width: 100px;}
+.header .mainNav .topNav .DeleteBtn{height:35px;margin: 4px 4px 0 0;width: 60px;border-radius:4px;line-height:35px;position:absolute;top:0;right:2%;}
+
+/*Register Agreement*/
+.agreement{width:96.875%;margin:10px auto;line-height:1.8;}
+/*付款*/
+.payTitle,.payTitleInfo{border: 0px;border: 1px #dbdbdb solid;background: #fff;margin-top: 15px;}
+.payTitleInfo .OSlistTitleLeft2{color: #333;}
+.rsinfo span,.payTitle .payfontColor{color: #f23f36;}
+.payY{height: 45px;}
+.payY input{color: #9d9d9d;height: 100%;border: 0px;width:58%;padding-left:4%;}
+.payY .rBtn{border-radius:4px;background: #f3f3f3;color: #f23f36;border: 1px #dbdbdb solid;width:33%;height:33px;line-height:2.4; text-align:center;margin:5px 4% 0 0;font-size:14px;}
+.paymentTotal img{margin-left: 3%;margin-top: 12px;}
+.payTitle{color: #333;font-size: 16px;border: 0px;}
+.ODItem2 .paymentTotal{width: 100%;}
+.OCList .paymentTotal{height: 80px;}
+.paymentTotal .OSProductsRight{margin-top: 15px;width: 45%; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;}
+.paymentTotal .cartSel{margin:26px 4% 0 0;float: right;}
+.payRight{padding: 0px;}
+.payQT{color: #898989;display: block;margin: 5px 0;margin-left: 4%;}
+.payQTSel{margin-top: 0px;}
+
+/*订单评价*/
+.OAInfoBox{width:100%;background:#fff;border: 1px #dbdbdb solid;margin-top: 20px;}
+.OAInfo{background: #fff;padding: 10px 4%;color: #898989;font-size: 16px;}
+.OAInfo span{color: #313131;}
+.OAItem{color: #313131;font-size:16px;}
+.OAItemMain{position:relative;border: 1px #dbdbdb solid;background: #fff;height:50px;line-height:50px;border-top:none;}
+.OAItemTitle{padding:0 2%;width:18%;text-align:center;display: block;color:#333}
+.OAItemMainLeft{position:absolute;left:20%;}
+.OAItemMainRight{position:absolute;right:4%;line-height:50px;color: #898989;}
+.OAItemMainLeft img{display: block;margin:14px 2px;float: left;}
+.OAItemColor1{color: #ff9e00;}
+.OAList .OAItemMain textarea{width: 100%;border:none;border-bottom:1px #dbdbdb solid;padding: 5px;font-size: 14px;}
+.OAList .OAItemMain{border:none;border-top: 1px #dbdbdb solid;}
+.OAList{background:none;border:none;}
+.OAList li{margin-bottom:20px;background:#fff;border-top:1px #dbdbdb solid;}
+
+/*红包领取记录*/
+.recList{border-top: 1px #dbdbdb solid;border-right: 1px #dbdbdb solid;margin-top: 20px;}
+.recList li{background: #fff;border-bottom: 1px #dbdbdb solid;border-left: 1px #dbdbdb solid;}
+.recList li .fl{color: #898989;width: 50%;margin-left: 4%;}
+.recList li .fl span{display: block;color: #313131;font-size: 16px;margin: 12px 0 5px 0%; }
+.recList li .fr{color: #ff8b0f;line-height: 75px;margin-right: 4%;width: 30%;text-align: right;padding-right: 20px;}
+
+/*我的钱包*/
+.qbItem1,.qbItem2{border: 1px #dbdbdb solid;background: #fff;margin-top: 20px;}
+.qbIoc{background: url("../../images/m/bg/m_ioc4.png") right center no-repeat;background-size:10px 17px;}
+.qbItem1 .fl{color: #898989;width:60%;margin-left:4%;}
+.qbItem1 .fl span{display: block;color: #313131;font-size: 16px;margin: 12px 0 5px 0; }
+.qbItem1 .fr{color: #ff8b0f;line-height: 75px;margin-right:2%;width:30%;text-align: right;padding-right:16px;}
+.qbItem2{height: 50px;line-height: 50px;}
+.qbItem2 .fl{color: #898989;width: 30%;margin-left: 4%;}
+.qbItem2 .fl span{display: block;color: #313131;font-size: 16px; }
+.qbItem2 .fr{color: #898989;margin-right: 4%;width: 50%;text-align: right;padding-right: 20px;}
+.qbItem3 .fr{color:#d32f2f;}
+.qbInfo{margin: 20px 4% 0 4%;color: #898989;font-size: 16px;}
+.orderAppraise li{}
+/*Error404 2015.01.04*/
+.error404{width:60%;margin:40px auto;}
+.errorMsg{width:100%;text-align:center;}
+.errorIcon{display:block;font-size:550%;height:80px;line-height:1;background:url("../../images/m/bg/errorIcon.png") bottom no-repeat;background-size:100% 100%;}
+.errorIcon .txt{display:block;background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#c9c9c9), to(#949494));color:transparent;-webkit-background-clip: text;}
+.errorMsg .gray{line-height:2;}
+.error404 .loginSub{text-align:center;font-size:120%;line-height:2.5;}
+
+/*用户中心 2015.01.14*/
+.mebHelp{display: block;float: left;margin: 13px 0 0 5px;}
+.mebHelpClose{display: block;position: absolute;right: 10px;top:10px;}
+#mebHelp{position: absolute;width: 82%;background: #fff;border-radius:4px;box-shadow:0px 3px 4px 0px #dad9d9;-webkit-box-shadow:0px 3px 4px 0px #dad9d9;padding:4% 4% 10% 4%;left:5%;line-height: 25px; top:37%;display: none;}
+#mebHelp span{font-weight: bold;}
+.memberMain2{position: relative;}
+.mwLeft .mebHelp{display:inline;float:left;margin:-20px -108px 0 90px;}
+#clock{display:inline;font-size:14px;color:#898989}
+.qbInfo{margin: 20px 4% 0 4%;color: #333;font-size: 16px;}
+.qbInfo span{color: #d32f2f;}
+.wmMain #mebHelp{position: relative;margin: 3% 0;}
+/*Login Register password layout*/
+.loginForm{width:100%;margin:10px auto;}
+.loginForm .divInput{position:relative;}
+.loginForm .divInput .inputTxt{border:none;width:95%;height:45px;border-top:1px solid #dbdbdb;line-height:3;padding-left:5%;}
+.loginForm .divInput .bbot{border-bottom:1px solid #dbdbdb;}
+.loginForm .codeCon{}
+.loginForm .codeCon .sendCode{position:absolute;right:3%;top:7px;z-index:2;padding:0 5px;height:30px;line-height:2;border:1px solid #dbdbdb;border-radius:3px;background:#f3f3f3;color:#f23f36;}
+.loginForm .errorMessage{position:static;width:95%;margin:0;line-height:3;padding-left:5%;text-align:left;border-top:1px solid #dbdbdb;}
+.loginForm .codeCon .LFBut{position:absolute;right:3%;top:7px;z-index:2;border:none;background: url("../../images/m/bg/m_but2.png") no-repeat; background-size:100%; width:60px;height:31px;}
+.loginForm .codeCon .LFBut2{position:absolute;right:3%;top:7px;z-index:2;border:none;background: url("../../images/m/bg/m_but2.png") no-repeat; background-size:100%; width:60px;height:31px;}
+.loginForm .divInput .captchaImg{position:absolute;right:5%;top:9px;z-index:2;width:60px;border:1px solid #d6d6d6}
+.loginForm .divInput select.inputTxt{width:100%;}
+.loginForm .divInput select.inputTxt option{height:45px;min-height:45px;line-height:45px;border:1px solid #ccc;}
+.loginForm  label.errorMessage{display:block;}
+
+/*产品失效效果*/
+.failureList .failure{position:relative;}
+.failureList .failure a,.failureList .failure span{color:#ddd;}
+.ODItem  .failureList li{padding:10px 0;border-bottom:1px solid #dbdbdb;}
+.failureList li .liMask{display:none;}
+.failureList li .failureTag{width:30px;height:30px;text-align:center;color:red;margin:25px 10px 0 4%;font-size:0;line-height:50px;overflow:hidden;}
+.failureList .failure .liMask{display:block;position:absolute;width:100%;height:100%;top:0;left:0;background:#000;opacity:0.4;}
+.failureList .failure .failureTag{background:none;font-size:12px;line-height:25px;color:red}
+.failureList .failure img{opacity:0.5}
+.failureList .OSProducts{border:none;}
+.failureList .cartProducts{padding:0;width:84%;}
+
+/*我的钱包——红包兑换*/
+.dhForm .mwLeft{font-size:16px;color:#000;margin:0 4% 10px 4%;border-bottom:1px solid #d7d7d7;height:40px;line-height:40px;}
+.dhForm .formCon{padding:0 4%;line-height:45px;}
+.dhForm .formCon input{height:30px;padding-left:5px;border:1px solid #e5e5e5;border-radius:5px;}
+.dhForm .formCon .captchaImg{margin:10px 0 0 10px;}
+.dhForm .formCon .redCode{width:59%;}
+.dhForm .formCon .verifyCode{width:30%;margin-left:28px;}
+.dhForm .formCon .submitButton{margin:8px auto;padding:0;margin-left:110px;width:30%;height:35px;text-align:center;font-size:16px;line-height:30px;background:#ff3232;border:1px solid #ff3232;color:#fff;}
+.dhForm .formCon .errorMessage{color:red}

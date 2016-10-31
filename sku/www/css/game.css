@@ -1,0 +1,146 @@
+/*=====
+    @Date:2014-12-31
+    @author:Paddy
+ =====*/
+.mt15{ margin-top:15px;}
+
+/*--gamePay--20141230游戏充值支付*/
+.gamePayCont{ border:1px solid #ddd;margin-top:10px; font-family:"微软雅黑"; font-size:14px; padding-bottom:30px; }
+.gamePayCont h3.title{ background:#c83253; color:#fff; height:40px; line-height:40px; padding-left:20px; }
+.gamePayCont .gamePayTo{ padding:10px; margin:0 auto}
+.gamePayCont .gamePayTo .paySelect{margin:0 auto; line-height:20px;}
+.gamePayCont .gamePayTo .paySelect td{padding-top:10px;}
+.gamePayCont .gamePayTo input[type="radio"]{ margin-right:5px; vertical-align:middle;}
+.gamePayCont .gamePayTo .red{ color:#c90000;}
+.gamePayCont .gamePayTo .selUser{ line-height:30px; padding:5px;font-size:14px;}
+.gamePayCont .gamePayTo hr{ border:0; border-bottom:1px dashed #ddd;  width:900px; margin-top:20px;}
+.gamePayCont .gamePayTo .userInfo{ margin-top:10px;}
+.gamePayCont .gamePayTo .paySelect { text-align:left;}
+.gamePayCont .gamePayTo .paySelect td.w120{ width:120px;}
+.gamePayCont .gamePayTo .paySelect td.w250{ width:250px;}
+.gamePayCont .gamePayTo .paySelect .userAccount{ border:1px solid #ddd; line-height:30px;height:30px; width:240px; padding-left:5px; font-size:14px;}
+.gamePayCont .gamePayTo .selAmount,.gamePayCont .gamePayTo .selBank{margin:0 auto; margin-top:20px; width:900px;}
+.gamePayCont .gamePayTo .selAmount dt{ font-weight:bold; }
+.gamePayCont .gamePayTo .selAmount dd{ width:400px; margin-top:10px;}
+.gamePayCont .gamePayTo .selAmount dd.ddBlock{ width:100%;}
+.gamePayCont .gamePayTo .selAmount a{padding:5px; text-align:center; margin-right:10px; margin-top:10px; display:inline-block;}
+.gamePayCont .gamePayTo .selAmount a.amount{ border:1px solid #ddd; }
+.gamePayCont .gamePayTo .selAmount a.curr,.gamePayCont .gamePayTo .selAmount a:hover{border:1px solid #c83253; color:#c83253;}
+.gamePayCont .gamePayTo .selAmount .payAmount{ border:1px solid #ddd; line-height:30px;height:30px; width:100px; padding-left:5px; font-size:14px; margin:0 10px;}
+.gamePayCont .gamePayTo .selBank .bankList { margin-top:10px;}
+.gamePayCont .gamePayTo .selBank .bankList li{ float:left;}
+.gamePayCont .gamePayTo .selBank .bankList li span{ background-image:url(../images/bg/mbgifpic.gif); background-repeat:no-repeat; display:inline-block; width:115px; height:40px; vertical-align:middle;}
+.gamePayCont .gamePayTo .selBank .bankList li span.bank01{ background-position:-11px -42px;}
+.gamePayCont .gamePayTo .selBank .bankList li span.bank02{ background-position:-10px -6px;}
+.gamePayCont .gamePayTo .selBank .bankList li span.bank03{ background-position:-11px -152px;}
+.gamePayCont .gamePayTo .selBank .bankList li span.bank04{ background-position:-11px -190px;}
+.gamePayCont .gamePayTo .submitPay{ margin:0 auto; margin-top:10px; width:900px; text-align:center;}
+.gamePayCont .gamePayTo .submitPay input[type="submit"]{ padding:0 25px; height:36px; border-radius:5px; background:#c83253; text-align:center; line-height:36px; color:#FFF; font-size:18px; margin-top:30px; cursor:pointer; border:0 none; }
+
+
+/*游戏*/
+.gameBanner{ width:1200px; height:400px; margin:0 auto; position:relative; overflow:hidden;}
+.gameFlexslider{ position:relative; height:400px; background:url(../images/bgs/loading.gif) 50% no-repeat; overflow:hidden;}
+.gameFlexslider .slides{ position:relative; z-index:1;}
+.gameFlexslider .slides li{ height:400px; text-align:center; }
+.gameFlexslider .flex-control-nav{ position:absolute; bottom:16px; z-index:2; text-align:center; left:50%; width:100px; margin-left:-50px;}
+.gameFlexslider .flex-control-nav li{display:inline; width:14px; height:14px; margin:0 5px; float:left;  }
+.gameFlexslider .flex-control-nav a{display:block; width:12px; height:12px; border:1px solid #c83253; border-radius:6px; overflow:hidden; cursor:pointer; font-size:0; _background:#000;}
+.gameFlexslider .flex-control-nav .flex-active,.flexslider01 .flex-control-nav a:hover { background:#c83253;  }
+.gameFlexslider .flex-direction-nav{display:none; }
+.gameFlexslider .slides li a{ display:block; position:relative; width:100%; margin:0 auto; }
+.gameFlexslider .slides li a img{ width:1200px; margin:0 auto;}
+
+.gameLogin{ border-top:3px solid #c83253; width:220px; height:320px; padding:0 30px; position:absolute; right:40px; top:50px; background:#000; opacity:0.8; z-index:9;}
+.gameLogin h3{ font-size:18px; color:#fff; padding:20px 0 0; font-weight:500;}
+.gameLogin input.txt{ height:24px; line-height:24px; padding:5px;  border-radius:5px; border:1px solid #000; width:205px;}
+.gameLogin .forgetPass{ color:#fff; text-align:right;}
+.gameLogin .forgetPass a,.gameLogin .chargeCenter a{ color:#fff;}
+.gameLogin .btnSubmit{ background:#c83253; border-radius:5px; height:34px; line-height:34px; width:100%; color:#fff; font-size:14px; cursor:pointer;}
+.gameLogin .btnRegister{ background:#ddd; border-radius:5px; height:34px; line-height:34px; width:100%; color:#000; font-size:14px; display:block; text-align:center;}
+.gameLogin .chargeCenter{ color:#fff; text-align:center;} 
+
+
+.recomGame h3,.hotGame h3{font-size:18px; line-height:35px; border-bottom:3px solid #ff7a01;color:#ff7a01;}
+.recomGame h3 .en,.hotGame h3 .en{font-size:12px; font-weight:normal; margin-left:5px; color:#ff7a01;}
+.recomGame .items li{ float:left; text-align:center;  border:1px solid #ddd;width:250px;  padding:8px 8px 15px; border-radius:3px;  overflow:hidden; margin-left:25px; margin-top:10px; }
+.recomGame .items li img{padding:3px;}
+.recomGame .items li:hover{ border:3px solid #ff7a01; padding:6px 6px 13px;}
+.recomGame .items li p{ text-align:left;}
+.recomGame .items li p.des{ line-height:30px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; height:30px;}
+.recomGame .items .tit{font-size:18px; line-height:24px;}
+.recomGame .orange{ color:#c83253; font-size:16px;}
+
+.hotGame {float: left; width:852px;margin-left: 25px;}
+.hotGame .items li{ float:left; text-align:center;  border:1px solid #ddd; width: 250px;  padding:8px 8px 15px; border-radius:3px;  overflow:hidden; margin-right: 23px; margin-top:10px; }
+.hotGame .items li.mgRig0{ margin-right:0}
+.hotGame .items li img{width:216px; height:95px; padding-bottom:5px;}
+.hotGame .items li:hover{ border:1px solid #ff7a01; }
+.hotGame .items li p{ text-align:left;}
+.hotGame .items .tit{font-size:14px; line-height:24px; padding-left:18px;}
+.hotGame .btnPlayGame{ color:#c83253; border:1px solid #ddd; border-radius:3px; background:#ff7a01; color:#FFF; float:right; padding:5px 10px; box-shadow:0 0 10px #ddd; clear:both;}
+
+.rankList{float:left;  width: 248px; border:1px solid #ff7a01; padding:10px;margin-left: 25px;}
+.rankList h3{ font-size:18px;color:#ff7a01;border-left:4px solid #ff7a01; padding-left:5px;}
+.rankList .hotList a{ display:block; margin-top:5px; line-height:30px; font-size:14px; border-bottom:1px dashed #ddd;}
+.rankList .hotList a span{ float:right; padding-right:10px; color:#7B7979;}
+.rankList .hotList a i{ background:#ff7a01;  padding:0 5px; text-align:center; text-align:center; margin-right:5px; height:8px; border:1px solid #fff; color:#fff;}
+
+
+/*动漫*/
+.gameComic .comicLeft,.gameComic .comicMidd{ float:left; }
+.gameComic .comicLeft{ margin-right:5px;border:1px solid #c83253; }
+.gameComic .comicMidd{ }
+.gameComic .comicMidd span{  display:block; border:1px solid #ddd;  }
+.gameComic .comicMidd span.borderTop0{ border-top:0; margin-top:4px;}
+.gameComic .comicMidd span.borderBt0{ border-bottom:0}
+.gameComic .comicRig{ float:right;border:1px solid #ddd; }
+/*模型*/
+.gameComic .porductList .recommProd h3{font-size:18px; line-height:35px; border-bottom:3px solid #3096e5;  color:#3096e5;}
+.gameComic .porductList .recommProd h3 .en{font-size:12px; font-weight:normal; margin-left:5px;}
+.gameComic .porductList .recommProd ul li{ float:left; text-align:center;  border:1px solid #ddd;width:180px; height:280px; padding:8px 4px 15px; border-radius:3px;  overflow:hidden; margin-right:10px; margin-top:10px; }
+.gameComic .porductList .recommProd ul li.mgRig0{ margin-right:0;}
+.gameComic .porductList .recommProd ul li img{ width:180px; height:220px; overflow:hidden;}
+.gameComic .porductList .recommProd ul li:hover{ border:3px solid #ff7a01; padding:6px 2px 13px;}
+.gameComic .porductList .recommProd ul li p{ text-align:left;}
+.gameComic .porductList .recommProd ul .tit{font-size:12px; line-height:30px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; height:30px;}
+.gameComic .orange{ color:#c83253; font-size:16px;}
+
+.gameComic .recommLeft{ float:left; width:852px; overflow:hidden;}
+.gameComic .recommLeft h3{font-size:18px; line-height:35px; border-bottom:3px solid #3096e5;  color:#3096e5;}
+.gameComic .recommLeft h3 .en{font-size:12px; font-weight:normal; margin-left:5px;}
+.gameComic .recommLeft ul li{ float:left; text-align:center;  border:1px solid #ddd;width:180px; height:280px; padding:8px 8px 15px; border-radius:3px;  overflow:hidden; margin-right:20px; margin-top:10px; }
+.gameComic .recommLeft ul li.mgRig0{ margin-right:0;}
+.gameComic .recommLeft ul li img{ width:180px; height:220px; overflow:hidden;}
+.gameComic .recommLeft ul li:hover{ border:3px solid #ff7a01; padding:6px 6px 13px;}
+.gameComic .recommLeft ul li p{ text-align:left;}
+.gameComic .recommLeft ul .tit{ line-height:30px; overflow:hidden; color:#A39F9F; text-overflow:ellipsis; white-space:nowrap; height:30px;}
+.gameComic .recommLeft .blue{ color:#558bd9;font-size:14px;}
+
+.gameComic .orange{ color:#c83253; font-size:16px;}
+.gameComic .right{float:right; width:295px;}
+.gameComic .recommRig{  border:1px solid #ddd; padding:10px;}
+.gameComic .recommRig h3{ font-size:18px;color:#3096e5;border-left:4px solid #3096e5; padding-left:5px;}
+.gameComic .recommRig .hotList a{ display:block; margin-top:6px; line-height:30px; font-size:14px; border-bottom:1px dashed #ddd;}
+.gameComic .recommRig .hotList a span{ float:right; padding-right:10px; color:#7B7979;}
+.gameComic .recommRig .hotList a i{ background:#3096e5;  padding:0 5px; text-align:center; text-align:center; margin-right:5px; height:8px; border:1px solid #fff; color:#fff;}
+
+.gameComic .topRec h3{font-size:18px; line-height:35px; border-bottom:3px solid #3096e5;  color:#3096e5;}
+.gameComic .topRec h3 .en{font-size:12px; font-weight:normal; margin-left:5px;}
+.gameComic .topRec .listLeft{ position:relative; float:left; width:410px; margin-right:20px;}
+.gameComic .topRec .listLeft img{padding-bottom:8px;}
+.gameComic .topRec .listLeft .series{text-align:right; color:#ccc; font-size:12px; position:absolute; top:235px; right:10px;}
+.gameComic .topRec .listLeft p,.gameComic .topRec .listRig p{ line-height:20px;}
+.gameComic .topRec .listLeft .titSub,.gameComic .topRec .listRig .titSub{color:gray;}
+.gameComic .topRec .listRig{float:right; width:770px;}
+.gameComic .topRec .listRig li{ float:left; width:170px; position:relative; padding-bottom:10px;  margin-right:20px; overflow:hidden;}
+.gameComic .topRec .listRig li img{width:170px; height:100px; padding-bottom:8px;}
+.gameComic .topRec .listRig .series{text-align:right; color:#ccc; font-size:12px; position:absolute; top:80px; right:10px;}
+
+
+/*未成年人家长监护工程*/
+.gameSuper .ad{ width:1200px; height:400px;}
+.gameSuper .superCont h3{ border-bottom:1px solid #ddd; font-size:18px; padding-left:5px; margin-bottom:10px; color:#c83253; font-family:"微软雅黑"}
+.gameSuper .superCont p{ text-indent:30px; line-height:30px; font-size:16px; }
+.gameSuper .superCont p.padd{padding:20px 0;}
+.gameSuper .superCont h4{ margin-top:20px; padding-bottom:10px; font-size:18px;}

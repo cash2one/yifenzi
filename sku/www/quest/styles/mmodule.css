@@ -1,0 +1,130 @@
+@charset "utf-8";
+/*=====
+    @Date:2015-11-4
+    @author:小稼
+    @email:2283616911@qq.com;
+ =====*/
+/*--- 全局样式表 ---*/
+*{-webkit-tap-highlight-color:rgba(0, 0, 0, 0); outline:0; -webkit-appearance:none;}
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,legend,input,textarea,button,select { margin:0; padding:0;}
+body,input,textarea,select,button,table { font-size:16px; line-height:1.5;}
+body{ min-width:320px; max-width:640px;background: #efefef;font-size:14px; font-family:"Microsoft YaHei","Verdana","Arial"; color:#000; -webkit-text-size-adjust:none; margin:0 auto;}
+img,fieldset{ border:0;}
+ol,ul,li{ list-style:none;}
+em,i,address{ font-style:normal;}
+table{ border-collapse:collapse; border-spacing:0;}
+a{ color:#000; text-decoration:none; cursor:pointer; }
+a:hover{color:#ff5722; text-decoration:none;}
+img{display: inline-block;vertical-align: middle;}
+
+.clear { clear:both; display: block; overflow:hidden; visibility:hidden; width:0;height:0;}
+
+.clearfix:after { clear:both; content:'.'; display:block; visibility:hidden; height:0;}
+.clearfix {display:inline-block;}
+* html .clearfix {height:1%;}
+.clearfix {display:block;}
+*+html .clearfix{min-height:1%;}
+
+.red{ color:#f24421;}
+.orange{color: #e0b54f;}
+.gray{color: #7d7d7d;}
+
+.fl{ float:left; }
+.fr{ float:right; }
+
+.mt10{ margin-top:10px; }
+.ml10{ margin-left:20px; }
+.mr10{ margin-right:10px;}
+
+.pt10{ padding-top:10px;}
+.pl10{ padding-left:10px;}
+.pr10{ padding-right:10px;}
+
+.ta-l{ text-align:left;}
+.ta-c{ text-align:center;}
+.ta-r{ text-align:right;}
+
+.hide{display: none;}
+
+/*--- 模块化样式  20151106 吴晓兵---*/
+.wrap{min-width: 320px;max-width: 640px;background: #fff;margin:auto;}
+@media(max-width:370px){
+	.container{padding:2em 0;}
+	.introduction{padding:0.9em 0;}
+	.form-header{padding:1.5em 0 0;}
+	.form-row{padding:1em 0;font-size:0.9em;}
+	.form-row h3{font-size: 1em;}
+	.form-row .checkbox,.form-row .radio{width: 11px;height: 11px;}
+	.form-row .input-box{height: 2.3em;padding-left: 1em;font-size: 0.9em;}
+	.form-row .food-list label{margin-right: 6px;}
+	.form-row .address{line-height: 4em;}
+	.product-list label{margin-right: 0.7em;}
+	.contact-box .user-box{height: 3.2em;background: url(../images/bg/user-smaller.png) 6% 50% no-repeat;border-bottom: 1px solid #bfbfbf;padding-left: 3.5em;}
+	.contact-box .phone-box{height: 3.2em;background: url(../images/bg/phone-smaller.png) 6% 50% no-repeat;padding-left: 3.5em;}
+	.submit-btn{width: 6em;height: 1.95em;background: url(../images/bg/submit-btn-smaller.png) no-repeat;border:none;cursor: pointer;}
+	.footer{margin-top:1.5em;}
+	.address-box .city-box{height: 3.2em;border-bottom: 1px solid #bfbfbf;}
+	.address-box .address-detail{height: 3.2em;background: url(../images/bg/user-smaller.png) 6% 50% no-repeat;padding-left: 2.5em;}
+}
+@media(min-width: 370px){
+	.container{padding:2.2em 0;}
+	.introduction{padding:1.2em 0;}
+	.form-header{padding:1.8em 0 0;}
+	.form-row{padding:1.3em 0;font-size:1em;}
+	.form-row h3{font-size: 1em;}
+	.form-row .checkbox,.form-row .radio{width: 13px;height: 13px;}
+	.form-row .input-box{padding-left: 1.87em;font-size: 0.9em;}
+	.form-row .food-list label{margin-right: 15px;}
+	.form-row .address{line-height: 3.5em;}
+	.product-list label{width: 24%;}
+	.contact-box .user-box{height: 3.4em;background: url(../images/bg/user-small.png) 6% 50% no-repeat;border-bottom: 1px solid #bfbfbf;padding-left: 4em;}
+	.contact-box .phone-box{height: 3.4em;background: url(../images/bg/phone-small.png) 6% 50% no-repeat;padding-left: 4em;}
+	.submit-btn{width: 9.5em;height: 3.12em;background: url(../images/bg/submit-btn-small.png) no-repeat;border:none;cursor: pointer;}
+	.footer{margin-top:3.44em;}
+	.address-box .city-box{height: 3.3em;border-bottom: 1px solid #bfbfbf;}
+	.address-box .address-detail{height: 3.3em;background: url(../images/bg/address-small.png) 6% 50% no-repeat;padding-left: 3em;}
+}
+@media(min-width: 500px){
+	.form-row{padding:1.5em 0;font-size:1.2em;}
+}
+@media(min-width: 600px){
+	.container{padding:3em 0;}
+	.introduction{padding:1.8em 0;}
+	.form-header{padding:2.25em 0 0;}
+	.form-row{padding:1.68em 0;font-size:1.4em;}
+	.form-row h3{font-size: 1em;}
+	.form-row .checkbox,.form-row .radio{width: 15px;height: 15px;}
+	.form-row .input-box{padding-left: 1.87em;}
+	.form-row .food-list label{width: 32.5%;margin-right: 0;}
+	.form-row .address{line-height: 3.3em;}
+	.product-list label{width: 24%;}
+	.contact-box .user-box{height: 3.66em;background: url(../images/bg/user.png) 6% 50% no-repeat;border-bottom: 1px solid #bfbfbf;padding-left: 4.6em;}
+	.contact-box .phone-box{height: 3.66em;background: url(../images/bg/phone.png) 6% 50% no-repeat;padding-left: 4.6em;}
+	.submit-btn{width: 11.87em;height: 3.9em;background: url(../images/bg/submit-btn.png) no-repeat;border:none;cursor: pointer;}
+	.footer{margin-top:3.44em;}
+	.address-box .city-box{height: 3.5em;border-bottom: 1px solid #bfbfbf;}
+	.address-box .address-detail{height: 3.5em;background: url(../images/bg/address.png) 6% 50% no-repeat;padding-left: 3.6em;}
+}
+.container{width: 85%;margin:auto;box-sizing:border-box;}
+.header img,.introduction img{width: 100%;height: auto;margin:auto;}
+.header .logo{display: block;width: 28%;height: auto;float: left;}
+.header .slogan{width: 27.9%;height: auto;margin:0.53em 0;float: right;}
+.introduction{margin:auto;border-bottom: 1px dashed #d4d5d5;}
+.form-header{text-align: center;}
+.form-header img{width: 70%;height: auto;margin:auto;}
+.form-row{border-bottom: 1px dashed #d4d5d5;font-family: "微软雅黑";color:#13615a;font-weight: 500;}
+.form-row h3{font-weight: 500;}
+.form-row label{display: inline-block;line-height: 2.5em;vertical-align: middle; box-sizing:border-box;}
+.form-row label span{vertical-align: middle;}
+.form-row .hot-city label{margin-right: 3.75em;}
+.form-row .radio{display: inline-block;vertical-align: middle;-webkit-appearance:radio;-moz-appearance:radio;}
+.form-row .checkbox{display: inline-block;vertical-align: middle;-webkit-appearance:checkbox;-moz-appearance:checkbox;}
+.form-row .input-box{min-width:75%;height: 2.81em;background: url(../images/bg/input-box.png);border:1px solid #8d8e95;border-radius:2px; font-family: "微软雅黑";vertical-align: middle;box-sizing:border-box;}
+.form-row.contact{border-bottom: none;}
+.contact-box{margin:1.25em 0 0; border:1px solid #808080;border-radius: 8px;}
+.contact-box .input-box{width: 100%;height: 100%;background: none;border:none;padding-left: 0;}
+.footer img{width: 56.5%;height: auto;}
+.address-box{margin:0.5em 0 0; border:1px solid #808080;border-radius: 8px;}
+.address-box .input-box{width: 100%;height: 100%;background: none;border:none;}
+.address-box .city-box .input-box{cursor: pointer;}
+.city-box select{width: 28%;height: 100%;border:none;margin-left: 10px;font-family: "微软雅黑"; font-size: 1em;}

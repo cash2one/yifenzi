@@ -1,0 +1,1368 @@
+/*=====
+    @Date:2014-03-31
+    @author:bozhen_xiong
+ =====*/
+@charset "utf-8";
+/* CSS Document */
+/**优生活专题*/
+.betterLife {margin:0 auto}
+.betterLife .header{ min-width:990px; height:442px;  margin:0 auto; cursor:pointer;}
+.betterLife .wrapper{ margin:0 auto; background:url(../images/folder/youshenghuo/image001.jpg) no-repeat; width:990px ; height:3621px; position:relative }
+.betterLife .wrapper .a1{
+    position:absolute;
+    left:5px;
+    top:5px;
+    width:415px;
+    height:373px;
+}
+.betterLife .wrapper .a2{
+    position:absolute;
+    left:432px;
+    top:10px;
+    width:279px;
+    height:369px;
+}
+.betterLife .wrapper .a3{
+    position:absolute;
+    left:732px;
+    top:8px;
+    width:254px;
+    height:166px;
+}
+.betterLife .wrapper .a4{
+    position:absolute;
+    left:735px;
+    top:181px;
+    width:249px;
+    height:199px;
+}
+.betterLife .wrapper .a5{
+    position:absolute;
+    left:7px;
+    top:390px;
+    width:522px;
+    height:453px;
+}
+.betterLife .wrapper .a6{
+    position:absolute;
+    left:529px;
+    top:390px;
+    width:451px;
+    height:453px;
+}
+.betterLife .wrapper .a7{
+    position:absolute;
+    left:8px;
+    top:851px;
+    width:307px;
+    height:368px;
+}
+.betterLife .wrapper .a8{
+    position:absolute;
+    left:341px;
+    top:851px;
+    width:308px;
+    height:367px;
+}
+.betterLife .wrapper .a9{
+    position:absolute;
+    left:673px;
+    top:851px;
+    width:308px;
+    height:371px;
+}
+.betterLife .wrapper .a10{
+    position:absolute;
+    left:7px;
+    top:1230px;
+    width:980px;
+    height:454px;
+}
+.betterLife .wrapper .a11{
+    position:absolute;
+    left:5px;
+    top:1692px;
+    width:306px;
+    height:369px;
+}
+.betterLife .wrapper .a12{
+    position:absolute;
+    left:338px;
+    top:1689px;
+    width:310px;
+    height:374px;
+}
+.betterLife .wrapper .a13{
+    position:absolute;
+    left:672px;
+    top:1692px;
+    width:307px;
+    height:369px;
+}
+.betterLife .wrapper .a14{
+    position:absolute;
+    left:6px;
+    top:2076px;
+    width:975px;
+    height:390px;
+}
+.betterLife .wrapper .a15{
+    position:absolute;
+    left:7px;
+    top:2483px;
+    width:228px;
+    height:322px;
+}
+.betterLife .wrapper .a16{
+    position:absolute;
+    left:252px;
+    top:2480px;
+    width:237px;
+    height:326px;
+}
+.betterLife .wrapper .a17{
+    position:absolute;
+    left:502px;
+    top:2483px;
+    width:233px;
+    height:322px;
+}
+.betterLife .wrapper .a18{
+    position:absolute;
+    left:749px;
+    top:2476px;
+    width:235px;
+    height:330px;
+}
+.betterLife .wrapper .a19{
+    position:absolute;
+    left:9px;
+    top:2812px;
+    width:271px;
+    height:280px;
+}
+.betterLife .wrapper .a20{
+    position:absolute;
+    left:306px;
+    top:2810px;
+    width:427px;
+    height:273px;
+}
+.betterLife .wrapper .a21{
+    position:absolute;
+    left:750px;
+    top:2811px;
+    width:231px;
+    height:268px;
+}
+.betterLife .wrapper .a22{
+    position:absolute;
+    left:13px;
+    top:3104px;
+    width:260px;
+    height:303px;
+}
+.betterLife .wrapper .a23{
+    position:absolute;
+    left:337px;
+    top:3088px;
+    width:376px;
+    height:326px;
+}
+.betterLife .wrapper .a24{
+    position:absolute;
+    left:754px;
+    top:3087px;
+    width:224px;
+    height:318px;
+}
+.betterLife .wrapper .a25{
+    position:absolute;
+    left:207px;
+    top:3430px;
+    width:591px;
+    height:120px;
+}
+
+/**和春天约会专题*/
+.zt403{width:100%;}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12{width:100%; display:inline-block; overflow:hidden;}
+.p1{height:404px;background:url(../images/folder/chunyou/p1.jpg) top center no-repeat;}
+.p2{height:317px;background:url(../images/folder/chunyou/p2.jpg) top center no-repeat;}
+.p3{height:599px;background:url(../images/folder/chunyou/p3.jpg) top center no-repeat;}
+.p4{height:800px;background:url(../images/folder/chunyou/p4.jpg) top center no-repeat;}
+.p5{height:380px;background:url(../images/folder/chunyou/p5.jpg) top center no-repeat;}
+.p6{height:779px;background:url(../images/folder/chunyou/p6.jpg) top center no-repeat;}
+.p7{height:779px;background:url(../images/folder/chunyou/p7.jpg) top center no-repeat;}
+.p8{height:780px;background:url(../images/folder/chunyou/p8.jpg) top center no-repeat;}
+.p9{height:779px;background:url(../images/folder/chunyou/p9.jpg) top center no-repeat;}
+.p10{height:373px;background:url(../images/folder/chunyou/p10.jpg) top center no-repeat;}
+.p11{height:1219px;background:url(../images/folder/chunyou/p11.jpg) top center no-repeat;}
+.p12{height:703px;background:url(../images/folder/chunyou/p12.jpg) top center no-repeat;}
+
+.pCon{ width:1200px; margin:0 auto; position:relative;}
+.p3 .pCon  a{width:280px; height:540px; position:absolute; display:block;}
+.p3 .pCon .a1{ left:115px; top:0; }
+.p3 .pCon .a2{ left:465px; top:0; }
+.p3 .pCon .a3{ right:100px; top:0; }
+
+.p4 .pCon  a{width:260px; height:380px; position:absolute; display:block;}
+.p4 .pCon .a1{ left:30px; top:0; }
+.p4 .pCon .a2{ left:325px; top:0; }
+.p4 .pCon .a3{ left:615px; top:0; }
+.p4 .pCon .a4{ right:30px; top:0; }
+.p4 .pCon .a5{ left:30px; top:410px; }
+.p4 .pCon .a6{ left:325px; top:410px; }
+.p4 .pCon .a7{ left:615px; top:410px; }
+.p4 .pCon .a8{ right:30px; top:410px; }
+
+.pa .pCon  a{width:330px; height:290px;position:absolute; display:block;}
+.pa .pCon .a1{width:615px; height:370px; right:95px; top:40px; }
+.pa .pCon .a2{ left:90px; top:430px; }
+.pa .pCon .a3{ left:430px; top:430px; }
+.pa .pCon .a4{ right:95px; top:430px; }
+
+.p11 .pCon  a{width:370px; height:205px; position:absolute; display:block; }
+.p11 .pCon .a1{width:335px; height:200px; left:30px; top:460px; }
+.p11 .pCon .a2{width:780px; height:445px; left:30px; top:0; }
+.p11 .pCon .a3{width:335px; height:200px; right:30px; top:0; }
+.p11 .pCon .a4{left:30px; top:686px; }
+.p11 .pCon .a5{width:345px; height:200px; left:128px; top:460px; }
+.p11 .pCon .a6{left:415px; top:686px; }
+.p11 .pCon .a7{ width:335px; height:445px; right:30px; top:220px; }
+.p11 .pCon .a8{ right:30px; top:686px; }
+.p11 .pCon .a9{ left:30px; top:910px; }
+.p11 .pCon .a10{ right:415px; top:910px; }
+.p11 .pCon .a11{ right:30px; top:910px; }
+
+.p12 .pCon  a{width:515px; height:125px;position:absolute; display:block;}
+.p12 .pCon .a1{left:75px; top:360px; }
+.p12 .pCon .a2{ right:75px; top:360px; }
+.p12 .pCon .a3{ left:75px; top:505px; }
+.p12 .pCon .a4{ right:75px; top:505px; }
+
+/*盖网优生活第六期 五一黄金周出游季*/
+.ysh6_1{height:1009px;background:url(../images/folder/51/ysh01.jpg) top center no-repeat;}
+.ysh6_2{height:1356px;background:url(../images/folder/51/ysh02.jpg) top center no-repeat;}
+.ysh6_3{height:1365px;background:url(../images/folder/51/ysh03.jpg) top center no-repeat;}
+
+.ysh6_1 .pCon  a{width:305px; height:135px; position:absolute; display:block;}
+.ysh6_1 .pCon .a1{ left:133px; top:344px; }
+.ysh6_1 .pCon .a2{ left:450px; top:344px; }
+.ysh6_1 .pCon .a3{ right:125px; top:344px; }
+.ysh6_1 .pCon .a4{width:130px; height:35px; left:475px; top:563px; }
+
+.ysh6_2 .pCon  a{width:310px; height:375px; position:absolute; display:block;}
+.ysh6_2 .pCon .a1{ left:125px; top:0; }
+.ysh6_2 .pCon .a2{ left:445px; top:0; }
+.ysh6_2 .pCon .a3{ right:125px; top:0; }
+.ysh6_2 .pCon .a4{ left:125px; top:450px; }
+.ysh6_2 .pCon .a5{ left:445px; top:450px; }
+.ysh6_2 .pCon .a6{ right:125px; top:450px; }
+.ysh6_2 .pCon .a7{ left:125px; top:900px; }
+.ysh6_2 .pCon .a8{ left:445px; top:900px; }
+.ysh6_2 .pCon .a9{ right:125px; top:900px;}
+
+.ysh6_3 .pCon  a{width:310px; height:375px; position:absolute; display:block;}
+.ysh6_3 .pCon .a1{ width:950px; height:400px; left:123px; top:0; }
+.ysh6_3 .pCon .a2{ left:125px; top:410px; }
+.ysh6_3 .pCon .a3{ left:445px; top:410px; }
+.ysh6_3 .pCon .a4{ right:125px; top:410px; }
+
+.ysh6_3 .pCon .a5{ left:125px; top:795px; }
+.ysh6_3 .pCon .a6{ left:445px; top:795px; }
+.ysh6_3 .pCon .a7{ right:125px; top:795px; }
+
+.ysh6_3 .pCon .a8{ width:310px; height:130px;left:445px; top:1225px; }
+
+
+
+
+/*我是奶爸——奶爸当家季专题*/
+.dads1{height:434px;background:url(../images/folder/woshinaiba/nb01.jpg) top center no-repeat;}
+.dads2{height:242px;background:url(../images/folder/woshinaiba/nb02.jpg) top center no-repeat;}
+.dads3{height:306px;background:url(../images/folder/woshinaiba/nb03.jpg) top center no-repeat;}
+.dads4{height:168px;background:url(../images/folder/woshinaiba/nb04.jpg) top center no-repeat;}
+.dads5{height:613px;background:url(../images/folder/woshinaiba/nb05.jpg) top center no-repeat;}
+.dads6{height:167px;background:url(../images/folder/woshinaiba/nb06.jpg) top center no-repeat;}
+.dads7{height:582px;background:url(../images/folder/woshinaiba/nb07.jpg) top center no-repeat;}
+.dads8{height:165px;background:url(../images/folder/woshinaiba/nb08.jpg) top center no-repeat;}
+.dads9{height:583px;background:url(../images/folder/woshinaiba/nb09.jpg) top center no-repeat;}
+.dads10{height:167px;background:url(../images/folder/woshinaiba/nb10.jpg) top center no-repeat;}
+.dads11{height:582px;background:url(../images/folder/woshinaiba/nb11.jpg) top center no-repeat;}
+.dads12{height:166px;background:url(../images/folder/woshinaiba/nb12.jpg) top center no-repeat;}
+.dads13{height:592px;background:url(../images/folder/woshinaiba/nb13.jpg) top center no-repeat;}
+.dads14{height:259px;background:url(../images/folder/woshinaiba/nb14.jpg) top center no-repeat;}
+
+.dads3 .pCon  a{width:230px; height:275px; position:absolute; display:block;}
+.dads3 .pCon .a1{width:505px; height:275px; left:110px; top:0; }
+.dads3 .pCon .a2{ left:622px; top:0; }
+.dads3 .pCon .a3{ right:110px; top:0; }
+
+.dads5 .pCon  a{width:235px; height:275px; position:absolute; display:block;}
+.dads5 .pCon .a1{width:975px; height:300px; left:110px; top:0; }
+.dads5 .pCon .a2{ left:110px; top:305px; }
+.dads5 .pCon .a3{ left:355px; top:305px;}
+.dads5 .pCon .a4{ width:240px;right:355px; top:305px;}
+.dads5 .pCon .a5{ right:110px; top:305px;}
+
+.dA .pCon  a{width:235px; height:280px; position:absolute; display:block;}
+.dA .pCon .a1{width:483px; height:263px; left:110px; top:0; }
+.dA .pCon .a2{width:483px; height:263px;  right:110px; top:0; }
+.dA .pCon .a3{ left:110px; top:270px;}
+.dA .pCon .a4{left:360px; top:270px;}
+.dA .pCon .a5{ right:360px; top:270px;}
+.dA .pCon .a6{ right:110px; top:270px;}
+
+.dads13 .pCon  a{width:235px; height:277px; position:absolute; display:block;}
+.dads13 .pCon .a1{width:483px; height:273px; left:108px; top:0; }
+.dads13 .pCon .a2{height:273px; right:360px; top:0; }
+.dads13 .pCon .a3{ height:273px; right:115px; top:0;}
+.dads13 .pCon .a4{ left:108px; top:280px;}
+.dads13 .pCon .a5{left:355px; top:280px;}
+.dads13 .pCon .a6{ right:360px; top:280px;}
+.dads13 .pCon .a7{ right:115px; top:280px;}
+
+/*盖网优生活第七期-青年团购日*/
+.ysh7_1{height:250px;background:url(../images/folder/54/ysh701.jpg) top center no-repeat;}
+.ysh7_2{height:1146px;background:url(../images/folder/54/ysh702.jpg) top center no-repeat;}
+.ysh7_3{height:500px;background:url(../images/folder/54/ysh703.jpg) top center no-repeat;}
+.ysh7_4{height:747px;background:url(../images/folder/54/ysh704.jpg) top center no-repeat;}
+.ysh7_5{height:480px;background:url(../images/folder/54/ysh705.jpg) top center no-repeat;}
+.ysh7_6{height:460px;background:url(../images/folder/54/ysh706.jpg) top center no-repeat;}
+.ysh7_7{height:480px;background:url(../images/folder/54/ysh707.jpg) top center no-repeat;}
+.ysh7_8{height:408px;background:url(../images/folder/54/ysh708.jpg) top center no-repeat;}
+.ysh7_9{height:529px;background:url(../images/folder/54/ysh709.jpg) top center no-repeat;}
+
+.ysh7_2 .pCon  a{width:312px; height:340px; position:absolute; display:block;}
+.ysh7_2 .pCon .a1{ left:123px; top:0; }
+.ysh7_2 .pCon .a2{ left:440px; top:0; }
+.ysh7_2 .pCon .a3{ right:130px; top:0; }
+.ysh7_2 .pCon .a4{ left:123px; top:385px; }
+.ysh7_2 .pCon .a5{ left:440px; top:385px; }
+.ysh7_2 .pCon .a6{ right:130px; top:385px; }
+.ysh7_2 .pCon .a7{ left:123px; top:765px; }
+.ysh7_2 .pCon .a8{ left:440px; top:765px; }
+.ysh7_2 .pCon .a9{ right:130px; top:765px;}
+
+.ysh7_3 .pCon  a{width:600px; height:435px; position:absolute;right:150px; top:25px; display:block;}
+.ysh7_4 .pCon  a{width:415px; height:535px; position:absolute; display:block;}
+.ysh7_4 .pCon .a1{ width:415px; height:535px;left:130px; top:190px; }
+.ysh7_4 .pCon .a2{ width:390px; height:430px;right:140px; top:0px; }
+.ysh7_4 .pCon .a3{ width:470px; height:300px;right:140px; top:440px; }
+
+.ysh7_5 .pCon  a{width:620px; height:440px; position:absolute;right:140px; top:20px; display:block;}
+.ysh7_6 .pCon  a{width:670px; height:410px; position:absolute;left:140px; top:25px; display:block;}
+.ysh7_7 .pCon  a{width:660px; height:460px; position:absolute;right:140px; top:3px; display:block;}
+.ysh7_8 .pCon  a{width:630px; height:375px; position:absolute;left:135px; top:20px; display:block;}
+
+.ysh7_9 .pCon  a{height:415px; position:absolute; display:block;}
+.ysh7_9 .pCon .a1{ width:440px;left:137px; top:0; }
+.ysh7_9 .pCon .a2{ width:460px;right:137px; top:0; }
+.ysh7_9 .pCon .a3{ width:450px; height:84px;right:370px; top:444px; }
+
+/*男人专版*/
+.men1{height:399px;background:url(../images/folder/men/men01.jpg) top center rgb(0,0,0) no-repeat;}
+.men2{height:295px;background:url(../images/folder/men/men02.jpg) top center no-repeat;}
+.men3{height:150px;background:url(../images/folder/men/men03.jpg) top center no-repeat;}
+.men4{height:350px;background:url(../images/folder/men/men04.jpg) top center no-repeat;}
+.men5{height:150px;background:url(../images/folder/men/men05.jpg) top center no-repeat;}
+.men6{height:350px;background:url(../images/folder/men/men06.jpg) top center no-repeat;}
+.men7{height:150px;background:url(../images/folder/men/men07.jpg) top center no-repeat;}
+.men8{height:395px;background:url(../images/folder/men/men08.jpg) top center no-repeat;}
+.men9{height:150px;background:url(../images/folder/men/men09.jpg) top center no-repeat;}
+.men10{height:350px;background:url(../images/folder/men/men10.jpg) top center no-repeat;}
+.men11{height:150px;background:url(../images/folder/men/men11.jpg) top center no-repeat;}
+.men12{height:350px;background:url(../images/folder/men/men12.jpg) top center no-repeat;}
+.men13{height:150px;background:url(../images/folder/men/men13.jpg) top center no-repeat;}
+.men14{height:404px;background:url(../images/folder/men/men14.jpg) top center no-repeat;}
+.men15{height:207px;background:url(../images/folder/men/men15.jpg) top center no-repeat;}
+
+.men2 .pCon  a{width:380px; height:210px; position:absolute; display:block;}
+.men2 .pCon .a1{ left:23px; top:60px; }
+.men2 .pCon .a2{ right:23px; top:60px; }
+
+.men4 .pCon  a{width:280px; height:158px; position:absolute; display:block;}
+.men4 .pCon .a1{ width:578px; height:330px; left:15px; top:10px; }
+.men4 .pCon .a2{ right:15px; top:9px;}
+.men4 .pCon .a3{ right:311px; top:9px; }
+.men4 .pCon .a4{ right:15px; top:182px;}
+.men4 .pCon .a5{ right:311px; top:182px;}
+
+.men6 .pCon  a{width:280px; height:158px; position:absolute; display:block;}
+.men6 .pCon .a1{ width:578px; height:330px; right:15px; top:10px; }
+.men6 .pCon .a2{ left:15px; top:9px;}
+.men6 .pCon .a3{ left:311px; top:9px; }
+.men6 .pCon .a4{ left:15px; top:182px;}
+.men6 .pCon .a5{ left:311px; top:182px; }
+
+.men8 .pCon  a{width:280px; height:115px; position:absolute; display:block; }
+.men8 .pCon .a1{height:180px;left:15px; top:10px; }
+.men8 .pCon .a2{height:180px;left:15px; top:203px;}
+.men8 .pCon .a3{width:578px; height:375px; left:311px; top:9px; }
+.men8 .pCon .a4{ right:15px; top:9px;}
+.men8 .pCon .a5{ right:15px; top:138px; }
+.men8 .pCon .a6{ right:15px; top:268px; }
+
+.men10 .pCon  a{width:280px; height:158px; position:absolute; display:block;border:1px solid #c90000}
+.men10 .pCon .a1{ width:578px; height:330px; left:15px; top:10px; }
+.men10 .pCon .a2{ right:15px; top:9px;}
+.men10 .pCon .a3{ right:311px; top:9px; }
+.men10 .pCon .a4{ right:15px; top:182px;}
+.men10 .pCon .a5{ right:311px; top:182px;}
+
+.men12 .pCon  a{width:280px; height:158px; position:absolute; display:block;}
+.men12 .pCon .a1{ width:430px; height:330px; left:15px; top:9px; }
+.men12 .pCon .a2{ left:460px; top:9px;}
+.men12 .pCon .a3{ left:460px; top:182px; }
+.men12 .pCon .a4{ width:430px; height:330px;right:15px; top:9px;}
+
+.men14 .pCon  a{width:280px; height:115px; position:absolute; display:block; }
+.men14 .pCon .a1{left:15px; top:14px;  }
+.men14 .pCon .a2{left:15px; top:143px;}
+.men14 .pCon .a3{left:15px; top:273px;}
+.men14 .pCon .a4{ width:578px; height:375px; left:311px; top:14px;}
+.men14 .pCon .a5{ height:180px;right:15px;top:14px; }
+.men14 .pCon .a6{ height:180px;right:15px; top:208px; }
+
+/*盖网美酒——一杯子的幸福专版*/
+.wine1{height:349px;background:url(../images/folder/wine/wine01.jpg) top center no-repeat;}
+.wine2{height:188px;background:url(../images/folder/wine/wine02.jpg) top center no-repeat;}
+.wine3{height:543px;background:url(../images/folder/wine/wine03.jpg) top center no-repeat;}
+.wine4{height:678px;background:url(../images/folder/wine/wine04.jpg) top center no-repeat;}
+.wine5{height:674px;background:url(../images/folder/wine/wine05.jpg) top center no-repeat;}
+.wine6{height:676px;background:url(../images/folder/wine/wine06.jpg) top center no-repeat;}
+.wine7{height:954px;background:url(../images/folder/wine/wine07.jpg) top center no-repeat;}
+.wine8{height:872px;background:url(../images/folder/wine/wine08.jpg) top center no-repeat;}
+
+.wine3 .pCon  a{width:400px; height:400px; position:absolute; display:block; }
+.wine3 .pCon .a1{ left:197px; top:5px; }
+.wine3 .pCon .a2{ right:185px; top:5px; }
+
+.wine4 .pCon  a{width:223px; height:264px; position:absolute; display:block;}
+.wine4 .pCon .a1{width:485px; height:264px;left:125px; top:0px;  }
+.wine4 .pCon .a2{right:355px; top:0px;}
+.wine4 .pCon .a3{right:125px; top:0px;}
+.wine4 .pCon .a4{ width:240px;left:125px; top:275px;}
+.wine4 .pCon .a5{ left:382px; top:275px; }
+.wine4 .pCon .a6{ right:355px; top:275px; }
+.wine4 .pCon .a7{ right:125px; top:275px; }
+
+
+.wine5 .pCon  a{width:310px; height:265px; position:absolute; display:block;}
+.wine5 .pCon .a1{width:470px; height:260px;left:125px; top:0px;  }
+.wine5 .pCon .a2{width:470px; height:260px;right:125px; top:0px;}
+.wine5 .pCon .a3{ left:125px; top:264px;}
+.wine5 .pCon .a4{ left:446px; top:264px; }
+.wine5 .pCon .a5{ width:300px;right:125px; top:264px; }
+
+.wine6 .pCon  a{width:310px; height:265px; position:absolute; display:block;}
+.wine6 .pCon .a1{width:470px; height:260px;left:125px; top:0px;  }
+.wine6 .pCon .a2{width:470px; height:260px;right:125px; top:0px;}
+.wine6 .pCon .a3{ left:125px; top:264px;}
+.wine6 .pCon .a4{ left:446px; top:264px; }
+.wine6 .pCon .a5{ width:300px;right:125px; top:264px; }
+
+.wine7 .pCon  a{width:310px; height:265px; position:absolute; display:block;}
+.wine7 .pCon .a1{width:470px; height:260px;left:125px; top:0px;  }
+.wine7 .pCon .a2{width:470px; height:260px;right:125px; top:0px;}
+.wine7 .pCon .a3{ width:310px; left:125px; top:267px;}
+.wine7 .pCon .a4{ width:310px; left:446px; top:267px; }
+.wine7 .pCon .a5{ width:302px;right:125px; top:267px; }
+.wine7 .pCon .a6{ width:243px; left:125px; top:542px;}
+.wine7 .pCon .a7{ width:230px; left:378px; top:542px; }
+.wine7 .pCon .a8{ width:220px;right:360px; top:542px; }
+.wine7 .pCon .a9{ width:220px;right:125px; top:542px; }
+
+
+.wine8 .pCon  a{width:245px; height:265px; position:absolute; display:block;}
+.wine8 .pCon .a1{width:945px; height:265px;left:125px; top:0px;  }
+.wine8 .pCon .a2{left:125px; top:274px;}
+.wine8 .pCon .a3{ width:233px; left:378px; top:274px;}
+.wine8 .pCon .a4{ width:220px; right:359px; top:274px; }
+.wine8 .pCon .a5{ width:220px;right:125px; top:274px; }
+
+/*安全食品第二季——舌尖上的安全*/
+.food1{height:690px;background:url(../images/folder/food/food01.jpg) top center no-repeat;}
+.food2{height:1390px;background:url(../images/folder/food/food02.jpg) top center no-repeat;}
+.food3{height:1290px;background:url(../images/folder/food/food03.jpg) top center no-repeat;}
+.food4{height:1395px;background:url(../images/folder/food/food04.jpg) top center no-repeat;}
+.food5{height:540px;background:url(../images/folder/food/food05.jpg) top center no-repeat;}
+.food6{height:1600px;background:url(../images/folder/food/food06.jpg) top center no-repeat;}
+.food7{height:295px;background:url(../images/folder/food/food07.jpg) top center no-repeat;}
+
+.food2 .pCon  a{width:380px; height:330px; position:absolute; display:block;}
+.food2 .pCon .a1{ left:220px; top:10px; }
+.food2 .pCon .a2{ right:100px; top:10px;}
+.food2 .pCon .a3{ left:245px; top:440px; }
+.food2 .pCon .a4{ right:140px; top:440px;}
+.food2 .pCon .a5{ left:170px; top:830px;}
+.food2 .pCon .a6{ right:140px; top:830px;}
+
+.food3 .pCon  a{width:290px; height:440px; position:absolute; display:block;}
+.food3 .pCon .a1{ width:420px; height:450px;left:170px; top:40px; }
+.food3 .pCon .a2{ width:420px; height:450px;right:38px; top:40px;}
+.food3 .pCon .a3{ left:143px; top:580px; }
+.food3 .pCon .a4{ width:358px; height:440px; right:360px; top:580px;}
+.food3 .pCon .a5{ right:9px; top:580px;}
+
+.food4 .pCon  a{width:290px; height:440px; position:absolute; display:block;}
+.food4 .pCon .a1{ width:420px; height:450px;left:170px; top:40px; }
+.food4 .pCon .a2{ width:420px; height:450px;right:38px; top:40px;}
+.food4 .pCon .a3{ left:100px; top:580px; }
+.food4 .pCon .a4{ width:320px; height:440px; right:410px; top:580px;}
+.food4 .pCon .a5{ right:20px; top:580px;}
+
+.food5 .pCon  a{width:1043px; height:512px; position:absolute; display:block;left:135px; top:6px;}
+
+
+.food6 .pCon  a{width:290px; height:440px; position:absolute; display:block;}
+.food6 .pCon .a1{ left:140px; top:40px; }
+.food6 .pCon .a2{ right:410px; top:40px;}
+.food6 .pCon .a3{ right:60px; top:40px;}
+.food6 .pCon .a4{ width:420px; height:450px;left:170px; top:580px; }
+.food6 .pCon .a5{ width:420px; height:450px;right:38px; top:580px;}
+.food6 .pCon .a6{ left:140px; top:1090px; }
+.food6 .pCon .a7{ right:400px; top:1090px;}
+.food6 .pCon .a8{ right:60px; top:1090px;}
+
+
+
+
+/*佛缘专场*/
+.buddha1{height:500px;background:url(../images/folder/foyuan/buddha01.jpg) top center no-repeat;}
+.buddha2{height:935px;background:url(../images/folder/foyuan/buddha02.jpg) top center no-repeat;}
+.buddha3{height:742px;background:url(../images/folder/foyuan/buddha03.jpg) top center no-repeat;}
+.buddha4{height:740px;background:url(../images/folder/foyuan/buddha04.jpg) top center no-repeat;}
+.buddha5{height:648px;background:url(../images/folder/foyuan/buddha05.jpg) top center no-repeat;}
+.buddha6{height:775px;background:url(../images/folder/foyuan/buddha06.jpg) top center no-repeat;}
+.buddha7{height:643px;background:url(../images/folder/foyuan/buddha07.jpg) top center no-repeat;}
+.buddha8{height:1046px;background:url(../images/folder/foyuan/buddha08.jpg) top center no-repeat;}
+
+.buddha2 .pCon  a{width:342px; height:342px; position:absolute; display:block;}
+.buddha2 .pCon .a1{ left:33px; top:270px; }
+.buddha2 .pCon .a2{ right:34px; top:201px; }
+
+.buddha3 .pCon  a{width:248px; height:202px; position:absolute; display:block;}
+.buddha3 .pCon .a1{width:520px; height:198px;left:79px; top:0px;  }
+.buddha3 .pCon .a2{width:512px; height:198px;left:79px; top:215px;}
+.buddha3 .pCon .a3{width:512px; height:198px;right:79px; top:215px;}
+.buddha3 .pCon .a4{left:79px; top:430px;}
+.buddha3 .pCon .a5{ left:343px; top:430px; }
+.buddha3 .pCon .a6{ right:342px; top:430px; }
+.buddha3 .pCon .a7{ right:78px; top:430px; }
+
+.buddha4 .pCon  a{width:335px; height:308px; position:absolute; display:block; }
+.buddha4 .pCon .a1{width:512px; height:305px;left:79px; top:0px;  }
+.buddha4 .pCon .a2{width:512px; height:305px;right:79px; top:0px;}
+.buddha4 .pCon .a3{left:77px; top:322px;}
+.buddha4 .pCon .a4{left:432px; top:322px;}
+.buddha4 .pCon .a5{right:78px; top:322px; }
+
+.buddha5 .pCon  a{width:248px; height:202px; position:absolute; display:block;}
+.buddha5 .pCon .a1{width:520px; height:198px;right:79px; top:0px;  }
+.buddha5 .pCon .a2{width:512px; height:198px;left:79px; top:215px;}
+.buddha5 .pCon .a3{width:512px; height:198px;right:79px; top:215px;}
+.buddha5 .pCon .a4{left:79px; top:430px;}
+.buddha5 .pCon .a5{ left:343px; top:430px; }
+.buddha5 .pCon .a6{ right:342px; top:430px; }
+.buddha5 .pCon .a7{ right:78px; top:430px; }
+
+.buddha6 .pCon  a{width:161px; height:167px; position:absolute; display:block;}
+.buddha6 .pCon .a1{width:250px; height:350px;left:78px; top:314px;  }
+.buddha6 .pCon .a2{width:513px; height:168px;right:342px; top:314px;}
+.buddha6 .pCon .a3{width:250px; height:350px;right:77px; top:314px;}
+.buddha6 .pCon .a4{left:342px; top:496px; }
+.buddha6 .pCon .a5{right:519px; top:496px; }
+.buddha6 .pCon .a6{right:342px; top:496px; }
+
+.buddha7 .pCon  a{width:337px; height:198px; position:absolute; display:block;}
+.buddha7 .pCon .a1{width:1043px; height:198px;left:77px; top:0px;  }
+.buddha7 .pCon .a2{left:77px; top:215px;}
+.buddha7 .pCon .a3{left:430px; top:215px;}
+.buddha7 .pCon .a4{right:78px; top:215px; }
+.buddha7 .pCon .a5{left:77px; top:430px; }
+.buddha7 .pCon .a6{left:430px; top:430px;}
+.buddha7 .pCon .a7{right:78px; top:430px; }
+
+.buddha8 .pCon  a{width:337px; height:200px; position:absolute; display:block;}
+.buddha8 .pCon .a1{width:513px; height:200px;left:78px; top:316px;}
+.buddha8 .pCon .a2{width:512px; height:200px;right:79px; top:316px;}
+.buddha8 .pCon .a3{left:77px; top:530px; }
+.buddha8 .pCon .a4{left:430px; top:530px;}
+.buddha8 .pCon .a5{right:78px; top:530px; }
+
+
+
+
+/*盖粉茶礼王专版*/
+.tea1{height:550px;background:url(../images/folder/chaye/tea01.jpg) top center no-repeat;}
+.tea2{height:590px;background:url(../images/folder/chaye/tea02.jpg) top center no-repeat;}
+.tea3{height:600px;background:url(../images/folder/chaye/tea03.jpg) top center no-repeat;}
+.tea4{height:860px;background:url(../images/folder/chaye/tea04.jpg) top center no-repeat;}
+.tea5{height:615px;background:url(../images/folder/chaye/tea05.jpg) top center no-repeat;}
+.tea6{height:620px;background:url(../images/folder/chaye/tea06.jpg) top center no-repeat;}
+.tea7{height:610px;background:url(../images/folder/chaye/tea07.jpg) top center no-repeat;}
+.tea8{height:1094px;background:url(../images/folder/chaye/tea08.jpg) top center no-repeat;}
+
+.tea2 .pCon  a{width:400px; height:235px; position:absolute; display:block;}
+.tea2 .pCon .a1{width:838px; height:240px; left:235px; top:0px; }
+.tea2 .pCon .a2{ left:235px; top:265px; }
+.tea2 .pCon .a3{right:125px; top:265px;}
+
+.tea3 .pCon  a{width:400px; height:235px; position:absolute; display:block;}
+.tea3 .pCon .a1{width:860px; height:250px; left:200px; left:215px; top:0px; }
+.tea3 .pCon .a2{ left:245px; top:275px; }
+.tea3 .pCon .a3{right:125px; top:275px;}
+
+.tea4 .pCon  a{width:250px; height:245px; position:absolute; display:block;}
+.tea4 .pCon .a1{width:838px; height:240px; left:235px; top:0px;}
+.tea4 .pCon .a2{width:400px; height:235px;left:239px; top:263px;}
+.tea4 .pCon .a3{width:400px; height:235px;right:125px; top:263px;}
+.tea4 .pCon .a4{left:245px; top:515px;}
+.tea4 .pCon .a5{ left:525px; top:515px; }
+.tea4 .pCon .a6{ right:140px; top:515px; }
+
+.tea5 .pCon  a{width:400px; height:235px; position:absolute; display:block;}
+.tea5 .pCon .a1{width:860px; height:250px; left:200px; left:215px; top:0px;}
+.tea5 .pCon .a2{left:230px; top:285px;}
+.tea5 .pCon .a3{ right:125px; top:285px;}
+
+.tea6 .pCon  a{width:400px; height:235px; position:absolute; display:block;}
+.tea6 .pCon .a1{width:860px; height:250px; left:200px; left:215px; top:0px;}
+.tea6 .pCon .a2{left:245px; top:275px;}
+.tea6 .pCon .a3{ right:125px; top:275px;}
+
+.tea7 .pCon  a{width:275px; height:270px; position:absolute; display:block;}
+.tea7 .pCon .a1{width:430px; height:235px;left:215px; top:3px;  }
+.tea7 .pCon .a2{width:440px; height:235px;right:95px; top:3px;}
+.tea7 .pCon .a3{ left:222px; top:255px;}
+.tea7 .pCon .a4{left:510px; top:255px; }
+.tea7 .pCon .a5{right:117px; top:255px; }
+
+.tea8 .pCon  a{width:255px; height:255px; position:absolute; display:block;}
+.tea8 .pCon .a1{width:840px; height:250px; left:225px;top:4px;}
+.tea8 .pCon .a2{width:400px; height:235px;left:250px; top:270px; }
+.tea8 .pCon .a3{width:400px; height:235px;right:137px; top:270px;}
+.tea8 .pCon .a4{ left:245px; top:515px; }
+.tea8 .pCon .a5{ left:523px; top:515px;  }
+.tea8 .pCon .a6{right:140px; top:515px; }
+
+
+/*盖网真情回馈——感恩母亲节*/
+.motherDay1{height:441px;background:url(../images/folder/mother_day/motherDay01.jpg) top center no-repeat;}
+.motherDay2{height:1925px;background:url(../images/folder/mother_day/motherDay02.jpg) top center no-repeat;}
+.motherDay3{height:1759px;background:url(../images/folder/mother_day/motherDay03.jpg) top center no-repeat;}
+
+.motherDay2 .pCon  a{width:294px;height:254px;position:absolute; display:block;}
+.motherDay2 .pCon .a1{width:950px;height:480px; left:124px;top:0; }
+.motherDay2 .pCon .a2{width:540px;height:260px;left:124px;top:483px; }
+.motherDay2 .pCon .a3{width:406px;height:260px;right:124px; top:483px;}
+.motherDay2 .pCon .a4{width:540px;height:320px;left:124px; top:756px;}
+.motherDay2 .pCon .a5{width:406px;height:320px;right:124px;top:756px; }
+.motherDay2 .pCon .a6{width:950px;height:312px;left:124px; top:1088px; }
+.motherDay2 .pCon .a7{left:124px; top:1400px; }
+.motherDay2 .pCon .a8{width:313px;left:420px; top:1400px;  }
+.motherDay2 .pCon .a9{width:339px;right:124px; top:1400px;}
+.motherDay2 .pCon .a10{width:294px;left:124px;top:1664px; }
+.motherDay2 .pCon .a11{width:313px;left:420px; top:1664px;  }
+.motherDay2 .pCon .a12{width:339px;right:124px;top:1664px;}
+
+.motherDay3 .pCon  a{width:230px; height:377px; position:absolute; display:block;}
+.motherDay3 .pCon .a1{width:405px; height:795px;left:125px; top:0px;  }
+.motherDay3 .pCon .a2{width:455px; height:795px;right:124px; top:0;}
+.motherDay3 .pCon .a3{left:128px; top:839px;}
+.motherDay3 .pCon .a4{left:366px; top:839px;}
+.motherDay3 .pCon .a5{right:366px; top:839px; }
+.motherDay3 .pCon .a6{right:128px; top:839px; }
+.motherDay3 .pCon .a7{width:425px; height:437px;left:142px; top:1241px; }
+.motherDay3 .pCon .a8{width:470px; height:437px;right:144px; top:1241px; }
+
+/*端午节专题*/
+.dwZt{ width:100%; margin:0 auto; background:#029e55}
+.dwZt .top{ background:url(../images/folder/duanwu/top.jpg) top center no-repeat; height:749px;}
+.dwZt .main{ width:980px; margin:0 auto;}
+.dwZt .main .f01{ background:url(../images/folder/duanwu/f01.jpg) no-repeat; width:980px; height:2405px; position:relative;}
+/*f01*/
+.dwZt .main .f01 .a1{ position:absolute; width:455px; height:415px; left:10px; top:245px;}
+.dwZt .main .f01 .a2{ position:absolute; width:455px; height:415px; left:510px; top:245px;}
+.dwZt .main .f01 .a3{ position:absolute; width:980px; height:325px; left:0px; top:920px;}
+.dwZt .main .f01 .a4{
+    position: absolute;
+    width: 455px;
+    height: 400px;
+    left: 10px;
+    top: 1245px;
+}
+.dwZt .main .f01 .a5{ position:absolute; width:455px; height:400px; left:510px; top:1245px;}
+.dwZt .main .f01 .a6{
+    position: absolute;
+    width: 980px;
+    height: 330px;
+    left: 0px;
+    top: 1640px;
+}
+.dwZt .main .f01 .a7{ position:absolute; width:320px; height:415px; left:10px; top:1970px;}
+.dwZt .main .f01 .a8{
+    position: absolute;
+    width: 291px;
+    height: 415px;
+    left: 348px;
+    top: 1970px;
+}
+.dwZt .main .f01 .a9{ position:absolute; width:320px; height:415px; left:648px; top:1970px;}
+/*f02*/
+.dwZt .main .f02 .a1{
+    position: absolute;
+    width: 980px;
+    height: 315px;
+    left: 0px;
+    top: 260px;
+}
+.dwZt .main .f02 .a2{
+    position: absolute;
+    width: 480px;
+    height: 400px;
+    left: 10px;
+    top: 581px;
+}
+.dwZt .main .f02 .a3{
+    position: absolute;
+    width: 480px;
+    height: 400px;
+    left: 490px;
+    top: 583px;
+}
+.dwZt .main .f02 .a4{
+    position: absolute;
+    width: 980px;
+    height: 325px;
+    left: 0px;
+    top: 985px;
+}
+.dwZt .main .f02 .a5{
+    position: absolute;
+    width: 320px;
+    height: 395px;
+    left: 17px;
+    top: 1315px;
+}
+.dwZt .main .f02 .a6{ position:absolute; width:320px; height:395px; left:340px; top:1315px;}
+.dwZt .main .f02 .a7{
+    position: absolute;
+    width: 310px;
+    height: 395px;
+    left: 650px;
+    top: 1315px;
+}
+.dwZt .main .f02 .a8{
+    position: absolute;
+    width: 980px;
+    height: 330px;
+    left: 3px;
+    top: 1978px;
+}
+.dwZt .main .f02 .a9{
+    position: absolute;
+    width: 480px;
+    height: 370px;
+    left: 12px;
+    top: 2326px;
+}
+.dwZt .main .f02 .a10{
+    position: absolute;
+    width: 458px;
+    height: 370px;
+    left: 500px;
+    top: 2334px;
+}
+.dwZt .main .f02 .a11{ position:absolute; width:480px; height:370px; left:10px; top:2710px;}
+.dwZt .main .f02 .a12{
+    position: absolute;
+    width: 469px;
+    height: 370px;
+    left: 511px;
+    top: 2710px;
+}
+/*f03*/
+.dwZt .main .f03 .a1{ position:absolute; width:980px; height:310px; left:0px; top:300px;}
+.dwZt .main .f03 .a2{ position:absolute; width:310px; height:380px; left:30px; top:620px;}
+.dwZt .main .f03 .a3{ position:absolute; width:310px; height:380px;  left:340px; top:620px;}
+.dwZt .main .f03 .a4{
+    position: absolute;
+    width: 293px;
+    height: 380px;
+    left: 657px;
+    top: 620px;
+}
+.dwZt .main .f03 .a5{ position:absolute; width:980px; height:320px;  left:0px; top:1360px;}
+.dwZt .main .f03 .a6{ position:absolute; width:315px; height:385px; left:30px; top:1690px;}
+.dwZt .main .f03 .a7{
+    position: absolute;
+    width: 303px;
+    height: 385px;
+    left: 347px;
+    top: 1690px;
+}
+.dwZt .main .f03 .a8{ position:absolute; width:315px; height:385px; left:650px; top:1690px;}
+
+.dwZt .main .f02{ background:url(../images/folder/duanwu/f02.jpg) no-repeat; width:980px; height:3150px; position:relative;}
+.dwZt .main .f03{ background:url(../images/folder/duanwu/f03.jpg) no-repeat; width:980px; height:2103px; position:relative;}
+.dwZt .Ztfooter{ background:url(../images/folder/duanwu/footer.jpg) no-repeat; width:1900px; height:186px;}
+
+/*永康周年店庆*/
+.ykang1{height:150px;background:url(../images/folder/ykang/ykang01.jpg) top center no-repeat;}
+.ykang2{height:150px;background:url(../images/folder/ykang/ykang02.jpg) top center no-repeat;}
+.ykang3{height:150px;background:url(../images/folder/ykang/ykang03.jpg) top center no-repeat;}
+.ykang4{height:150px;background:url(../images/folder/ykang/ykang04.jpg) top center no-repeat;}
+.ykang5{height:150px;background:url(../images/folder/ykang/ykang05.jpg) top center no-repeat;}
+.ykang6{height:150px;background:url(../images/folder/ykang/ykang06.jpg) top center no-repeat;}
+.ykang7{height:150px;background:url(../images/folder/ykang/ykang07.jpg) top center no-repeat;}
+.ykang8{height:270px;background:url(../images/folder/ykang/ykang08.jpg) top center no-repeat;}
+.ykang9{height:450px;background:url(../images/folder/ykang/ykang09.jpg) top center no-repeat;}
+.ykang10{height:210px;background:url(../images/folder/ykang/ykang10.jpg) top center no-repeat;}
+.ykang11{height:250px;background:url(../images/folder/ykang/ykang11.jpg) top center no-repeat;}
+.ykang12{height:470px;background:url(../images/folder/ykang/ykang12.jpg) top center no-repeat;}
+.ykang13{height:250px;background:url(../images/folder/ykang/ykang13.jpg) top center no-repeat;}
+.ykang14{height:180px;background:url(../images/folder/ykang/ykang14.jpg) top center no-repeat;}
+.ykang15{height:430px;background:url(../images/folder/ykang/ykang15.jpg) top center no-repeat;}
+.ykang16{height:150px;background:url(../images/folder/ykang/ykang16.jpg) top center no-repeat;}
+.ykang17{height:150px;background:url(../images/folder/ykang/ykang17.jpg) top center no-repeat;}
+.ykang18{height:220px;background:url(../images/folder/ykang/ykang18.jpg) top center no-repeat;}
+.ykang19{height:290px;background:url(../images/folder/ykang/ykang19.jpg) top center no-repeat;}
+.ykang20{height:260px;background:url(../images/folder/ykang/ykang20.jpg) top center no-repeat;}
+.ykang21{height:270px;background:url(../images/folder/ykang/ykang21.jpg) top center no-repeat;}
+.ykang22{height:250px;background:url(../images/folder/ykang/ykang22.jpg) top center no-repeat;}
+.ykang23{height:200px;background:url(../images/folder/ykang/ykang23.jpg) top center no-repeat;}
+.ykang24{height:350px;background:url(../images/folder/ykang/ykang24.jpg) top center no-repeat;}
+.ykang25{height:190px;background:url(../images/folder/ykang/ykang25.jpg) top center no-repeat;}
+.ykang26{height:330px;background:url(../images/folder/ykang/ykang26.jpg) top center no-repeat;}
+.ykang27{height:95px;background:url(../images/folder/ykang/ykang27.jpg) top center no-repeat;}
+.ykang28{height:410px;background:url(../images/folder/ykang/ykang28.jpg) top center no-repeat;}
+.ykang29{height:210px;background:url(../images/folder/ykang/ykang29.jpg) top center no-repeat;}
+.ykang30{height:230px;background:url(../images/folder/ykang/ykang30.jpg) top center no-repeat;}
+.ykang31{height:218px;background:url(../images/folder/ykang/ykang31.jpg) top center no-repeat;}
+
+
+
+.ykang9 .pCon  a{width:460px; height:450px; position:absolute; display:block;}
+.ykang9 .pCon .a1{ left:160px; top:0; }
+.ykang9 .pCon .a2{ right:95px; top:0; }
+
+.ykang12 .pCon  a{width:360px; height:460px; position:absolute; display:block;}
+.ykang12 .pCon .a1{ left:35px; top:0; }
+.ykang12 .pCon .a2{width:315px;  right:445px; top:0; }
+.ykang12 .pCon .a3{ width:322px;right:53px; top:0; }
+
+.ykang15 .pCon  a{width:530px; height:435px; position:absolute; display:block;}
+.ykang15 .pCon .a1{ left:45px; top:0; }
+.ykang15 .pCon .a2{ right:23px; top:0; }
+
+.ykang19 .pCon  a{width:270px; height:200px; position:absolute; display:block;}
+.ykang19 .pCon .a1{ left:185px; top:0; }
+.ykang19 .pCon .a2{ width:300px;height:185px;right:225px; top:35px; }
+
+.ykang20 .pCon  a{width:280px; height:183px; position:absolute; display:block;}
+.ykang20 .pCon .a1{ left:120px; top:64px; }
+.ykang20 .pCon .a2{ width:338px; right:66px; top:50px; }
+
+.ykang21 .pCon  a{width:355px; height:180px; position:absolute; display:block;}
+.ykang21 .pCon .a1{ left:445px; top:85px; }
+
+
+.ykang24 .pCon  a{width:510px; height:340px; position:absolute; display:block;}
+.ykang24 .pCon .a1{ left:60px; top:0; }
+.ykang24 .pCon .a2{ width:500px; height:300px;right:44px; top:50px; }
+
+.ykang26 .pCon  a{width:510px; height:320px; position:absolute; display:block;}
+.ykang26 .pCon .a1{ left:60px; top:0; }
+.ykang26 .pCon .a2{ width:540px;right:23px; top:0; }
+
+.ykang28 .pCon  a{width:520px; height:320px; position:absolute; display:block;}
+.ykang28 .pCon .a1{ left:60px; top:86px; }
+.ykang28 .pCon .a2{height:405px; right:45px; top:0; }
+
+/*6.1儿童节快乐*/
+.child1{height:820px;background:url(../images/folder/61/child01.jpg) top center rgb(255,255,255) no-repeat;}
+.child2{height:515px;background:url(../images/folder/61/child02.jpg) top center no-repeat;}
+.child3{height:870px;background:url(../images/folder/61/child03.jpg) top center no-repeat;}
+.child4{height:495px;background:url(../images/folder/61/child04.jpg) top center no-repeat;}
+.child5{height:1540px;background:url(../images/folder/61/child05.jpg) top center no-repeat;}
+.child6{height:1543px;background:url(../images/folder/61/child06.jpg) top center no-repeat;}
+
+.child2 .pCon  a{ width:583px;height:460px; position:absolute; display:block;}
+.child2 .pCon .a1{ left:26px; top:0; }
+.child2 .pCon .a2{ width:563px;right:15px; top:0; }
+
+.child3 .pCon  a{width:520px; height:355px; position:absolute; display:block; }
+.child3 .pCon .a1{left:30px; top:10px; }
+.child3 .pCon .a2{ right:25px; height:355px; top:9px;}
+.child3 .pCon .a3{left:40px;width:430px; height:392px; top:456px; }
+.child3 .pCon .a4{ right:25px;width:475px; height:375px;top:470px;}
+
+.child4 .pCon  a{width:1143px; height:495px; position:absolute; display:block;}
+.child4 .pCon .a1{left:27px; top:-1px; }
+
+.child5 .pCon  a{width:440px; height:380px; position:absolute; display:block;}
+.child5 .pCon .a1{ left:80px; top:35px; }
+.child5 .pCon .a2{width:485px;  right:75px; top:28px;}
+.child5 .pCon .a3{width:496px; height:490px; left:5px; top:473px; }
+.child5 .pCon .a4{width:465px; height:490px; right:80px; top:493px;}
+.child5 .pCon .a5{ width:585px; height:395px; left:45px; top:1105px; }
+.child5 .pCon .a6{ width:445px; height:445px; right:35px; top:1065px; }
+
+.child6 .pCon  a{width:440px; height:455px;position:absolute; display:block;}
+.child6 .pCon .a1{width:415px;height:470px;left:120px; top:20px; }
+.child6 .pCon .a2{width:520px;  right:10px; top:55px;}
+.child6 .pCon .a3{ width:510px; height:355px; left:115px; top:620px; }
+.child6 .pCon .a4{ width:470px; height:355px; right:15px; top:620px;}
+.child6 .pCon .a5{width:1285px; height:454px; left:-39px; top:1015px; }
+
+/*指尖上的精彩——数码产品专场*/
+.Digital1{height:225px;background:url(../images/folder/digital/Digital01.jpg) top center #000 no-repeat;}
+.Digital2{height:225px;background:url(../images/folder/digital/Digital02.jpg) top center #000 no-repeat;}
+.Digital3{height:155px;background:url(../images/folder/digital/Digital03.jpg) top center #000 no-repeat;}
+.Digital4{height:445px;background:url(../images/folder/digital/Digital04.jpg) top center #000 no-repeat;}
+.Digital5{height:600px;background:url(../images/folder/digital/Digital05.jpg) top center #000 no-repeat;}
+.Digital6{height:405px;background:url(../images/folder/digital/Digital06.jpg) top center #000 no-repeat;}
+.Digital7{height:715px;background:url(../images/folder/digital/Digital07.jpg) top center #000 no-repeat;}
+.Digital8{height:725px;background:url(../images/folder/digital/Digital08.jpg) top center #000 no-repeat;}
+.Digital9{height:615px;background:url(../images/folder/digital/Digital09.jpg) top center #000 no-repeat;}
+.Digital10{height:574px;background:url(../images/folder/digital/Digital10.jpg) top center #000 no-repeat;}
+.Digital11{height:460px;background:url(../images/folder/digital/Digital11.jpg) top center #000 no-repeat;}
+.Digital12{height:735px;background:url(../images/folder/digital/Digital12.jpg) top center #000 no-repeat;}
+.Digital13{height:605px;background:url(../images/folder/digital/Digital13.jpg) top center #000 no-repeat;}
+.Digital14{height:740px;background:url(../images/folder/digital/Digital14.jpg) top center #000 no-repeat;}
+.Digital15{height:570px;background:url(../images/folder/digital/Digital15.jpg) top center #000 no-repeat;}
+.Digital16{height:290px;background:url(../images/folder/digital/Digital16.jpg) top center #000 no-repeat;}
+
+.Digital4 .pCon  a{width:375px; height:275px; position:absolute; display:block;}
+.Digital4 .pCon .a1{ left:220px; top:10px; }
+.Digital4 .pCon .a2{ right:190px; top:10px;}
+
+.Digital5 .pCon  a{width:380px; height:260px; position:absolute; display:block;}
+.Digital5 .pCon .a1{ width:790px; height:255px;left:220px; top:10px; }
+.Digital5 .pCon .a2{ left:215px;top:306px;}
+.Digital5 .pCon .a3{ right:180px; top:306px; }
+
+.Digital6 .pCon  a{width:380px; height:260px; position:absolute; display:block;}
+.Digital6 .pCon .a1{ left:215px; top:10px; }
+.Digital6 .pCon .a2{ right:180px; top:10px;}
+
+.Digital7 .pCon  a{width:380px; height:255px; position:absolute; display:block;}
+.Digital7 .pCon .a1{ width:790px; height:255px;left:220px; top:10px; }
+.Digital7 .pCon .a2{ left:215px;top:306px;}
+.Digital7 .pCon .a3{ right:180px; top:306px; }
+
+.Digital8 .pCon  a{width:380px; height:255px; position:absolute; display:block;}
+.Digital8 .pCon .a1{left:215px; top:10px; }
+.Digital8 .pCon .a2{ right:180px;top:10px;}
+.Digital8 .pCon .a3{ left:215px; top:306px; }
+.Digital8 .pCon .a4{ right:180px; top:306px; }
+
+.Digital9 .pCon  a{width:263px; height:258px; position:absolute; display:block;}
+.Digital9 .pCon .a1{ width:790px; height:260px;left:220px; top:10px; }
+.Digital9 .pCon .a2{ left:200px;top:314px;}
+.Digital9 .pCon .a3{ right:449px; top:314px; }
+.Digital9 .pCon .a4{ right:163px; top:314px; }
+
+.Digital10 .pCon  a{width:263px; height:258px; position:absolute; display:block;}
+.Digital10 .pCon .a1{ width:790px; height:260px;left:220px; top:10px; }
+.Digital10 .pCon .a2{ left:200px;top:310px;}
+.Digital10 .pCon .a3{ right:449px; top:310px; }
+.Digital10 .pCon .a4{ right:163px; top:310px; }
+
+.Digital11 .pCon  a{ width:790px; height:260px;position:absolute; display:block;}
+.Digital11 .pCon .a1{left:220px; top:167px; }
+
+.Digital12 .pCon  a{width:380px; height:255px; position:absolute; display:block;}
+.Digital12 .pCon .a1{left:215px; top:10px; }
+.Digital12 .pCon .a2{ right:180px;top:10px;}
+.Digital12 .pCon .a3{ left:215px; top:306px; }
+.Digital12 .pCon .a4{ right:180px; top:306px; }
+
+.Digital13 .pCon  a{width:263px; height:258px; position:absolute; display:block;}
+.Digital13 .pCon .a1{ width:790px; height:260px;left:220px; top:10px; }
+.Digital13 .pCon .a2{ left:200px;top:310px;}
+.Digital13 .pCon .a3{ right:449px; top:310px; }
+.Digital13 .pCon .a4{ right:163px; top:310px; }
+
+.Digital14 .pCon  a{width:263px; height:258px; position:absolute; display:block;}
+.Digital14 .pCon .a1{ width:790px; height:260px;left:220px; top:10px; }
+.Digital14 .pCon .a2{ left:200px;top:310px;}
+.Digital14 .pCon .a3{ right:449px; top:310px; }
+.Digital14 .pCon .a4{ right:163px; top:310px; }
+
+.Digital15 .pCon  a{width:380px; height:260px; position:absolute; display:block;}
+.Digital15 .pCon .a1{ width:790px; height:255px;left:220px; top:5px; }
+.Digital15 .pCon .a2{ left:215px;top:305px;}
+.Digital15 .pCon .a3{ right:180px; top:305px; }
+
+/*我的最美厨娘——厨娘产品专场*/
+.hutch1{height:570px;background:url(../images/folder/hutch/hutch01.jpg) top center no-repeat;}
+.hutch2{height:410px;background:url(../images/folder/hutch/hutch02.jpg) top center no-repeat;}
+.hutch3{height:533px;background:url(../images/folder/hutch/hutch03.jpg) top center no-repeat;}
+.hutch4{height:675px;background:url(../images/folder/hutch/hutch04.jpg) top center no-repeat;}
+.hutch5{height:675px;background:url(../images/folder/hutch/hutch05.jpg) top center no-repeat;}
+.hutch6{height:583px;background:url(../images/folder/hutch/hutch06.jpg) top center no-repeat;}
+.hutch7{height:359px;background:url(../images/folder/hutch/hutch07.jpg) top center no-repeat;}
+.hutch8{height:572px;background:url(../images/folder/hutch/hutch08.jpg) top center no-repeat;}
+.hutch9{height:686px;background:url(../images/folder/hutch/hutch09.jpg) top center no-repeat;}
+.hutch10{height:652px;background:url(../images/folder/hutch/hutch10.jpg) top center no-repeat;}
+.hutch11{height:316px;background:url(../images/folder/hutch/hutch11.jpg) top center no-repeat;}
+.hutch12{height:991px;background:url(../images/folder/hutch/hutch12.jpg) top center no-repeat;}
+
+.hutch2 .pCon  a{width:998px; height:298px; position:absolute; display:block;}
+.hutch2 .pCon .a1{ left:100px; top:100px; }
+
+.hutch3 .pCon  a{width:334px; height:225px; position:absolute; display:block;}
+.hutch3 .pCon .a1{ width:502px; height:255px;left:100px; top:0px; }
+.hutch3 .pCon .a2{ width:490px;height:255px;right:100px;top:0px;}
+.hutch3 .pCon .a3{ left:100px; top:267px; }
+.hutch3 .pCon .a4{ width:325px;right:430px;top:267px;}
+.hutch3 .pCon .a5{ width:325px;right:100px; top:267px; }
+
+.hutch4 .pCon  a{width:334px; height:268px; position:absolute; display:block;}
+.hutch4 .pCon .a1{ width:640px; height:263px;left:100px; top:100px; }
+.hutch4 .pCon .a2{ width:350px;height:263px;right:100px;top:100px;}
+.hutch4 .pCon .a3{ left:100px; top:377px; }
+.hutch4 .pCon .a4{ width:325px;right:430px;top:377px;}
+.hutch4 .pCon .a5{ width:323px;right:100px; top:377px; }
+
+.hutch5 .pCon  a{width:494px; height:245px; position:absolute; display:block;}
+.hutch5 .pCon .a1{width:998px; height:298px; left:100px; top:100px; }
+.hutch5 .pCon .a2{left:100px; top:410px; }
+.hutch5 .pCon .a3{ right:100px;top:410px;}
+
+.hutch6 .pCon  a{width:494px; height:245px; position:absolute; display:block;}
+.hutch6 .pCon .a1{width:998px; height:290px; left:100px; top:-10px; }
+.hutch6 .pCon .a2{left:100px; top:295px; }
+.hutch6 .pCon .a3{ right:100px;top:295px;}
+
+.hutch7 .pCon  a{width:998px; height:251px; position:absolute; display:block;}
+.hutch7 .pCon .a1{ left:100px; top:100px; }
+
+.hutch8 .pCon  a{width:334px; height:265px; position:absolute; display:block;}
+.hutch8 .pCon .a1{ width:494px; height:248px;left:100px; top:5px; }
+.hutch8 .pCon .a2{ width:490px;height:248px;right:100px;top:5px;}
+.hutch8 .pCon .a3{ left:100px; top:267px; }
+.hutch8 .pCon .a4{ width:320px;right:430px;top:267px;}
+.hutch8 .pCon .a5{ width:320px;right:100px; top:267px; }
+
+.hutch9 .pCon  a{width:334px; height:265px; position:absolute; display:block;}
+.hutch9 .pCon .a1{width:998px; height:258px;left:100px; top:105px; }
+.hutch9 .pCon .a2{ left:100px; top:377px; }
+.hutch9 .pCon .a3{ width:320px;right:430px;top:377px;}
+.hutch9 .pCon .a4{ width:320px;right:100px; top:377px; }
+
+.hutch10 .pCon  a{width:334px; height:268px; position:absolute; display:block;}
+.hutch10 .pCon .a1{width:998px; height:258px;left:100px; top:100px; }
+.hutch10 .pCon .a2{ left:100px; top:372px; }
+.hutch10 .pCon .a3{ width:320px;right:430px;top:372px;}
+.hutch10 .pCon .a4{ width:320px;right:100px; top:372px; }
+
+.hutch11 .pCon  a{width:334px; height:268px; position:absolute; display:block;}
+.hutch11 .pCon .a1{ left:100px; top:0; }
+.hutch11 .pCon .a2{ width:320px;right:430px;top:0;}
+.hutch11 .pCon .a3{ width:320px;right:100px; top:0; }
+
+.hutch12 .pCon  a{width:334px; height:284px; position:absolute; display:block;}
+.hutch12 .pCon .a1{width:998px; height:254px;left:100px; top:105px; }
+.hutch12 .pCon .a2{ left:100px; top:370px; }
+.hutch12 .pCon .a3{ width:320px;right:430px;top:370px;}
+.hutch12 .pCon .a4{ width:320px;right:100px; top:370px; }
+
+.anchor{width:106px;height:384px;position:fixed;_position:absolute;right:30px; top:100px;z-index:9999;padding:65px 21px 0px 3px;background:url(../images/folder/hutch/hutchFloat.png) no-repeat;_background:url(../images/folder/hutch/hutchFloat.gif) no-repeat;}
+.anchor a{display:inline-block;width:100%;height:30px;margin-bottom:17px;line-height:50px;font-size:0; overflow:hidden;}
+.anchor a.backTop{height:40px;}
+
+/*火辣少女专题*/
+.girl1{height:458px;background:url(../images/folder/girl/girl01.jpg) top center #fe7c1a no-repeat;}
+.girl2{height:285px;background:url(../images/folder/girl/girl02.jpg) top center no-repeat;}
+.girl3{height:595px;background:url(../images/folder/girl/girl03.jpg) top center no-repeat;}
+.girl4{height:580px;background:url(../images/folder/girl/girl04.jpg) top center no-repeat;}
+.girl5{height:590px;background:url(../images/folder/girl/girl05.jpg) top center no-repeat;}
+.girl6{height:513px;background:url(../images/folder/girl/girl06.jpg) top center no-repeat;}
+.girl7{height:259px;background:url(../images/folder/girl/girl07.jpg) top center #fe7c1a no-repeat;}
+
+.girl2 .pCon  a{width:350px; height:180px; position:absolute; display:block;}
+.girl2 .pCon .a1{ left:283px; top:25px; }
+.girl2 .pCon .a2{right:197px; top:25px; }
+
+.girl3 .pCon  a{width:368px; height:230px; position:absolute; display:block;}
+.girl3 .pCon .a1{ width:358px; height:514px;left:50px; top:0px; }
+.girl3 .pCon .a2{right:420px;top:0px;}
+.girl3 .pCon .a3{ right:50px; top:0px; }
+.girl3 .pCon .a4{right:420px;top:250px;}
+.girl3 .pCon .a5{ right:50px; top:250px; }
+
+.girl4 .pCon  a{width:368px; height:230px; position:absolute; display:block;}
+.girl4 .pCon .a1{ width:358px; height:500px;right:420px; top:0px; }
+.girl4 .pCon .a2{left:50px;top:0px;}
+.girl4 .pCon .a3{right:50px;top:0px;}
+.girl4 .pCon .a4{left:50px;top:235px;}
+.girl4 .pCon .a5{right:50px; top:250px; }
+
+.girl5 .pCon  a{width:368px; height:230px;  position:absolute; display:block;}
+.girl5 .pCon .a1{width:358px;left:50px; top:0px; }
+.girl5 .pCon .a2{right:420px; top:0px; }
+.girl5 .pCon .a3{ right:50px;top:0px;}
+.girl5 .pCon .a4{width:615px;left:50px; top:240px; }
+.girl5 .pCon .a5{width:475px;right:50px; top:240px; }
+
+.girl6 .pCon  a{width:355px; height:205px;  position:absolute; display:block;}
+.girl6 .pCon .a1{width:615px;height:275px;left:50px; top:0px; }
+.girl6 .pCon .a2{width:475px;height:275px;right:50px; top:0px; }
+.girl6 .pCon .a3{width:320px;left:50px; top:280px; }
+.girl6 .pCon .a4{right:460px; top:280px; }
+.girl6 .pCon .a5{ right:95px;top:280px;}
+
+/*盖网优生活第八期-花儿与少年*/
+.young1{height:452px;background:url(../images/folder/young/young01.jpg) top center no-repeat;}
+.young2{height:350px;background:url(../images/folder/young/young02.jpg) top center  no-repeat;}
+.young3{height:584px;background:url(../images/folder/young/young03.jpg) top center  no-repeat;}
+.young4{height:510px;background:url(../images/folder/young/young04.jpg) top center  no-repeat;}
+.young5{height:495px;background:url(../images/folder/young/young05.jpg) top center  no-repeat;}
+.young6{height:640px;background:url(../images/folder/young/young06.jpg) top center  no-repeat;}
+.young7{height:1025px;background:url(../images/folder/young/young07.jpg) top center no-repeat;}
+.young8{height:2070px;background:url(../images/folder/young/young08.jpg) top center no-repeat;}
+.young9{height:605px;background:url(../images/folder/young/young09.jpg) top center  no-repeat;}
+.young10{height:1010px;background:url(../images/folder/young/young10.jpg) top center no-repeat;}
+.young11{height:620px;background:url(../images/folder/young/young11.jpg) top center  no-repeat;}
+.young12{height:1569px;background:url(../images/folder/young/young12.jpg) top center no-repeat;}
+
+.young2 .pCon  a{width:313px; height:317px; position:absolute; display:block;}
+.young2 .pCon .a1{left:120px; top:22px; }
+.young2 .pCon .a2{right:447px;top:22px;}
+.young2 .pCon .a3{ right:130px; top:22px; }
+
+.young4 .pCon  a{width:308px; height:445px; position:absolute; display:block;}
+.young4 .pCon .a1{left:131px; top:15px; }
+.young4 .pCon .a2{width:318px;right:434px;top:15px;}
+.young4 .pCon .a3{ width:295px; right:133px; top:15px;}
+
+.young5 .pCon  a{width:308px; height:445px; position:absolute; display:block;}
+.young5 .pCon .a1{left:131px; top:17px; }
+.young5 .pCon .a2{width:318px;right:434px;top:17px;}
+.young5 .pCon .a3{ width:295px; right:133px; top:17px;}
+
+.young7 .pCon  a{width:450px; height:444px; position:absolute; display:block;}
+.young7 .pCon .a1{left:130px;top:17px;}
+.young7 .pCon .a2{right:134px;top:17px;}
+.young7 .pCon .a3{left:130px;top:518px;}
+.young7 .pCon .a4{right:134px; top:519px; }
+
+.young8 .pCon  a{width:308px; height:445px; position:absolute; display:block;}
+.young8 .pCon .a1{left:131px; top:19px; }
+.young8 .pCon .a2{width:318px;right:434px;top:19px;}
+.young8 .pCon .a3{ width:295px; right:133px; top:19px;}
+.young8 .pCon .a4{left:131px; top:527px; }
+.young8 .pCon .a5{width:318px;right:434px;top:527px;}
+.young8 .pCon .a6{ width:295px; right:133px; top:527px;}
+.young8 .pCon .a7{left:131px; top:1044px; }
+.young8 .pCon .a8{width:318px;right:434px;top:1044px;}
+.young8 .pCon .a9{ width:295px; right:133px; top:1044px;}
+.young8 .pCon .a10{left:131px; top:1553px; }
+.young8 .pCon .a11{width:318px;right:434px;top:1553px;}
+.young8 .pCon .a12{ width:295px; right:133px; top:1553px;}
+
+.young10 .pCon  a{width:310px; height:473px; position:absolute; display:block;}
+.young10 .pCon .a1{left:130px; top:4px; }
+.young10 .pCon .a2{width:308px;right:440px;top:4px;}
+.young10 .pCon .a3{ width:295px; right:133px; top:4px;}
+.young10 .pCon .a4{left:130px; top:515px; }
+.young10 .pCon .a5{width:308px;right:440px;top:515px;}
+.young10 .pCon .a6{ width:295px; right:133px; top:515px;}
+
+.young12 .pCon  a{width:305px; height:460px; position:absolute; display:block;}
+.young12 .pCon .a1{width:570px;height:463px;left:130px; top:4px; }
+.young12 .pCon .a2{width:350px;height:463px;right:135px;top:4px;}
+.young12 .pCon .a3{left:130px; top:521px; }
+.young12 .pCon .a4{right:448px;top:521px;}
+.young12 .pCon .a5{right:133px; top:521px;}
+.young12 .pCon .a6{ width:931px; height:465px;right:135px; top:1039px;}
+
+/*自驾游专题*/
+.drive1{height:745px;background:url(../images/folder/drive/drive01.jpg) top center no-repeat;}
+.drive2{height:755px;background:url(../images/folder/drive/drive02.jpg) top center no-repeat;}
+.drive3{height:775px;background:url(../images/folder/drive/drive03.jpg) top center no-repeat;}
+.drive4{height:630px;background:url(../images/folder/drive/drive04.jpg) top center no-repeat;}
+.drive5{height:665px;background:url(../images/folder/drive/drive05.jpg) top center no-repeat;}
+.drive6{height:785px;background:url(../images/folder/drive/drive06.jpg) top center no-repeat;}
+.drive7{height:1305px;background:url(../images/folder/drive/drive07.jpg) top center no-repeat;}
+
+
+.drive2 .pCon  a{width:520px; height:230px;  position:absolute; display:block;}
+.drive2 .pCon .a1{width:575px;height:285px;left:0px; top:0px; }
+.drive2 .pCon .a2{width:535px;height:285px;right:0px; top:0px; }
+.drive2 .pCon .a3{left:34px; top:325px; }
+.drive2 .pCon .a4{right:40px; top:320px; }
+
+.drive3 .pCon  a{width:300px; height:230px;  position:absolute; display:block;}
+.drive3 .pCon .a1{width:500px; height:230px;left:60px; top:40px; }
+.drive3 .pCon .a2{width:490px; height:260px;right:70px; top:10px; }
+.drive3 .pCon .a3{left:105px; top:295px; }
+.drive3 .pCon .a4{right:435px; top:302px; }
+.drive3 .pCon .a5{right:100px; top:300px; }
+
+.drive4 .pCon  a{width:315px; height:140px;  position:absolute; display:block;}
+.drive4 .pCon .a1{width:280px; height:410px;left:65px; top:0px; }
+.drive4 .pCon .a2{right:458px; top:35px; }
+.drive4 .pCon .a3{right:125px;  top:35px; }
+.drive4 .pCon .a4{right:458px; top:242px; }
+.drive4 .pCon .a5{right:125px; top:240px; }
+
+.drive5 .pCon  a{width:345px; height:160px;  position:absolute; display:block;}
+.drive5 .pCon .a1{width:280px; height:410px;left:445px; top:0px; }
+.drive5 .pCon .a2{left:50px; top:25px; }
+.drive5 .pCon .a3{right:85px;  top:25px; }
+.drive5 .pCon .a4{left:50px; top:242px; }
+.drive5 .pCon .a5{right:85px; top:240px; }
+
+.drive6 .pCon  a{width:450px; height:250px;  position:absolute; display:block;}
+.drive6 .pCon .a1{width:475px;left:80px; top:0px; }
+.drive6 .pCon .a2{width:455px;right:110px; top:0px; }
+.drive6 .pCon .a3{left:110px; top:300px; }
+.drive6 .pCon .a4{right:125px; top:300px; }
+
+.drive7 .pCon  a{position:absolute; display:block; }
+.drive7 .pCon .a1{width:830px; height:230px;left:65px; top:5px; }
+.drive7 .pCon .a2{width:940px;height:200px;right:30px; top:235px; }
+.drive7 .pCon .a3{width:850px; height:230px;  left:45px; top:450px; }
+.drive7 .pCon .a4{width:900px; height:230px; right:68px; top:680px; }
+
+/*被风吹走的夏天*/
+.summer1{height:735px;background:url(../images/folder/summer/summer01.jpg) top center no-repeat;}
+.summer2{height:890px;background:url(../images/folder/summer/summer02.jpg) top center no-repeat;}
+.summer3{height:905px;background:url(../images/folder/summer/summer03.jpg) top center no-repeat;}
+.summer4{height:900px;background:url(../images/folder/summer/summer04.jpg) top center no-repeat;}
+.summer5{height:1132px;background:url(../images/folder/summer/summer05.jpg) top center no-repeat;}
+
+.summer2 .pCon  a{width:445px; height:258px; position:absolute; display:block;}
+.summer2 .pCon .a1{ width:457px; height:515px;left:142px; top:17px; }
+.summer2 .pCon .a2{right:140px;top:17px;}
+.summer2 .pCon .a3{ right:140px; top:277px;}
+
+.summer3 .pCon  a{width:215px; height:250px; position:absolute; display:block;}
+.summer3 .pCon .a1{ width:457px; height:515px;left:142px; top:17px; }
+.summer3 .pCon .a2{width:243px;right:355px;top:17px;}
+.summer3 .pCon .a3{ right:140px; top:17px;}
+.summer3 .pCon .a4{width:243px;right:355px;top:280px;}
+.summer3 .pCon .a5{ right:140px; top:280px;}
+
+
+.summer4 .pCon  a{width:457px; height:515px;position:absolute; display:block;}
+.summer4 .pCon .a1{left:142px; top:20px; }
+.summer4 .pCon .a2{right:140px; top:20px; }
+
+.summer5 .pCon  a{width:460px; height:258px; position:absolute; display:block;}
+.summer5 .pCon .a1{ width:455px; height:515px;left:142px; top:17px; }
+.summer5 .pCon .a2{right:140px;top:17px;}
+.summer5 .pCon .a3{ right:140px; top:277px;}
+
+
+
+
+/*父亲节专题*/
+.father1{height:730px;background:url(../images/folder/fuqinjie2014/father01.jpg) top center no-repeat;}
+.father2{height:930px;background:url(../images/folder/fuqinjie2014/father02.jpg) top center no-repeat;}
+.father3{height:930px;background:url(../images/folder/fuqinjie2014/father03.jpg) top center no-repeat;}
+.father4{height:930px;background:url(../images/folder/fuqinjie2014/father04.jpg) top center no-repeat;}
+.father5{height:930px;background:url(../images/folder/fuqinjie2014/father05.jpg) top center no-repeat;}
+.father6{height:930px;background:url(../images/folder/fuqinjie2014/father06.jpg) top center no-repeat;}
+.father7{height:930px;background:url(../images/folder/fuqinjie2014/father07.jpg) top center no-repeat;}
+.father8{height:915px;background:url(../images/folder/fuqinjie2014/father08.jpg) top center no-repeat;}
+.father9{height:804px;background:url(../images/folder/fuqinjie2014/father09.jpg) top center no-repeat;}
+
+.father2 .pCon  a{width:375px; height:260px;  position:absolute; display:block;}
+.father2 .pCon .a1{width:585px; height:370px;left:15px; top:50px; }
+.father2 .pCon .a2{width:570px; height:395px;right:5px; top:38px; }
+.father2 .pCon .a3{left:15px; top:465px; }
+.father2 .pCon .a4{width:395px; right:395px; top:480px; }
+.father2 .pCon .a5{height:290px;right:5px; top:470px; }
+
+.father3 .pCon  a{width:375px; height:270px;  position:absolute; display:block;}
+.father3 .pCon .a1{width:375px; height:385px;left:15px; top:193px; }
+.father3 .pCon .a2{width:400px;right:385px; top:70px; }
+.father3 .pCon .a3{width:365px;right:5px;  top:70px; }
+.father3 .pCon .a4{width:400px;right:385px; top:435px; }
+.father3 .pCon .a5{width:350px;right:5px; top:435px; }
+
+.father4 .pCon  a{width:385px; height:265px;  position:absolute; display:block;}
+.father4 .pCon .a1{width:470px; height:310px;left:15px; top:35px; }
+.father4 .pCon .a2{width:690px; height:310px;right:5px; top:45px; }
+.father4 .pCon .a3{left:15px; top:440px; }
+.father4 .pCon .a4{right:395px; top:440px; }
+.father4 .pCon .a5{width:375px; right:5px; top:440px; }
+
+.father5 .pCon  a{width:390px; height:265px;  position:absolute; display:block;}
+.father5 .pCon .a1{height:330px;left:15px; top:75px; }
+.father5 .pCon .a2{width:380px;height:400px;right:393px; top:110px; }
+.father5 .pCon .a3{width:365px;height:265px;right:5px;  top:75px; }
+.father5 .pCon .a4{width:400px;left:15px; top:465px; }
+.father5 .pCon .a5{right:2px; top:460px;}
+
+.father6 .pCon  a{width:395px;height:320px;position:absolute; display:block;}
+.father6 .pCon .a1{width:370px; height:265px; height:300px;left:15px; top:50px; }
+.father6 .pCon .a2{right:404px; top:50px; }
+.father6 .pCon .a3{right:5px;  top:50px; }
+.father6 .pCon .a4{width:585px;height:300px;left:15px; top:425px; }
+.father6 .pCon .a5{width:565px;right:5px; top:425px;}
+
+.father7 .pCon  a{width:395px;height:220px;position:absolute; display:block;}
+.father7 .pCon .a1{width:860px; height:250px;left:220px; top:22px; }
+.father7 .pCon .a2{left:15px; top:288px; }
+.father7 .pCon .a3{ right:350px; top:288px; }
+.father7 .pCon .a4{ width:340px;right:5px;top:288px; }
+.father7 .pCon .a5{width:860px;height:250px;right:110px; top:515px;}
+
+.father8 .pCon  a{width:390px; height:280px;  position:absolute; display:block;}
+.father8 .pCon .a1{width:585px; height:320px;left:15px; top:45px; }
+.father8 .pCon .a2{width:570px; height:320px;right:5px; top:45px; }
+.father8 .pCon .a3{left:15px; top:430px; }
+.father8 .pCon .a4{right:400px; top:430px; }
+.father8 .pCon .a5{right:5px; top:430px; }
+
+.father9 .pCon  a{width:370px; height:310px;  position:absolute; display:block;}
+.father9 .pCon .a1{width:760px;left:15px; top:45px; }
+.father9 .pCon .a2{width:390px;right:5px; top:45px; }
+.father9 .pCon .a3{left:15px; top:415px; }
+.father9 .pCon .a4{width:450px;right:345px; top:415px; }
+.father9 .pCon .a5{width:330px;height:330px; right:5px; top:415px; }
+
+/*神秘的诱惑梦中的女皇——香水专题*/
+.perfume1{height:810px;background:url(../images/folder/perfume/perfume01.jpg) top center  no-repeat;}
+.perfume2{height:1215px;background:url(../images/folder/perfume/perfume02.jpg) top center no-repeat;}
+.perfume3{height:1095px;background:url(../images/folder/perfume/perfume03.jpg) top center no-repeat;}
+.perfume4{height:775px;background:url(../images/folder/perfume/perfume04.jpg) top center no-repeat;}
+.perfume5{height:1000px;background:url(../images/folder/perfume/perfume05.jpg) top center no-repeat;}
+
+.perfume2 .pCon  a{width:315px; height:210px;  position:absolute; display:block;}
+.perfume2 .pCon .a1{width:890px;height:400px;left:210px; top:0; }
+.perfume2 .pCon .a2{width:510px;height:280px;left:110px;top:445px}
+.perfume2 .pCon .a3{width:450px;height:280px;right:110px; top:445px; }
+.perfume2 .pCon .a4{left:110px; top:795px; }
+.perfume2 .pCon .a5{right:435px; top:795px; }
+.perfume2 .pCon .a6{right:110px; top:795px; }
+
+.perfume3 .pCon  a{width:475px; height:230px;  position:absolute; display:block;}
+.perfume3 .pCon .a1{width:450px; height:310px;left:100px; top:0;}
+.perfume3 .pCon .a2{height:310px;right:110px; top:0;}
+.perfume3 .pCon .a3{left:120px;top:370px}
+.perfume3 .pCon .a4{right:110px; top:370px; }
+.perfume3 .pCon .a5{left:120px; top:660px; }
+.perfume3 .pCon .a6{right:110px; top:660px; }
+
+.perfume4 .pCon  a{width:315px; height:235px;  position:absolute; display:block;}
+.perfume4 .pCon .a1{left:110px; top:0; }
+.perfume4 .pCon .a2{right:435px; top:0; }
+.perfume4 .pCon .a3{width:280px;right:110px; top:0; }
+.perfume4 .pCon .a4{width:440px;height:280px;left:120px;top:295px}
+.perfume4 .pCon .a5{width:470px;height:280px;right:120px; top:295px; }
+
+.perfume5 .pCon  a{width:475px; height:230px;  position:absolute; display:block;}
+.perfume5 .pCon .a1{left:110px; top:0;}
+.perfume5 .pCon .a2{right:110px; top:0;}
+.perfume5 .pCon .a3{height:330px; right:120px;top:288px}
+
+

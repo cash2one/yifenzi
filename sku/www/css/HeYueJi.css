@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+/*电信套餐合约机*/
+.activityWapper{ width:100%; min-width:990px; margin:0 auto; background:#fdc954; padding-bottom:62px;}
+.activityWapper .headAd{ background:url(../images/bg/headerAd.jpg) center no-repeat; height:822px;}
+.activityWapper .actRule{ background:url(../images/bg/aboutRule.jpg) center no-repeat; height:390px;}
+.activityWapper .activityContent{ width:990px;margin:auto}
+.activityContent .actTit{ background:url(../images/bg/title.jpg) center no-repeat; height:141px;}
+.activityContent .pack01{ background:url(../images/bg/pack01.jpg) center no-repeat; height:880px; position:relative;}
+.activityContent .pack01 .a1{ position:absolute;left:50px;top:100px; width:280px; height:710px;}
+.activityContent .pack01 .a2{ position:absolute;left:340px;top:30px; width:320px; height:835px;}
+.activityContent .pack01 .a3{ position:absolute;right:0;top:100px; width:320px; height:710px;}
+.activityContent .pack02{ background:url(../images/bg/pack02.jpg) center no-repeat; height:905px; position:relative;}
+.activityContent .pack02 .a1{ position:absolute;left:30px;top:100px; width:290px; height:755px;}
+.activityContent .pack02 .a2{ position:absolute;left:340px;top:30px; width:320px; height:855px;}
+.activityContent .pack02 .a3{ position:absolute;right:0;top:50px; width:320px; height:780px;}
+
+
+
+
+
+.zt403{width:100%;}
+/*超值天翼4G套餐--合约机*/
+.pCon{ width:1200px; margin:0 auto; position:relative;}
+.pCon a{ position:absolute;display:block;}
+.heyueji01{height:200px;background:url(../images/bg/heyueji01.jpg) top center no-repeat;}
+.heyueji02{height:200px;background:url(../images/bg/heyueji02.jpg) top center no-repeat;}
+.heyueji03{height:200px;background:url(../images/bg/heyueji03.jpg) top center no-repeat;}
+.heyueji04{height:232px;background:url(../images/bg/heyueji04.jpg) top center no-repeat;}
+.heyueji05{height:240px;background:url(../images/bg/heyueji05.jpg) #fff top center no-repeat;}
+.heyueji06{height:247px;background:url(../images/bg/heyueji06.jpg) #fff top center no-repeat;}
+.heyueji07{height:255px;background:url(../images/bg/heyueji07.jpg) #fff top center no-repeat;}
+.heyueji08{height:257px;background:url(../images/bg/heyueji08.jpg) #fff top center no-repeat;}
+.heyueji09{height:169px;background:url(../images/bg/heyueji09.jpg) #fff top center no-repeat;}
+.heyueji10{height:222px;background:url(../images/bg/heyueji10.jpg) #fff top center no-repeat;}
+.heyueji11{height:232px;background:url(../images/bg/heyueji11.jpg) #fff top center no-repeat;}
+.heyueji12{height:236px;background:url(../images/bg/heyueji12.jpg) #fff top center no-repeat;}
+.heyueji13{height:310px;background:url(../images/bg/heyueji13.jpg) #fff top center no-repeat;}
+.heyueji14{height:200px;background:url(../images/bg/heyueji14.jpg) #fff top center no-repeat;}
+.heyueji15{height:200px;background:url(../images/bg/heyueji15.jpg) #fff top center no-repeat;}
+.heyueji16{height:200px;background:url(../images/bg/heyueji16.jpg) #fff top center no-repeat;}
+.heyueji17{height:200px;background:url(../images/bg/heyueji17.jpg) #fff top center no-repeat;}
+.heyueji18{height:200px;background:url(../images/bg/heyueji18.jpg) #fff top center no-repeat;}
+
+
+
+.heyueji05 .pCon a{width:320px;height:240px; }
+.heyueji05 .pCon .a1{left:109px; top:0;}
+.heyueji05 .pCon .a2{left:440px; top:0;}
+.heyueji05 .pCon .a3{right:109px; top:0;}
+
+.heyueji06 .pCon a{width:320px;height:247px; }
+.heyueji06 .pCon .a1{left:109px; top:0;}
+.heyueji06 .pCon .a2{left:440px; top:0;}
+.heyueji06 .pCon .a3{right:109px; top:0;}
+
+.heyueji07 .pCon a{width:320px;height:255px; }
+.heyueji07 .pCon .a1{left:109px; top:26px;}
+.heyueji07 .pCon .a2{left:440px; top:26px;}
+.heyueji07 .pCon .a3{right:109px; top:26px;}
+
+.heyueji08 .pCon a{width:320px;height:257px; }
+.heyueji08 .pCon .a1{left:109px; top:0;}
+.heyueji08 .pCon .a2{left:440px; top:0;}
+.heyueji08 .pCon .a3{right:109px; top:0;}
+
+.heyueji10 .pCon a{width:1000px;height:222px; }
+.heyueji10 .pCon .a1{left:0; top:0;}
+
+.heyueji11 .pCon a{width:1000px;height:232px; }
+.heyueji11 .pCon .a1{left:0; top:0;}
+
+.heyueji12 .pCon a{width:1000px;height:236px; }
+.heyueji12 .pCon .a1{left:0; top:0;}
+
+
+
+

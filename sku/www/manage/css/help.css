@@ -1,0 +1,8 @@
+/*盖网小助手样式*/
+#assistant{ width:164px; height:106px;background:url(../images/gwxzs_03.gif) center no-repeat;position: fixed;right: 59px;top: 190px;overflow:hidden; display: none}
+#assistant .assBox{ padding:25px 20px 43px 53px; width:92px; height:36px; position:relative;}
+#assistant .assBox a.assClose{ display:block;width:14px;height:14px;position:absolute; right:0px; top:-0px; cursor:pointer;}
+#assistant .assBox p{ font-size:12px; line-height:20px;}
+#assistant .assBox p b{color:#c90000}
+#assistant .assBox p a{color:#c90000;text-decoration:none;}
+#assistant .assBox p a:hover{text-decoration:underline;}

@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+*{margin:0; padding:0; text-decoration:none; list-style:none;}
+body, a, li, div, span, ul, p, p, b, i, form, h1, h2, h3 {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	color:#222;
+}
+html {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	color:#666;
+}
+body, form, html, ul, li {
+	margin:0px;
+	padding:0px;
+}
+div{
+	padding:0px;
+	margin:0px;
+	cursor:default;
+}
+a{
+	color:#2E2EFE;
+}
+a:link {
+	text-decoration:none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+img {
+	border:none;
+}
+.clear {
+	clear: both;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.alCenter {
+	text-align:center;
+}
+.hidden {
+	display:none;
+}
+
+html {
+	height:100%;
+	max-height:100%;
+	padding:0;
+	margin:0;
+	border:0;
+	font-size:76%;
+	font-family: trebuchet ms, tahoma, verdana, arial, sans-serif;
+}
+body {
+	height:100%;
+	max-height:100%;
+	padding:0;
+	margin:0;
+	border:0;
+}
+
+img{border:none;}
+
+a{outline:none;}
+
+.fl{float:left;}
+.fr{float:right;}
+
+/*产品图片列表*/
+.ImgList{ margin:10px 0px 10px 0px}
+.ImgList .imgbox { float: left;display: inline;width: 94px;margin-right: 12px;font-size: 12px;position: relative;}
+.ImgList .w_upload{ position:relative;width:94px; top:-1px;}
+.ImgList a.item_close{ background:url(/js/swf/images/delete.png) no-repeat;}
+.ImgList a.item_close{ position:absolute; display:block; width:14px; height:14px; background-position:-100px -182px; right:-6px; top:-6px; text-indent:-9999px; overflow:hidden; }
+.ImgList a.item_close:hover{ text-decoration:none; background-position:-100px -200px; }
+.ImgList .item_box{ display:block; width:80px; height:60px; padding:6px; border:#d3d3d3 1px solid; background-color:#f6f6f6; }
+.ImgList .item_box img{ display:block; width:80px; height:60px;}
+.ImgList .fm_bg,.fengmian{width:94px;height:25px; overflow:hidden;position:absolute;top:35px;}
+.ImgList .fm_bg{ background:#333;opacity:0.7;filter:alpha(opacity=70);z-index:1;}
+.ImgList .fengmian,a:hover.scroll_l,a:hover.scroll_r{background:url(/js/swf/images/direction.png) no-repeat scroll 0 0 transparent; }
+.ImgList .fengmian{z-index:2;background-position:0 0;}
+.ImgList .scroll_l,.scroll_r{width:17px;height:25px; display:inline-block;float:left;}
+.ImgList a.scroll_l:hover { background-position: 0 -26px;}
+.ImgList a.scroll_r:hover { background-position: -77px -26px;}
+.ImgList .set_fm{width:58px;height:25px; display:inline-block;float:left;margin:0 1px; overflow:hidden}
+.ImgList a:hover.set_fm{background-position:-18px -26px;}

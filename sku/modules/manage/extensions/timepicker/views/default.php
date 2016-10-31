@@ -1,0 +1,5 @@
+<?php if(is_object($this->model)): ?>
+<input type="text" class="<?php echo $css?>" id="<?php echo $this->id; ?>"  onKeyPress="if(event.keyCode < 222 || event.keyCode > 3) event.returnValue = false;" onKeyUp="this.value=this.value.replace(/[^\d\-]/g,'')" autocomplete="off" style="ime-mode: disabled" value="<?php echo $this->model->{$this->name}?$this->model->{$this->name}:$this->options['value']; ?>" name="<?php echo get_class($this->model).(!empty($this->options['tabularLevel'])?$this->options['tabularLevel']:'').'['.$this->name.']'; ?>" />
+<?php else: ?>
+  <input type="text" class="<?php echo $css?>" id="<?php echo $this->id; ?>" value="<?php echo $this->options['value']; ?>" name="<?php echo $this->name; ?>" autocomplete="off" onKeyPress="if(event.keyCode < 222 || event.keyCode > 3) event.returnValue = false;" onKeyUp="this.value=this.value.replace(/[^\d\-]/g,'')"/>
+<?php endif; ?>

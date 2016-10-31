@@ -1,0 +1,65 @@
+
+/**
+ * CSS styles for GateWang.
+ *
+ */
+
+ul.yiiPager {
+    display:block; 
+    text-align: center; 
+    height:22px; 
+    clear:both; 
+    padding-top:3px; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:12px; 
+    font-weight:normal; 
+}
+
+ul.yiiPager li {
+    display: inline;
+}
+ul.yiiPager a {
+    padding:12px; 
+    padding-top:4px; 
+    padding-bottom:4px; 
+    border:1px solid #EBEBEB; 
+}
+ul.yiiPager a:link,
+ul.yiiPager a:visited {
+    margin-left:5px; 
+    text-decoration:none; 
+    background-color:#FFBAAD; 
+    color:#fff; 
+    width:22px; 
+    font-weight:normal; 
+}
+
+ul.yiiPager .page a {
+    font-weight: normal;
+}
+
+ul.yiiPager a:hover {
+    background-color:#FF3C3C; 
+    color:#fff;    
+}
+
+ul.yiiPager .selected a {
+    padding:12px; 
+    padding-top:4px; 
+    padding-bottom:4px; 
+    margin-left:5px; 
+    text-decoration:none; 
+    background-color:#FF3C3C; 
+    color:#fff; 
+    cursor:default; 
+    font-weight: bold;
+}
+
+ul.yiiPager .hidden a {
+    margin-left:10px; 
+    text-decoration:none; 
+    background-color:#F5F5F5; 
+    color:#D7D7D7; 
+    cursor:default; 
+}
+

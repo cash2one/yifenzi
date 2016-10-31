@@ -1,0 +1,60 @@
+/*浏览器样式重置*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form, 
+fieldset,input,textarea,p,blockquote,th,td
+{ 
+	margin:0; 
+	padding:0; 
+} 
+table { 
+	border-collapse:collapse; 
+	border-spacing:0; 
+} 
+a{text-decoration: none; color: #fff;}
+fieldset,img {border:0;} 
+address,caption,cite,code,dfn,em,strong,th,var { 
+	font-style:normal; 
+	font-weight:normal; 
+} 
+ol,ul { 
+	list-style:none; 
+} 
+caption,th {text-align:left; } 
+h1,h2,h3,h4,h5,h6 { 
+	font-size:100%; 
+	font-weight:normal; 
+} 
+q:before,q:after {content:'';} 
+abbr,acronym {border:0;}
+/*浏览器样式重置*/
+
+body{background-color: #263b4a; font-family: cursive '微软雅黑'; color: #15b6b3;}
+.main{}
+.wrap_left{width: 40%; float: left;}
+.wrap_left .phone_projection{padding: 0 5%;}
+.wrap_left img{width: 100%; height: 100%;}
+.wrap_right{/* width: calc(80% - 5rem); */ width: 80%; margin: 0 auto;/*  float: left; padding-left: 1rem; padding-right: 4rem;*/}
+.phone_bg{height: 100%; background: url(../images/phone_projection.png) center center no-repeat; background-size: contain;}
+.wrap_right h2{color: #fff; font-size: 0.6rem;}
+.wrap_right .progress{font-size: 0.5rem; margin: .2rem 0;}
+/* .step-1{display: none;} */
+.step-2{display: none;}
+.step-1{margin-top: 3rem;}
+.step-2{margin-top: 3rem;}
+.step-2 p{color: #fff; text-align: center;}
+.step-2 .info{font-size: 1rem;}
+.step-2 .luckynumber{font-size: 1.8rem; letter-spacing: .3rem;}
+
+.progress_bar{position: relative; height: 20px; margin: 30px 0;}
+.progress_bar .bar{height: 20px; border-radius: 10px; position: absolute;}
+.progress_bar .back_bar{width: 100%; background-color: #fff;}
+.progress_bar .front_bar{background-color: #15b6b3; z-index: 99;/*  transition: all .5s; -webkit-transition: all .5s */;}
+.progress_bar .bar_icon{width: 20px; height: 20px; background-color: #fff; border: 10px solid #15b6b3; border-radius: 50%; position: absolute; top: -10px; z-index: 100;/*  transition: all .1s; -webkit-transition: all .1s; */}
+.count_down{width: 3.5rem; height: 3.5rem; font-size: 3rem; line-height: 3.5rem; margin: 0 auto; text-align: center; display: none;}
+
+.item{width: 80%; position: absolute; bottom: 3rem;}
+.item .item_1,.item .item_2,.item .item_3{width: calc(33.3% - 2rem - 24px); float: left; height: 2rem; line-height: 2rem; border: 4px solid #fff; border-radius: 10px; margin: 0 1rem;}
+.item a{display: block; text-align: center; font-size: .7rem;}
+
+.fl{float: left;}
+.fr{float: right;}
+.clear{clear: both;}

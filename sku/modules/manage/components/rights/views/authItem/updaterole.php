@@ -1,0 +1,1 @@
+<?php $this->renderPartial('_roleform', array('model' => $model, 'rights' => $rights)); ?>

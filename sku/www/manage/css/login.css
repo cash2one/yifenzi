@@ -1,0 +1,83 @@
+/** Global **/
+body, td, a, li, div, span, ul, p, input, textarea,b,i, form{font-family: Arial, Verdana, sans-serif;font-size: 12px; color:#000;}
+*,html{font-family: Arial, Verdana, sans-serif;color:#333;}
+body,form{margin:0px; padding:0px;}
+div{ padding:0px; margin:0px;overflow:hidden; cursor:default;}
+a:link    {color:#333333; font-family: Arial, Verdana, sans-serif; font-size: 12px; background-color:transparent;  text-decoration:none; }     
+a:visited {color:#333333; font-family: Arial, Verdana, sans-serif; font-size: 12px; background-color:transparent; text-decoration: none;}     
+a:hover   {color:#FF9E00; font-family: Arial, Verdana, sans-serif; font-size: 12px; background-color:transparent;text-decoration: none;}  
+a:active  {color:#333333; font-family: Arial, Verdana, sans-serif; font-size: 12px; background-color:transparent;text-decoration: none;}                                     
+img{border:none;}
+.clear{clear: both; font-size: 1px; line-height: 0px; }
+.hidden{display:none;}
+
+body{
+    background:#f8f8f8 url(../images/bg-tile.jpg) repeat-x center top;
+}
+.dWrapper{
+    height:600px; background:url(../images/bg.jpg) no-repeat center top;
+}
+.pnlLogin{
+    margin:260px auto 0px auto; padding-left:350px; width:530px; 
+}
+.pnlLogin .tbl{
+    width:100%;
+}
+.pnlLogin .tbl td{
+    height:50px;
+}
+.pnlLogin .tbl .c1{
+    width:80px; font-size:14px; font-weight:bold; color:#fff; text-align:right;
+}
+.pnlLogin .errormsg{
+    color:#f00; height:30px; line-height:20px;
+}
+.pnlLogin .changecode, .pnlLogin .changecode:link, .pnlLogin .changecode:visited{
+    color:#ccc;
+}
+.pnlLogin .changecode:hover{
+    color:#f60;
+}
+.pnlLogin .inputbox{
+    width:212px; height:35px; line-height:35px; font-size:14px;  border:none; font-weight:bold;
+    padding:0px 0px 0px 35px; margin:0px;
+}
+.pnlLogin .username{background:url(../images/username.jpg) no-repeat;}
+.pnlLogin .password{background:url(../images/password.jpg) no-repeat;}
+.pnlLogin .vcode{ width:70px; padding:0px 0px 0px 10px;background:url(../images/vcode.jpg) no-repeat;}
+.pnlLogin .btnlogin{
+    height:34px; width:97px; padding:0px; margin:20px 50px 0px 0px; border:none; 
+    background:url(../images/btn_login.jpg) no-repeat; cursor:pointer;
+}
+.pnlLogin .authenticated {
+}
+.pnlLogin .authenticated td{
+    height:50px; line-height:50px; color:#fff; font-weight:normal; 
+}
+.pnlLogin .authenticated span{
+    padding:0px 10px; color:#fff;
+}
+.pnlLogin .authenticated a, .pnlLogin .authenticated a:link, .pnlLogin .authenticated a:visited{
+    color:#fff;
+}
+.pnlLogin .authenticated a:hover{
+    color:#f60;
+}
+/***验证错误***/
+.field-validation-error{
+    color:#f00; height:24px; line-height:24px; overflow:hidden; margin-left:5px;
+    background:#FFFFC0 url(../images/error.gif) no-repeat left center; padding-left:20px; border:1px solid #FFD040;
+}
+.field-validation-error span{
+    color:#C00000;
+}
+.validation-summary-errors{
+    padding:0px; margin:0px; height:30px; line-height:20px;
+}
+.validation-summary-errors ul{ 
+    list-style:none;  padding:0px; margin:0px;
+}
+.validation-summary-errors ul li{
+    color:#f00; height:24px; line-height:24px; overflow:hidden; margin-left:5px;
+    background:#FFFFC0 url(../images/error.gif) no-repeat left center; padding-left:20px; border:1px solid #FFD040;
+}

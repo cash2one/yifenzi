@@ -1,0 +1,25 @@
+<?php
+//语言包文件
+return array (
+    '小微企业联盟' => 'Samll enterprise alliance ',
+    '你没有权限修改别人的数据！' => 'You have no access to modify other people\'s data！',
+    '商品分类管理 _ ' => 'Catagory management_ ',
+    '添加商品分类 _ ' => 'Add Catagory management_ ',
+    '添加商家分类成功' => 'Add merchants classfication successfully',
+    '添加商家分类失败' => 'Fail to add merchants classfication',
+    '修改商品分类 _ ' => 'Modify catagory _ ',
+    '编辑商家分类成功' => 'Edit merchants classfication successfully',
+    '编辑商家分类失败' => 'Fail to edit merchants classfication',
+    '删除商家分类成功' => 'Delete merchants classfication successfully',
+    '该分类下有商品，不可删除！' => 'You cannot delete any category with goods in it！',
+    '默认最大排序为255' => 'Default maximum rank is  255',
+    '商品管理' => 'Goods management',
+    '分类管理' => 'Sort management',
+    '添加分类' => 'Add classfication',
+    '分类列表' => 'Classfication list',
+    '排序' => 'Rank',
+    '分类名称' => 'Classfication name',
+    '操作' => 'operate',
+    '说明' => 'Introduction',
+    '编辑分类' => 'Edit classfication',
+);

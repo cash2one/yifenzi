@@ -1,0 +1,39 @@
+/*卖家平台 样式微调*/
+
+/* 商品列表 */
+.goodsIndex{
+    width:100%;
+}
+.goodsIndex th {
+    background: none repeat scroll 0 0 #212121;
+    border-right: 1px solid #212121;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.goodsIndex th a.sort-link{
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.goodsIndex td {
+    text-align: center;
+}
+
+/* 新增商家分类提交按钮样式 */
+.reg-sub{
+    background-image: url("../images/bg/sellerBtn03.gif");
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    width: 120px;
+}
+
+/* 商家分类 */
+.mt15 {
+    margin-bottom: 15px;
+}

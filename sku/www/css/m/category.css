@@ -1,0 +1,22 @@
+html,body,p,ul,h1,h2,h3,hr{padding: 0;margin: 0}ul,li{list-style: none}html,body{width:100%;height:100%;overflow:hidden;}body{position: relative;background:#fff;font-size:14px;line-height:1.5;font-family:Microsoft YaHei,Helvetica,Arial;color:#666;}
+a{text-decoration: none}
+.clearfix{zoom: 1}
+.clearfix: after{content: ".";display: block;height: 0;clear: both;visibility: hidden}
+.header{position:fixed;top:0;z-index:9999}
+.category{display:-webkit-box;box-sizing: border-box;width: 100%;height: 100%;padding-top:50px;margin:0 auto;background: #fff;overflow:hidden;}
+.category-left{width:23%;box-sizing:border-box;border-bottom:1px solid #dbdbdb;background:#fdfdfd;cursor:default;cursor: move;overflow-y:scroll;}
+.category-right{box-sizing:border-box;width: 100%;border-left: 1px solid #ddd;background: #fff;}
+.cate-list {overflow-x:hidden;}
+.cate-list li{position:relative;height:64px;line-height:64px;text-align:center;border-bottom: 1px solid #ddd;}
+.cate-list li a{position:absolute;width:100%;height:64px;line-height:64px;display: block;-webkit-box-sizing:border-box;border-left:6px solid #fff;border-right:1px solid #dbdbdb;background:#fff;text-align:center;cursor:pointer;}
+.cate-list li a.cur,.cate-list li a:hover{border-left:6px solid #f44336;color:#ff5000;}
+.cate-list li a  img{width:67px;height:62px;}
+.cate-list li a .icoTriangle{position:absolute;right:-6px;top:50%;margin-top:-8px;z-index:5;display:none;width:10px;height:10px;background:#fff;border-left:1px solid #dbdbdb;border-bottom:1px solid #dbdbdb;font-size:0;line-height:5;overflow:hidden;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);}
+.cate-list li a:hover .icoTriangle,.cate-list li a.cur  .icoTriangle{display:block;}
+.cateConts {width:77%;float:left;text-align:center;padding-bottom:50px;overflow:hidden;}
+.cateItem{clear:both;}
+.cateConts .cateAdver{width:94.36%;min-height:85px;margin:15px auto;overflow:hidden;}
+.cateConts .cateAdver img{width:100%;}
+.cateItem .columnTit{height:40px;line-height:50px;font-size:18px;clear:both;color:#000}
+.cateItem .itemList li{float:left;margin:2.5% 0 0 4%;}
+.cateItem .itemList li a{display:block;padding:0 10px;height:30px;font-size:100%;line-height:30px;color:#111;border:1px solid #dbdbdb;border-radius:5px;background:#fff;text-align:center;overflow:hidden;}

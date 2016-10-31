@@ -1,0 +1,3004 @@
+/*=====
+    @Date:2014-03-31
+    @author:bozhen_xiong
+ =====*/
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/* 服饰鞋帽 */
+.CA1{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_01.jpg) top center no-repeat;}
+.CA2{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_02.jpg) top center no-repeat;}
+.CA3{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_03.jpg) top center no-repeat;}
+.CA4{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_04.jpg) top center no-repeat;}
+.CA5{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_05.jpg) top center no-repeat;}
+.CA6{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_06.jpg) top center no-repeat;}
+.CA7{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_07.jpg) top center no-repeat;}
+.CA8{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_08.jpg) top center no-repeat;}
+.CA9{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_09.jpg) top center no-repeat;}
+.CA10{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_10.jpg) top center no-repeat;}
+.CA11{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_11.jpg) top center no-repeat;}
+.CA12{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_12.jpg) top center no-repeat;}
+.CA13{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_13.jpg) top center no-repeat;}
+.CA14{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_14.jpg) top center no-repeat;}
+.CA15{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_15.jpg) top center no-repeat;}
+.CA16{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_16.jpg) top center no-repeat;}
+.CA17{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_17.jpg) top center no-repeat;}
+.CA18{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_18.jpg) top center no-repeat;}
+.CA19{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_19.jpg) top center no-repeat;}
+.CA20{height:400px;background:url(http://att.bitgaiwang.com/zt/oybClothShoes/CA_20.jpg) top center no-repeat;}
+
+
+.CA3 .pCon a{width:236px;height:333px;}
+.CA3 .pCon .a1{left:45px;top:266px;width:373px;height:670px;}
+.CA3 .pCon .a2{left:429px;top:266px;}
+.CA3 .pCon .a3{right:290px;top:266px;}
+.CA3 .pCon .a4{right:49px;top:266px;}
+.CA3 .pCon .a5{left:429px;top:604px;}
+.CA3 .pCon .a6{right:290px;top:604px;}
+.CA3 .pCon .a7{right:49px;top:604px;}
+
+.CA5 .pCon a{width:362px;height:277px;}
+.CA5 .pCon .a1{left:48px;top:141px;}
+.CA5 .pCon .a2{left:416px;top:141px;}
+.CA5 .pCon .a3{right:50px;top:141px;}
+
+.CA6 .pCon a{width:236px;height:333px;}
+.CA6 .pCon .a1{left:45px;top:100px;width:373px;height:670px;}
+.CA6 .pCon .a2{left:429px;top:100px;}
+.CA6 .pCon .a3{right:290px;top:100px;}
+.CA6 .pCon .a4{right:49px;top:100px;}
+.CA6 .pCon .a5{left:429px;top:439px;}
+.CA6 .pCon .a6{right:290px;top:439px;}
+.CA6 .pCon .a7{right:49px;top:439px;}
+
+.CA7 .pCon a{width:362px;height:277px;}
+.CA7 .pCon .a1{left:48px;top:376px;}
+.CA7 .pCon .a2{left:416px;top:376px;}
+.CA7 .pCon .a3{right:50px;top:376px;}
+
+.CA8 .pCon a{width:362px;height:277px;}
+.CA8 .pCon .a1{left:48px;top:261px;}
+.CA8 .pCon .a2{left:416px;top:261px;}
+.CA8 .pCon .a3{right:50px;top:261px;}
+
+.CA9 .pCon a{width:236px;height:333px;}
+.CA9 .pCon .a1{left:45px;top:261px;width:373px;height:670px;}
+.CA9 .pCon .a2{left:429px;top:261px;}
+.CA9 .pCon .a3{right:290px;top:261px;}
+.CA9 .pCon .a4{right:49px;top:261px;}
+.CA9 .pCon .a5{left:429px;top:598px;}
+.CA9 .pCon .a6{right:290px;top:598px;}
+.CA9 .pCon .a7{right:49px;top:598px;}
+
+.CA10 .pCon a{width:362px;height:277px;}
+.CA10 .pCon .a1{left:48px;top:536px;}
+.CA10 .pCon .a2{left:416px;top:536px;}
+.CA10 .pCon .a3{right:50px;top:536px;}
+
+.CA11 .pCon a{width:236px;height:333px;}
+.CA11 .pCon .a1{left:45px;top:497px;width:373px;height:670px;}
+.CA11 .pCon .a2{left:429px;top:497px;}
+.CA11 .pCon .a3{right:290px;top:497px;}
+.CA11 .pCon .a4{right:49px;top:497px;}
+.CA11 .pCon .a5{left:429px;top:834px;}
+.CA11 .pCon .a6{right:290px;top:834px;}
+.CA11 .pCon .a7{right:49px;top:834px;}
+
+.CA12 .pCon a{width:270px;height:332px;}
+.CA12 .pCon .a1{left:46px;top:774px;}
+.CA12 .pCon .a2{left:324px;top:774px;}
+.CA12 .pCon .a3{right:328px;top:774px;}
+.CA12 .pCon .a4{right:49px;top:774px;}
+.CA12 .pCon .a5{left:46px;top:1113px;}
+.CA12 .pCon .a6{left:324px;top:1113px;}
+.CA12 .pCon .a7{right:328px;top:1113px;}
+.CA12 .pCon .a8{right:49px;top:1113px;}
+
+.CA15 .pCon a{width:362px;height:244px;}
+.CA15 .pCon .a1{left:48px;top:251px;}
+.CA15 .pCon .a2{left:416px;top:251px;}
+.CA15 .pCon .a3{right:50px;top:251px;}
+
+.CA16 .pCon a{width:236px;height:333px;}
+.CA16 .pCon .a1{left:45px;top:186px;width:373px;height:670px;}
+.CA16 .pCon .a2{left:429px;top:186px;}
+.CA16 .pCon .a3{right:290px;top:186px;}
+.CA16 .pCon .a4{right:49px;top:186px;}
+.CA16 .pCon .a5{left:429px;top:526px;}
+.CA16 .pCon .a6{right:290px;top:526px;}
+.CA16 .pCon .a7{right:49px;top:526px;}
+
+.CA17 .pCon a{width:270px;height:332px;}
+.CA17 .pCon .a1{left:46px;top:464px;}
+.CA17 .pCon .a2{left:324px;top:464px;}
+.CA17 .pCon .a3{right:328px;top:464px;}
+.CA17 .pCon .a4{right:49px;top:464px;}
+.CA17 .pCon .a5{left:46px;top:804px;}
+.CA17 .pCon .a6{left:324px;top:804px;}
+.CA17 .pCon .a7{right:328px;top:804px;}
+.CA17 .pCon .a8{right:49px;top:804px;}
+
+
+/*情人节酒店预订*/
+
+.oybHotel01{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_01.jpg) top center no-repeat;}
+.oybHotel02{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_02.jpg) top center no-repeat;}
+.oybHotel03{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_03.jpg) top center no-repeat;}
+.oybHotel04{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_04.jpg) top center no-repeat;}
+.oybHotel05{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_05.jpg) top center no-repeat;}
+.oybHotel06{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_06.jpg) top center no-repeat;}
+.oybHotel07{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_07.jpg) top center no-repeat;}
+.oybHotel08{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_08.jpg) top center no-repeat;}
+.oybHotel09{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_09.jpg) top center no-repeat;}
+.oybHotel10{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_10.jpg) top center no-repeat;}
+.oybHotel11{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_11.jpg) top center no-repeat;}
+.oybHotel12{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_12.jpg) top center no-repeat;}
+.oybHotel13{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_13.jpg) top center no-repeat;}
+.oybHotel14{height:400px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_14.jpg) top center no-repeat;}
+.oybHotel15{height:483px; background:url(http://att.bitgaiwang.com/zt/oybHotel/hotel_15.jpg) top center no-repeat;width: 100%}
+
+.oybHotel04 .pCon a{ width:448px; height:448px;}
+.oybHotel04 .pCon .a1{left:5px;top:-39px;}
+.oybHotel04 .pCon .a2{left:521px;top:-177px;}
+
+.oybHotel05 .pCon a{width:448px; height:448px;}
+.oybHotel05 .pCon .a1{left:5px;top:33px;}
+.oybHotel05 .pCon .a2{left:521px;top:-103px;}
+
+.oybHotel06 .pCon a{width:448px; height:448px;}
+.oybHotel06 .pCon .a1{left:5px;top:167px;}
+.oybHotel06 .pCon .a2{left:521px;top:332px;}
+
+.oybHotel07 .pCon a{width:448px; height:448px;}
+.oybHotel07 .pCon .a1{left:5px;top:239px;}
+.oybHotel07 .pCon .a2{left:521px;top:407px;}
+
+.oybHotel09 .pCon a{width:448px; height:448px;}
+.oybHotel09 .pCon .a1{left:5px;top:290px;}
+.oybHotel09 .pCon .a2{left:521px;top:152px;}
+
+.oybHotel10 .pCon a{width:448px; height:448px;}
+.oybHotel10 .pCon .a1{left:5px;top:362px;}
+.oybHotel10 .pCon .a2{left:521px;top:226px;}
+
+.oybHotel11 .pCon a{width:448px; height:448px;}
+.oybHotel11 .pCon .a1{left:5px;top:506px;}
+.oybHotel11 .pCon .a2{left:521px;top:673px;}
+
+.oybHotel12 .pCon a{width:448px; height:448px;}
+.oybHotel12 .pCon .a1{left:5px;top:577px;}
+.oybHotel12 .pCon .a2{left:521px;top:746px;}
+
+/* 一元购专题 */
+.yiyuan01{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan01.jpg) no-repeat top center;}
+.yiyuan02{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan02.jpg) no-repeat top center;}
+.yiyuan03{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan03.jpg) no-repeat top center;}
+.yiyuan04{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan04.jpg) no-repeat top center;}
+.yiyuan05{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan05.jpg) no-repeat top center;}
+.yiyuan06{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan06.jpg) no-repeat top center;}
+.yiyuan07{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan07.jpg) no-repeat top center;}
+.yiyuan08{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan08.jpg) no-repeat top center;}
+.yiyuan09{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan09.jpg) no-repeat top center;}
+.yiyuan10{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan10.jpg) no-repeat top center;}
+.yiyuan11{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan11.jpg) no-repeat top center;}
+.yiyuan12{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan12.jpg) no-repeat top center;}
+.yiyuan13{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan13.jpg) no-repeat top center;}
+.yiyuan14{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan14.jpg) no-repeat top center;}
+.yiyuan15{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan15.jpg) no-repeat top center;}
+.yiyuan16{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan16.jpg) no-repeat top center;}
+.yiyuan17{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan17.jpg) no-repeat top center;}
+.yiyuan18{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan18.jpg) no-repeat top center;}
+.yiyuan19{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan19.jpg) no-repeat top center;}
+.yiyuan20{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan20.jpg) no-repeat top center;}
+.yiyuan21{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan21.jpg) no-repeat top center;}
+.yiyuan22{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan22.jpg) no-repeat top center;}
+.yiyuan23{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan23.jpg) no-repeat top center;}
+.yiyuan24{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan24.jpg) no-repeat top center;}
+.yiyuan25{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan25.jpg) no-repeat top center;}
+.yiyuan26{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan26.jpg) no-repeat top center;}
+.yiyuan27{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan27.jpg) no-repeat top center;}
+.yiyuan28{position:relative;height:350px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan28.jpg) no-repeat top center;}
+.yiyuan29{position:relative;height:413px;background:url(http://att.bitgaiwang.com/zt/oybFixed/yiyuan29.jpg) no-repeat top center;}
+/***/
+.yiyuan04 a{width:837px;height:267px;left:65px;top:-95px;}
+.yiyuan05 a{width:578px;height:265px;left:65px;top:-95px;}
+.yiyuan05 .a1{top:-175px;left:65px;}
+.yiyuan05 .a2{width:483px;top:-175px;left:650px;}
+.yiyuan05 .a3{width:837px;height:265px;top:92px;left:295px;z-index:2;}
+.yiyuan06 a{height:305px;top:10px;}
+.yiyuan06 .a1{width:447px;left:68px;}
+.yiyuan06 .a2{width:612px;left:520px;}
+.yiyuan08 a{top:10px;}
+.yiyuan08 .a1{width:438px;height:455px;left:47px;top:-175px;}
+.yiyuan08 .a2{width:436px;height:250px;left:710px;top:-175px;}
+.yiyuan08 .a3{width:662px;height:205px;left:485px;top:75px;}
+.yiyuan09 .a1{width:1100px;height:232px;top:-70px;left:47px;}
+.yiyuan09 .a2{width:438px;height:250px;left:47px;top:170px;z-index:2;}
+.yiyuan09 .a3{width:436px;height:456px;left:710px;top:170px;z-index:2;}
+.yiyuan09 .a4{width:664px;height:206px;left:47px;top:420px; z-index:2;}
+.yiyuan11 .a1{width:1100px;height:232px;left:47px;top:-73px;z-index:3;}
+.yiyuan11 .a2{width:438px;height:250px;left:47px;top:165px;z-index:2;}
+.yiyuan11 .a3{width:436px;height:456px;top:165px;left:710px;z-index:2;}
+.yiyuan11 .a4{width:664px;height:206px;left:47px;top:415px;z-index:2;}
+.yiyuan11 .a5{width:1100px;height:232px;left:47px;top:620px;z-index:2;}
+.yiyuan13 .a1{width:434px;height:248px;left:275px;top:160px;z-index:2; }
+.yiyuan13 .a2{width:438px;height:248px;top:160px;z-index:2;left:710px;}
+.yiyuan15 .a1{width:488px;height:271px;left:47px;top:-102px;}
+.yiyuan15 .a2{width:612px;height:271px;left:535px;top:-102px;z-index:2;}
+.yiyuan15 .a3{width:260px;height:251px;left:47px;top:169px;z-index:2;}
+.yiyuan15 .a4{width:612px;height:251px;left:306px;top:169px;z-index:2;}
+.yiyuan16 .a1{width:347px;height:270px;left:47px;top:80px;}
+.yiyuan16 .a2{width:379px;height:270px;left:395px;top:80px;z-index:2;}
+.yiyuan16 .a3{width:374px;height:270px;left:775px;top:80px;z-index:2;}
+.yiyuan17 .a1{width:260px;height:249px;left:278px;}
+.yiyuan17 .a2{width:328px;height:249px;left:540px}
+.yiyuan17 .a3{width:280px;height:249px;left:868px;}
+.yiyuan17 .a4{width:296px;height:250px;top:258px;left:47px;z-index:2;}
+.yiyuan17 .a5{width:243px;height:250px;top:258px;left:345px;z-index:2;}
+.yiyuan17 .a6{width:333px;height:250px;top:258px;left:590px;z-index:2;}
+.yiyuan19 .a1{width:296px;height:329px;left:47px;}
+.yiyuan19 .a2{width:251px;height:185px;left:344px;}
+.yiyuan19 .a3{width:325px;height:185px;left:596px;}
+.yiyuan19 .a4{width:228px;height:185px;left:923px;}
+.yiyuan19 .a5{width:296px;height:188px;left:344px;top:186px;z-index:2;}
+.yiyuan19 .a6{width:291px;height:188px;left:860px;top:185px;z-index:2;}
+.yiyuan20 .a1{width:296px;height:248px;top:-20px;left:47px;}
+.yiyuan20 .a2{width:250px;height:193px;top:35px;left:344px;}
+.yiyuan20 .a3{width:322px;height:193px;left:595px;top:35px;}
+.yiyuan20 .a4{width:228px;height:193px;top:35px;left:918px;}
+.yiyuan21 .a1{width:438px;height:249px;left:47px;top:-115px;}
+.yiyuan21 .a2{width:436px;height:456px; z-index:2;left:710px;top:-115px;}
+.yiyuan21 .a3{width:664px;height:207px;top:135px;left:47px; z-index:2;}
+.yiyuan22 .a1{width:1100px;height:232px;left:47px;top:-10px;}
+.yiyuan22 .a2{width:296px;height:250px;top:230px;left:47px;z-index:2;}
+.yiyuan22 .a3{width:299px;height:250px;top:230px;left:585px;z-index:2;}
+.yiyuan22 .a4{width:262px;height:250px;top:230px;left:888px;z-index:2;}
+.yiyuan23 .a1{width:296px;height:580px;top:140px;left:45px;z-index:2;}
+.yiyuan23 .a2{width:250px;height:188px;top:140px;left:345px;z-index:2;}
+.yiyuan23 .a3{width:324px;height:188px;top:140px;left:596px;z-index:2;}
+.yiyuan23 .a4{width:228px;height:188px;left:920px;top:140px;z-index:2;}
+.yiyuan23 .a5{width:575px;height:190px;top:328px;left:345px;z-index:2;}
+.yiyuan23 .a6{width:414px;height:204px;left:345px;top:516px;z-index:2;}
+.yiyuan23 .a7{width:390px;height:204px;left:760px;top:516px;z-index:2;}
+.yiyuan26 .a1{width:488px;height:270px;left:47px;top:-140px;}
+.yiyuan26 .a2{width:612px;height:270px;top:-140px;left:536px;}
+.yiyuan26 .a3{width:260px;height:252px;left:47px;top:130px;z-index:2;}
+.yiyuan26 .a4{width:612px;height:252px;top:130px;left:305px;z-index:2;}
+.yiyuan27 .a1{width:297px;height:253px;top:35px;left:47px;}
+.yiyuan27 .a2{width:299px;height:253px;top:35px;left:590px;}
+.yiyuan27 .a3{width:259px;height:253px;top:35px;left:890px;}
+.yiyuan28 .a1{width:488px;height:277px;left:47px;top:-60px;}
+.yiyuan28 .a2{width:609px;height:277px;top:-60px;left:540px;}
+.yiyuan28 .a3{width:262px;height:245px;left:47px;top:215px;z-index:2;}
+.yiyuan28 .a4{width:604px;height:245px;top:215px;left:310px;z-index:2;}
+.yiyuan29 .a1{width:290px;height:255px;left:47px;top:110px;}
+.yiyuan29 .a2{width:273px;height:255px;top:110px;left:345px;}
+.yiyuan29 .a3{width:288px;height:255px;top:110px;left:625px;}
+.yiyuan29 .a4{width:235px;height:255px;top:110px;left:915px;}
+
+/* 20150214情人节*/
+.valentine1{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_01.jpg) top center no-repeat;}
+.valentine2{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_02.jpg) top center no-repeat;}
+.valentine3{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_03.jpg) top center no-repeat;}
+.valentine4{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_04.jpg) top center no-repeat;}
+.valentine5{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_05.jpg) top center no-repeat;}
+.valentine6{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_06.jpg) top center no-repeat;}
+.valentine7{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_07.jpg) top center no-repeat;}
+.valentine8{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_08.jpg) top center no-repeat;}
+.valentine9{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_09.jpg) top center no-repeat;}
+.valentine10{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_10.jpg) top center no-repeat;}
+.valentine11{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_11.jpg) top center no-repeat;}
+.valentine12{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_12.jpg) top center no-repeat;}
+.valentine13{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_13.jpg) top center no-repeat;}
+.valentine14{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_14.jpg) top center no-repeat;}
+.valentine15{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_15.jpg) top center no-repeat;}
+.valentine16{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_16.jpg) top center no-repeat;}
+.valentine17{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_17.jpg) top center no-repeat;}
+.valentine18{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_18.jpg) top center no-repeat;}
+.valentine19{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_19.jpg) top center no-repeat;}
+.valentine20{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_20.jpg) top center no-repeat;}
+.valentine21{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_21.jpg) top center no-repeat;}
+.valentine22{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_22.jpg) top center no-repeat;}
+.valentine23{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_23.jpg) top center no-repeat;}
+.valentine24{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_24.jpg) top center no-repeat;}
+.valentine25{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_25.jpg) top center no-repeat;}
+.valentine26{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_26.jpg) top center no-repeat;}
+.valentine27{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_27.jpg) top center no-repeat;}
+.valentine28{height:328px; background:url(http://att.bitgaiwang.com/zt/oybValentine/valentine_28.jpg) top center no-repeat;}
+
+
+.valentine4 .pCon .a1{ width:310px; height:330px; left:490px; top:-130px;}
+.valentine4 .pCon .a2{ width:268px; height:354px; left:836px; top:0px; z-index:2;}
+.valentine4 .pCon .a3{ width:241px; height:292px; left:128px; top:240px;}
+.valentine4 .pCon .a4{ width:440px; height:350px; left:458px; top:214px; z-index:1;}
+
+
+.valentine7 .pCon .a1{ width:220px; height:260px; left:127px; top:-245px;}
+.valentine7 .pCon .a2{ width:255px; height:327px; left:486px; top:-233px; z-index:1;}
+.valentine7 .pCon .a3{ width:350px; height:418px; left:730px; top:-70px; z-index:2;}
+.valentine7 .pCon .a4{ width:260px; height:324px; left:448px; top:150px;}
+.valentine7 .pCon .a5{ width:213px; height:258px; left:163px; top:229px;}
+
+
+.valentine9 .pCon .a1{ width:257px; height:275px; left:124px; top:-64px;}
+.valentine9 .pCon .a2{ width:263px; height:322px; left:482px; top:-48px;}
+.valentine9 .pCon .a3{ width:344px; height:441px; left:754px; top:75px;}
+.valentine9 .pCon .a4{ width:255px; height:342px; left:490px; top:330px;}
+.valentine9 .pCon .a5{ width:255px; height:280px; left:92px; top:391px;}
+
+
+.valentine12 .pCon .a1{ width:246px; height:282px; left:122px; top:-170px;}
+.valentine12 .pCon .a2{ width:257px; height:325px; left:487px; top:-183px;}
+.valentine12 .pCon .a3{ width:350px; height:417px; left:748px; top:-46px; z-index:2;}
+.valentine12 .pCon .a4{ width:289px; height:318px; left:496px; top:248px; z-index:1;}
+.valentine12 .pCon .a5{ width:240px; height:294px; left:111px; top:286px;}
+
+
+.valentine14 .pCon .a1{ width:210px; height:238px; left:112px; top:36px;}
+.valentine14 .pCon .a2{ width:257px; height:332px; left:534px; top:-23px; z-index:1;}
+.valentine14 .pCon .a3{ width:347px; height:423px; left:760px; top:168px; z-index:2;}
+.valentine14 .pCon .a4{ width:254px; height:326px; left:478px; top:391px;}
+.valentine14 .pCon .a5{ width:247px; height:268px; left:126px; top:492px;}
+
+
+.valentine17 .pCon .a1{ width:221px; height:267px; left:117px; top:-120px;}
+.valentine17 .pCon .a2{ width:255px; height:329px; left:503px; top:-168px; z-index:1;}
+.valentine17 .pCon .a3{ width:354px; height:416px; left:745px; top:5px; z-index:2;}
+.valentine17 .pCon .a4{ width:326px; height:323px; left:492px; top:297px; z-index:1;}
+.valentine17 .pCon .a5{ width:208px; height:236px; left:117px; top:385px;}
+
+
+.valentine21 .pCon .a1{ width:341px; height:213px; left:416px; top:-198px;}
+.valentine21 .pCon .a2{ width:337px; height:213px; left:775px; top:-198px;}
+.valentine21 .pCon .a3{ width:268px; height:256px; left:77px; top:39px;}
+.valentine21 .pCon .a4{ width:365px; height:256px; left:366px; top:39px;}
+.valentine21 .pCon .a5{ width:365px; height:256px; left:747px; top:39px;}
+
+
+.valentine23 .pCon .a1{ width:547px; height:256px; left:119px; top:-345px;}
+.valentine23 .pCon .a2{ width:382px; height:256px; left:691px; top:-345px;}
+.valentine23 .pCon .a3{ width:382px; height:256px; left:118px; top:-72px;}
+.valentine23 .pCon .a4{ width:547px; height:256px; left:524px; top:-72px;}
+.valentine23 .pCon .a5{ width:419px; height:280px; left:389px; top:204px;}
+.valentine23 .pCon .a6{ width:144px; height:49px; left:526px; top:514px;}
+.valentine26 .pCon .a1{ width:463px; height:215px; left:644px; top:-43px;}
+
+
+/*洋气过年专题 */
+.happyNewYear01{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear01.jpg) no-repeat top center;}
+.happyNewYear02{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear02.jpg) no-repeat top center;}
+.happyNewYear03{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear03.jpg) no-repeat top center;}
+.happyNewYear04{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear04.jpg) no-repeat top center;}
+.happyNewYear05{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear05.jpg) no-repeat top center;}
+.happyNewYear06{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear06.jpg) no-repeat top center;}
+.happyNewYear07{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear07.jpg) no-repeat top center;}
+.happyNewYear08{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear08.jpg) no-repeat top center;}
+.happyNewYear09{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear09.jpg) no-repeat top center;}
+.happyNewYear10{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear10.jpg) no-repeat top center;}
+.happyNewYear11{height:350px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear11.jpg) no-repeat top center;}
+.happyNewYear12{height:521px;background: url(http://att.bitgaiwang.com/zt/happyNewYear/happyNewYear12.jpg) no-repeat top center;}
+.happyNewYear03 a{width:292px;height:350px;}
+.happyNewYear03 .a1{left:78px;top:60px;}
+.happyNewYear03 .a2{left:425px;top:60px;}
+.happyNewYear03 .a3{left:775px;top:60px;}
+.happyNewYear04 a{width:270px;height:250px;}
+.happyNewYear04 .a1{top:200px;left:110px;}
+.happyNewYear04 .a2{top:200px;left:440px;}
+.happyNewYear04 .a3{top:200px;left:770px;}
+.happyNewYear05 a{width:270px;height:250px;}
+.happyNewYear05 .a1{top:120px;left:110px;}
+.happyNewYear05 .a2{width:330px;top:120px;left:400px;}
+.happyNewYear05 .a3{top:120px;left:770px;}
+.happyNewYear07 a{width:225px;height:270px;top:-140px;}
+.happyNewYear07 .a1{left:81px;}
+.happyNewYear07 .a2{left:337px;}
+.happyNewYear07 .a3{left:592px;}
+.happyNewYear07 .a4{left:847px;}
+.happyNewYear08 a{width:210px;height:240px; top:20px;}
+.happyNewYear08 .a1{left:110px;}
+.happyNewYear08 .a2{left:350px;}
+.happyNewYear08 .a3{left:585px;}
+.happyNewYear08 .a4{left:820px;}
+.happyNewYear09 a{width:210px;height:240px; top:-50px;}
+.happyNewYear09 .a1{left:110px;}
+.happyNewYear09 .a2{left:350px;}
+.happyNewYear09 .a3{left:585px;}
+.happyNewYear09 .a4{left:820px;}
+.happyNewYear10 a{width:230px;height:240px;top:-100px}
+.happyNewYear10 .a1{left:130px;}
+.happyNewYear10 .a2{left:450px;}
+.happyNewYear10 .a3{left:785px;}
+.happyNewYear11 a{width:225px;height:270px;top:-30px;}
+.happyNewYear11 .a1{left:81px;}
+.happyNewYear11 .a2{left:336px;}
+.happyNewYear11 .a3{left:591px;}
+.happyNewYear11 .a4{left:847px;}
+.happyNewYear12 a{width:225px;height:230px;top:80px;}
+.happyNewYear12 .a1{left:150px;}
+.happyNewYear12 .a2{left:445px;}
+.happyNewYear12 .a3{left:750px;}
+
+
+
+/* 美丽女人节专题 */
+.youshenghuo1{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo1.jpg) top center no-repeat;}
+.youshenghuo2{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo2.jpg) top center no-repeat;}
+.youshenghuo3{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo3.jpg) top center no-repeat;}
+.youshenghuo4{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo4.jpg) top center no-repeat;}
+.youshenghuo5{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo5.jpg) top center no-repeat;}
+.youshenghuo6{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo6.jpg) top center no-repeat;}
+.youshenghuo7{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo7.jpg) top center no-repeat;}
+.youshenghuo8{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo8.jpg) top center no-repeat;}
+.youshenghuo9{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo9.jpg) top center no-repeat;}
+.youshenghuo10{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo10.jpg) top center no-repeat;}
+.youshenghuo11{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo11.jpg) top center no-repeat;}
+.youshenghuo12{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo12.jpg) top center no-repeat;}
+.youshenghuo13{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo13.jpg) top center no-repeat;}
+.youshenghuo14{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo14.jpg) top center no-repeat;}
+.youshenghuo15{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo15.jpg) top center no-repeat;}
+.youshenghuo16{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo16.jpg) top center no-repeat;}
+.youshenghuo17{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo17.jpg) top center no-repeat;}
+.youshenghuo18{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo18.jpg) top center no-repeat;}
+.youshenghuo19{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo19.jpg) top center no-repeat;}
+.youshenghuo20{height:350px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo20.jpg) top center no-repeat;}
+.youshenghuo21{height:150px;background:url(http://att.bitgaiwang.com/zt/beautifulWoman/youshenghuo21.jpg) top center no-repeat;}
+
+
+
+.youshenghuo3 a{width:986px;height:400px;top:110px;left:110px;}
+.youshenghuo5 a{width:986px;height:405px;top:-50px;left:110px;}
+.youshenghuo6 .a1{width:495px;height:430px;top:70px;left:120px;}
+.youshenghuo6 .a2{width:485px;height:430px;top:30px;left:620px;}
+.youshenghuo8 a{width:986px;height:400px;top:-120px;left:120px;}
+.youshenghuo9 .a1{width:495px;height:430px;top:-60px;left:100px;}
+.youshenghuo9 .a2{width:485px;height:430px;top:-20px;left:600px;}
+.youshenghuo10 .a1{width:293px;height:411px;top:160px;left:138px;}
+.youshenghuo10 .a2{width:293px;height:411px;top:160px;left:434px;}
+.youshenghuo10 .a3{width:293px;height:411px;top:160px;left:730px;}
+.youshenghuo12 .a1{width:293px;height:411px;top:-100px;left:138px;}
+.youshenghuo12 .a2{width:293px;height:411px;top:-100px;left:434px;}
+.youshenghuo12 .a3{width:293px;height:411px;top:-100px;left:730px;}
+.youshenghuo13 .a1{width:293px;height:411px;top:50px;left:138px;}
+.youshenghuo13 .a2{width:293px;height:411px;top:50px;left:434px;}
+.youshenghuo13 .a3{width:293px;height:411px;top:50px;left:730px;}
+.youshenghuo14 .a1{width:293px;height:411px;top:120px;left:138px;}
+.youshenghuo14 .a2{width:293px;height:411px;top:120px;left:434px;}
+.youshenghuo14 .a3{width:293px;height:411px;top:120px;left:730px;}
+.youshenghuo16 .a1{width:293px;height:411px;top:-60px;left:138px;}
+.youshenghuo16 .a2{width:293px;height:411px;top:-60px;left:434px;}
+.youshenghuo16 .a3{width:293px;height:411px;top:-60px;left:730px;}
+.youshenghuo17 .a1{width:293px;height:401px;top:10px;left:138px;}
+.youshenghuo17 .a2{width:293px;height:401px;top:10px;left:434px;}
+.youshenghuo17 .a3{width:293px;height:401px;top:10px;left:730px;}
+.youshenghuo18 .a1{width:293px;height:401px;top:160px;left:138px;}
+.youshenghuo18 .a2{width:293px;height:401px;top:160px;left:434px;}
+.youshenghuo18 .a3{width:293px;height:401px;top:160px;left:730px;}
+.youshenghuo20 .a1{width:293px;height:401px;top:0px;left:138px;}
+.youshenghuo20 .a2{width:293px;height:401px;top:0px;left:434px;}
+.youshenghuo20 .a3{width:293px;height:401px;top:0px;left:730px;}
+.youshenghuo21 .a1{width:293px;height:401px;top:160px;left:138px;}
+.youshenghuo21 .a2{width:293px;height:401px;top:160px;left:434px;}
+.youshenghuo21 .a3{width:293px;height:401px;top:160px;left:730px;}
+
+
+
+
+
+/* 20150306妇女节专题*/
+.women1{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_01.jpg) top center no-repeat;}
+.women2{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_02.jpg) top center no-repeat;}
+.women3{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_03.jpg) top center no-repeat;}
+.women4{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_04.jpg) top center no-repeat;}
+.women5{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_05.jpg) top center no-repeat;}
+.women6{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_06.jpg) top center no-repeat;}
+.women7{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_07.jpg) top center no-repeat;}
+.women8{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_08.jpg) top center no-repeat;}
+.women9{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_09.jpg) top center no-repeat;}
+.women10{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_10.jpg) top center no-repeat;}
+
+.women11{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_11.jpg) top center no-repeat;}
+.women12{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_12.jpg) top center no-repeat;}
+.women13{height:344px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_13.jpg) top center no-repeat;}
+.women14{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_14.jpg) top center no-repeat;}
+.women15{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_15.jpg) top center no-repeat;}
+.women16{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_16.jpg) top center no-repeat;}
+.women17{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_17.jpg) top center no-repeat;}
+.women18{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_18.jpg) top center no-repeat;}
+.women19{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_19.jpg) top center no-repeat;}
+.women20{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_20.jpg) top center no-repeat;}
+
+.women21{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_21.jpg) top center no-repeat;}
+.women22{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_22.jpg) top center no-repeat;}
+.women23{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_23.jpg) top center no-repeat;}
+.women24{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_24.jpg) top center no-repeat;}
+.women25{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_25.jpg) top center no-repeat;}
+.women26{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_26.jpg) top center no-repeat;}
+.women27{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_27.jpg) top center no-repeat;}
+.women28{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_28.jpg) top center no-repeat;}
+.women29{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_29.jpg) top center no-repeat;}
+.women30{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_30.jpg) top center no-repeat;}
+
+.women31{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_31.jpg) top center no-repeat;}
+.women32{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_32.jpg) top center no-repeat;}
+.women33{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_33.jpg) top center no-repeat;}
+.women34{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_34.jpg) top center no-repeat;}
+.women35{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_35.jpg) top center no-repeat;}
+.women36{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_36.jpg) top center no-repeat;}
+.women37{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_37.jpg) top center no-repeat;}
+.women38{height:344px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_38.jpg) top center no-repeat;}
+.women39{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_39.jpg) top center no-repeat;}
+.women40{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_40.jpg) top center no-repeat;}
+
+.women41{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_41.jpg) top center no-repeat;}
+.women42{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_42.jpg) top center no-repeat;}
+.women43{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_43.jpg) top center no-repeat;}
+.women44{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_44.jpg) top center no-repeat;}
+.women45{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_45.jpg) top center no-repeat;}
+.women46{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_46.jpg) top center no-repeat;}
+.women47{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_47.jpg) top center no-repeat;}
+.women48{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_48.jpg) top center no-repeat;}
+.women49{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_49.jpg) top center no-repeat;}
+.women50{height:345px; background:url(http://att.bitgaiwang.com/zt/womenDay/women_50.jpg) top center no-repeat;}
+
+
+.women3 .pCon .a1{ width:293px; height:498px;left:-299px; top:91px;}
+
+.women4 .pCon a{width:106px; height:39px; left:1266px;}
+.women4 .pCon .a1{top:-11px;}
+.women4 .pCon .a2{top:29px;}
+.women4 .pCon .a3{top:69px;}
+.women4 .pCon .a4{top:109px;}
+.women4 .pCon .a5{top:149px;}
+.women4 .pCon .a6{top:189px;}
+.women4 .pCon .a7{top:229px;}
+.women4 .pCon .a8{top:269px;}
+.women4 .pCon .a9{top:309px;}
+.women4 .pCon .a10{top:349px;}
+.women4 .pCon .a11{top:389px;}
+.women4 .pCon .a12{top:429px;}
+.women4 .pCon .a13{top:469px;}
+.women4 .pCon .a14{top:509px;}
+
+/*一元包邮*/
+.women5 .pCon a{width:265px; height:317px;}
+.women5 .pCon .a1{left:50px; top:-29px;}
+.women5 .pCon .a2{left:328px; top:-29px;}
+.women5 .pCon .a3{left:606px; top:-29px;}
+.women5 .pCon .a4{left:885px; top:-29px;}
+
+.women6 .pCon a{width:215px; height:260px;}
+.women6 .pCon .a1{left:50px; top:-34px;}
+.women6 .pCon .a2{left:271px; top:-34px;}
+.women6 .pCon .a3{left:491px; top:-34px;}
+.women6 .pCon .a4{left:711px; top:-34px;}
+.women6 .pCon .a5{left:935px; top:-34px;}
+
+/*美丽膜法*/
+
+.women8 .pCon a{width:214px; height:260px;}
+.women8 .pCon .a1{left:51px; top:12px;}
+.women8 .pCon .a2{left:271px; top:12px;}
+.women8 .pCon .a3{left:492px; top:12px;}
+.women8 .pCon .a4{left:712px; top:12px;}
+.women8 .pCon .a5{left:936px; top:12px;}
+
+.women9 .pCon a{width:214px; height:260px;}
+.women9 .pCon .a1{left:163px; top:-51px;}
+.women9 .pCon .a2{left:383px; top:-51px;}
+.women9 .pCon .a3{left:602px; top:-51px;}
+.women9 .pCon .a4{left:823px; top:-51px;}
+
+/*补水嫩肤*/
+
+.women10 .pCon a{width:265px; height:317px; top:180px;}
+.women10 .pCon .a1{left:50px;}
+.women10 .pCon .a2{left:328px;}
+.women10 .pCon .a3{left:606px;}
+.women10 .pCon .a4{left:885px;}
+
+.women11 .pCon a{width:215px; height:260px; top:168px;}
+.women11 .pCon .a1{left:50px;}
+.women11 .pCon .a2{left:271px;}
+.women11 .pCon .a3{left:491px;}
+.women11 .pCon .a4{left:711px;}
+.women11 .pCon .a5{left:935px;}
+
+.women12 .pCon a{width:215px; height:260px; top:102px;}
+.women12 .pCon .a1{left:50px;}
+.women12 .pCon .a2{left:271px;}
+.women12 .pCon .a3{left:491px;}
+.women12 .pCon .a4{left:711px;}
+.women12 .pCon .a5{left:935px;}
+
+.women14 .pCon a{width:265px; height:317px; top:-22px;}
+.women14 .pCon .a1{left:50px;}
+.women14 .pCon .a2{left:328px;}
+.women14 .pCon .a3{left:606px;}
+.women14 .pCon .a4{left:885px;}
+
+.women15 .pCon a{width:265px; height:317px; top:-29px;}
+.women15 .pCon .a1{left:50px;}
+.women15 .pCon .a2{left:328px;}
+.women15 .pCon .a3{left:606px;}
+.women15 .pCon .a4{left:885px;}
+
+.women16 .pCon a{width:215px; height:260px; top:-29px;}
+.women16 .pCon .a1{left:50px;}
+.women16 .pCon .a2{left:271px;}
+.women16 .pCon .a3{left:491px;}
+.women16 .pCon .a4{left:711px;}
+.women16 .pCon .a5{left:935px;}
+
+.women17 .pCon a{width:338px; height:316px; top:192px;}
+.women17 .pCon .a1{left:50px;}
+.women17 .pCon .a2{left:431px;}
+.women17 .pCon .a3{left:810px;}
+
+.women18 .pCon a{width:338px; height:316px; top:182px;}
+.women18 .pCon .a1{left:221px;}
+.women18 .pCon .a2{left:601px;}
+
+.women21 .pCon a{width:265px; height:317px; top:-49px;}
+.women21 .pCon .a1{left:50px;}
+.women21 .pCon .a2{left:328px;}
+.women21 .pCon .a3{left:606px;}
+.women21 .pCon .a4{left:885px;}
+
+.women22 .pCon a{width:265px; height:317px; top:-67px;}
+.women22 .pCon .a1{left:328px;}
+.women22 .pCon .a2{left:606px;}
+
+.women24 .pCon a{width:265px; height:317px; top:-147px;}
+.women24 .pCon .a1{left:50px;}
+.women24 .pCon .a2{left:328px;}
+.women24 .pCon .a3{left:606px;}
+.women24 .pCon .a4{left:885px;}
+
+.women25 .pCon a{width:265px; height:317px; top:-162px;}
+.women25 .pCon .a1{left:328px;}
+.women25 .pCon .a2{left:606px;}
+
+.women26 .pCon a{width:265px; height:317px; top:101px;}
+.women26 .pCon .a1{left:50px;}
+.women26 .pCon .a2{left:328px;}
+.women26 .pCon .a3{left:606px;}
+.women26 .pCon .a4{left:885px;}
+
+.women27 .pCon a{width:265px; height:317px; top:88px;}
+.women27 .pCon .a1{left:328px;}
+.women27 .pCon .a2{left:606px;}
+
+.women29 .pCon a{width:265px; height:317px; top:4px;}
+.women29 .pCon .a1{left:50px;}
+.women29 .pCon .a2{left:328px;}
+.women29 .pCon .a3{left:606px;}
+.women29 .pCon .a4{left:885px;}
+
+.women30 .pCon a{width:265px; height:317px; top:-11px;}
+.women30 .pCon .a1{left:193px;}
+.women30 .pCon .a2{left:471px;}
+.women30 .pCon .a3{left:751px;}
+
+.women32 .pCon a{width:265px; height:317px; top:85px;}
+.women32 .pCon .a1{left:50px;}
+.women32 .pCon .a2{left:328px;}
+.women32 .pCon .a3{left:606px;}
+.women32 .pCon .a4{left:885px;}
+
+.women33 .pCon a{width:265px; height:317px; top:70px;}
+.women33 .pCon .a1{left:193px;}
+.women33 .pCon .a2{left:471px;}
+.women33 .pCon .a3{left:751px;}
+
+.women35 .pCon a{width:265px; height:317px; top:-1px;}
+.women35 .pCon .a1{left:50px;}
+.women35 .pCon .a2{left:328px;}
+.women35 .pCon .a3{left:606px;}
+.women35 .pCon .a4{left:885px;}
+
+.women36 .pCon a{width:215px; height:260px; top:-13px;}
+.women36 .pCon .a1{left:50px;}
+.women36 .pCon .a2{left:271px;}
+.women36 .pCon .a3{left:491px;}
+.women36 .pCon .a4{left:711px;}
+.women36 .pCon .a5{left:935px;}
+
+.women37 .pCon a{width:215px; height:260px; top:-79px;}
+.women37 .pCon .a1{left:50px;}
+.women37 .pCon .a2{left:271px;}
+.women37 .pCon .a3{left:491px;}
+.women37 .pCon .a4{left:711px;}
+.women37 .pCon .a5{left:935px;}
+
+/*窈窕曲线*/
+
+.women38 .pCon a{width:265px; height:317px; top:152px;}
+.women38 .pCon .a1{left:50px;}
+.women38 .pCon .a2{left:328px;}
+.women38 .pCon .a3{left:606px;}
+.women38 .pCon .a4{left:885px;}
+
+.women39 .pCon a{width:265px; height:317px; top:137px;}
+.women39 .pCon .a1{left:50px;}
+.women39 .pCon .a2{left:328px;}
+.women39 .pCon .a3{left:606px;}
+.women39 .pCon .a4{left:885px;}
+
+.women40 .pCon a{width:265px; height:317px; top:124px;}
+.women40 .pCon .a1{left:50px;}
+.women40 .pCon .a2{left:328px;}
+.women40 .pCon .a3{left:606px;}
+.women40 .pCon .a4{left:885px;}
+
+.women41 .pCon a{width:265px; height:317px; top:109px;}
+.women41 .pCon .a1{left:50px;}
+.women41 .pCon .a2{left:328px;}
+.women41 .pCon .a3{left:606px;}
+.women41 .pCon .a4{left:885px;}
+
+/*时尚百搭*/
+
+.women43 .pCon a{width:265px; height:317px; top:34px;}
+.women43 .pCon .a1{left:50px;}
+.women43 .pCon .a2{left:328px;}
+.women43 .pCon .a3{left:606px;}
+.women43 .pCon .a4{left:885px;}
+
+.women44 .pCon a{width:265px; height:317px; top:19px;}
+.women44 .pCon .a1{left:50px;}
+.women44 .pCon .a2{left:328px;}
+.women44 .pCon .a3{left:606px;}
+.women44 .pCon .a4{left:885px;}
+
+.women45 .pCon a{width:265px; height:317px; top:6px;}
+.women45 .pCon .a1{left:193px;}
+.women45 .pCon .a2{left:471px;}
+.women45 .pCon .a3{left:751px;}
+
+/*修身有型*/
+
+.women47 .pCon a{width:265px; height:317px; top:-91px;}
+.women47 .pCon .a1{left:50px;}
+.women47 .pCon .a2{left:328px;}
+.women47 .pCon .a3{left:606px;}
+.women47 .pCon .a4{left:885px;}
+
+.women48 .pCon a{width:265px; height:317px; top:-105px;}
+.women48 .pCon .a1{left:50px;}
+.women48 .pCon .a2{left:328px;}
+.women48 .pCon .a3{left:606px;}
+.women48 .pCon .a4{left:885px;}
+
+.women49 .pCon a{width:265px; height:317px; top:-120px;}
+.women49 .pCon .a1{left:50px;}
+.women49 .pCon .a2{left:328px;}
+.women49 .pCon .a3{left:606px;}
+.women49 .pCon .a4{left:885px;}
+
+
+
+.womenLeft{ position:fixed; top:0px; margin-left:-310px; top:30%; width:314px; height:495px; background:url(http://att.bitgaiwang.com/zt/womenDay/leftbg.png) no-repeat;}
+.womenLeft a{ width:314px; height:495px;}
+.womenRight{ position:absolute; width:148px; height:703px; top:20%; margin-left:1263px; background:url(http://att.bitgaiwang.com/zt/womenDay/rightbg.png) no-repeat;}
+.womenRight a{width:106px; height:39px; position:absolute; left:4px;}
+.womenRight .a1{top:97px;}
+.womenRight .a2{top:137px;}
+.womenRight .a3{top:177px;}
+.womenRight .a4{top:217px;}
+.womenRight .a5{top:257px;}
+.womenRight .a6{top:297px;}
+.womenRight .a7{top:337px;}
+.womenRight .a8{top:377px;}
+.womenRight .a9{top:417px;}
+.womenRight .a10{top:457px;}
+.womenRight .a11{top:497px;}
+.womenRight .a12{top:537px;}
+.womenRight .a13{top:577px;}
+.womenRight .a14{top:617px;}
+
+
+#womenTop1{ position:absolute; margin-top:68px;}
+#womenTop2{ position:absolute; margin-top:85px;}
+#womenTop3{ position:absolute; margin-top:-98px;}
+#womenTop4{ position:absolute; margin-top:51px;}
+#womenTop5{ position:absolute; margin-top:-85px;}
+#womenTop6{ position:absolute; margin-top:-150px;}
+#womenTop7{ position:absolute; margin-top:-63px;}
+#womenTop8{ position:absolute; margin-top:-154px;}
+#womenTop9{ position:absolute; margin-top:85px;}
+#womenTop10{ position:absolute; margin-top:-9px;}
+#womenTop11{ position:absolute; margin-top:70px;}
+#womenTop12{ position:absolute; margin-top:-124px;}
+#womenTop13{ position:absolute; margin-top:110px;}
+#womenTop14{ position:absolute; margin-top:5px;}
+
+/*静待花开*/
+.JDHK01{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_01.jpg") top center no-repeat;}
+.JDHK02{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_02.jpg") top center no-repeat;}
+.JDHK03{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_03.jpg") top center no-repeat;}
+.JDHK04{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_04.jpg") top center no-repeat;}
+.JDHK05{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_05.jpg") top center no-repeat;}
+.JDHK06{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_06.jpg") top center no-repeat;}
+.JDHK07{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_07.jpg") top center no-repeat;}
+.JDHK08{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_08.jpg") top center no-repeat;}
+.JDHK09{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_09.jpg") top center no-repeat;}
+.JDHK10{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_10.jpg") top center no-repeat;}
+.JDHK11{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_11.jpg") top center no-repeat;}
+.JDHK12{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_12.jpg") top center no-repeat;}
+.JDHK13{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_13.jpg") top center no-repeat;}
+.JDHK14{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_14.jpg") top center no-repeat;}
+.JDHK15{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_15.jpg") top center no-repeat;}
+.JDHK16{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_16.jpg") top center no-repeat;}
+.JDHK17{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_17.jpg") top center no-repeat;}
+.JDHK18{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_18.jpg") top center no-repeat;}
+.JDHK19{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_19.jpg") top center no-repeat;}
+.JDHK20{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_20.jpg") top center no-repeat;}
+.JDHK21{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_21.jpg") top center no-repeat;}
+.JDHK22{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_22.jpg") top center no-repeat;}
+.JDHK23{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_23.jpg") top center no-repeat;}
+.JDHK24{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_24.jpg") top center no-repeat;}
+.JDHK25{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_25.jpg") top center no-repeat;}
+.JDHK26{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_26.jpg") top center no-repeat;}
+.JDHK27{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_27.jpg") top center no-repeat;}
+.JDHK28{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_28.jpg") top center no-repeat;}
+.JDHK29{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_29.jpg") top center no-repeat;}
+.JDHK30{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_30.jpg") top center no-repeat;}
+.JDHK31{height:400px;background:url("http://att.bitgaiwang.com/zt/blossoming/38zt_31.jpg") top center no-repeat;}
+
+
+
+.JDHK03 .pCon a{width:522px;height:333px;}
+.JDHK03 .pCon .a1{left:60px;top:-5px;height:434px;}
+.JDHK03 .pCon .a2{right:57px;top:160px;width: 528px;height: 275px;}
+
+.JDHK04 .pCon .a1{right:57px;top:56px;width: 528px;height: 296px;}
+
+.JDHK05 .pCon a{width: 272px;height: 307px;}
+.JDHK05 .pCon .a1{left:48px;top:-33px;}
+.JDHK05 .pCon .a2{left:326px;top:-33px;}
+.JDHK05 .pCon .a3{left:605px;top:-33px;}
+.JDHK05 .pCon .a4{right:45px;top:-33px;}
+
+.JDHK07 .pCon a{width: 260px;height: 300px;}
+.JDHK07 .pCon .a1{left:55px;top:-40px;}
+.JDHK07 .pCon .a2{left:331px;top:-40px;}
+.JDHK07 .pCon .a3{left:605px;top:-40px;}
+.JDHK07 .pCon .a4{right:54px;top:-40px;}
+.JDHK07 .pCon .a5{left:55px;top:277px;}
+.JDHK07 .pCon .a6{left:331px;top:277px;}
+.JDHK07 .pCon .a7{left:605px;top:277px;}
+.JDHK07 .pCon .a8{right:54px;top:277px;}
+
+.JDHK09 .pCon a{width: 363px;height: 416px;}
+.JDHK09 .pCon .a1{left:417px;top:-37px;}
+.JDHK09 .pCon .a2{right:48px;top:-37px;}
+.JDHK09 .pCon .a3{left:49px;top:384px;width: 270px;height: 310px;}
+.JDHK09 .pCon .a4{left:325px;top:384px;width: 270px;height: 310px;}
+.JDHK09 .pCon .a5{right:325px;top:384px;width: 270px;height: 310px;}
+.JDHK09 .pCon .a6{right:49px;top:384px;width: 270px;height: 310px;}
+
+.JDHK11 .pCon a{width: 363px;height: 410px;}
+.JDHK11 .pCon .a1{left:417px;top:79px;}
+.JDHK11 .pCon .a2{right:48px;top:79px;}
+.JDHK11 .pCon .a3{left:49px;top:497px;height: 415px;}
+.JDHK11 .pCon .a4{left:418px;top:497px;height: 415px;}
+.JDHK11 .pCon .a5{right:48px;top:497px;height: 415px;}
+
+.JDHK14 .pCon a{width: 363px;height: 410px;}
+.JDHK14 .pCon .a1{left:417px;top:-104px;}
+.JDHK14 .pCon .a2{right:48px;top:-104px;}
+.JDHK14 .pCon .a3{left:49px;top:316px;height: 415px;}
+.JDHK14 .pCon .a4{left:418px;top:316px;height: 415px;}
+.JDHK14 .pCon .a5{right:48px;top:316px;height: 415px;}
+
+.JDHK16 .pCon a{width: 363px;height: 416px;}
+.JDHK16 .pCon .a1{left:54px;top:117px;}
+.JDHK16 .pCon .a2{left:424px;top:117px;}
+.JDHK16 .pCon .a3{right:41px;top:117px;}
+.JDHK16 .pCon .a4{left:54px;top:540px;}
+.JDHK16 .pCon .a5{left:424px;top:540px;}
+.JDHK16 .pCon .a6{right:41px;top:540px;}
+
+.JDHK21 .pCon a{width: 363px;height: 410px;}
+.JDHK21 .pCon .a1{left:417px;top:41px;}
+.JDHK21 .pCon .a2{right:48px;top:41px;}
+.JDHK21 .pCon .a3{left:49px;top:462px;height: 415px;}
+.JDHK21 .pCon .a4{left:418px;top:462px;height: 415px;}
+.JDHK21 .pCon .a5{right:48px;top:462px;height: 415px;}
+
+.JDHK24 .pCon a{width: 363px;height: 410px;}
+.JDHK24 .pCon .a1{left:47px;top:-140px;}
+.JDHK24 .pCon .a2{left:418px;top:-140px;}
+.JDHK24 .pCon .a3{left:49px;top:280px;height: 415px;}
+.JDHK24 .pCon .a4{left:418px;top:280px;height: 415px;}
+.JDHK24 .pCon .a5{right:48px;top:280px;height: 415px;}
+
+.JDHK26 .pCon a{width: 363px;height: 410px;}
+.JDHK26 .pCon .a1{left:417px;top:77px;}
+.JDHK26 .pCon .a2{right:48px;top:77px;}
+
+.JDHK27 .pCon a{width: 363px;height: 410px;}
+.JDHK27 .pCon .a1{left:47px;top:273px;}
+.JDHK27 .pCon .a2{left:418px;top:273px;}
+
+.JDHK29 .pCon a{width: 363px;height: 410px;}
+.JDHK29 .pCon .a1{left:417px;top:69px;}
+.JDHK29 .pCon .a2{right:48px;top:69px;}
+.JDHK29 .pCon .a3{left:49px;top:489px;height: 415px;}
+.JDHK29 .pCon .a4{left:418px;top:489px;height: 415px;}
+.JDHK29 .pCon .a5{right:48px;top:489px;height: 415px;}
+/*春茶专题*/
+.Freshtea1{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_01.jpg) top center no-repeat;}
+.Freshtea2{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_02.jpg) top center no-repeat;}
+.Freshtea3{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_03.jpg) top center no-repeat;}
+.Freshtea4{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_04.jpg) top center no-repeat;}
+.Freshtea5{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_05.jpg) top center no-repeat;}
+.Freshtea6{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_06.jpg) top center no-repeat;}
+.Freshtea7{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_07.jpg) top center no-repeat;}
+.Freshtea8{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_08.jpg) top center no-repeat;}
+.Freshtea9{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_09.jpg) top center no-repeat;}
+.Freshtea10{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_10.jpg) top center no-repeat;}
+.Freshtea11{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_11.jpg) top center no-repeat;}
+.Freshtea12{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_12.jpg) top center no-repeat;}
+.Freshtea13{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_13.jpg) top center no-repeat;}
+.Freshtea14{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_14.jpg) top center no-repeat;}
+.Freshtea15{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_15.jpg) top center no-repeat;}
+.Freshtea16{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_16.jpg) top center no-repeat;}
+.Freshtea17{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_17.jpg) top center no-repeat;}
+.Freshtea18{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_18.jpg) top center no-repeat;}
+.Freshtea19{height:400px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_19.jpg) top center no-repeat;}
+.Freshtea20{height:386px; background:url(http://att.bitgaiwang.com/zt/freshTea/FreshTea_20.jpg) top center no-repeat;}
+
+
+.Freshtea4 .tCon .a1{ width:551px; height:314px; left:0px; top:-188px;}
+.Freshtea4 .tCon .a2{ width:376px; height:189px; left:595px; top:-176px;}
+.Freshtea4 .tCon .a3{ width:347px; height:183px; left:104px; top:176px;}
+.Freshtea4 .tCon .a4{ width:467px; height:192px; left:591px; top:63px;}
+.Freshtea4 .tCon .a5{ width:314px; height:171px; left:35px; top:441px;}
+.Freshtea4 .tCon .a6{ width:312px; height:192px; left:417px; top:428px; z-index:1;}
+.Freshtea4 .tCon .a7{ width:369px; height:161px; left:668px; top:326px; z-index:2;}
+
+.Freshtea7 .tCon .a1{ width:578px; height:251px; left:0px; top:-99px;z-index:2;}
+.Freshtea7 .tCon .a2{ width:472px; height:260px; left:570px; top:-177px;z-index:1;}
+.Freshtea7 .tCon .a3{ width:582px; height:263px; left:0px; top:261px;z-index:2;}
+.Freshtea7 .tCon .a4{ width:449px; height:276px; left:573px; top:162px;z-index:1;}
+
+.Freshtea8 .tCon .a1{ width:336px; height:155px; left:0px; top:184px;}
+.Freshtea8 .tCon .a2{ width:340px; height:167px; left:352px; top:184px;}
+.Freshtea8 .tCon .a3{ width:353px; height:158px; left:707px; top:184px;}
+.Freshtea8 .tCon .a4{ width:521px; height:145px; left:0px; top:437px;}
+.Freshtea8 .tCon .a5{ width:500px; height:151px; left:558px; top:437px;}
+
+.Freshtea11 .tCon .a1{ width:511px; height:386px; left:29px; top:-230px;}
+.Freshtea11 .tCon .a2{ width:436px; height:294px; left:609px; top:-202px;}
+.Freshtea11 .tCon .a3{ width:518px; height:303px; left:0px; top:248px;}
+.Freshtea11 .tCon .a4{ width:492px; height:328px; left:566px; top:173px;}
+.Freshtea11 .tCon .a5{ width:584px; height:427px; left:0px; top:595px;}
+.Freshtea11 .tCon .a6{ width:367px; height:411px; left:644px; top:592px;}
+
+.Freshtea15 .tCon .a1{ width:551px; height:256px; left:0px; top:-59px;}
+.Freshtea15 .tCon .a2{ width:455px; height:309px; left:605px; top:-184px;}
+.Freshtea15 .tCon .a3{ width:566px; height:311px; left:0px; top:290px;z-index:2;}
+.Freshtea15 .tCon .a4{ width:433px; height:371px; left:546px; top:190px;z-index:1;}
+.Freshtea15 .tCon .a5{ width:948px; height:268px; left:70px; top:643px;}
+
+.Freshtea19 .tCon .a1{ width:482px; height:308px; left:68px; top:-303px;}
+.Freshtea19 .tCon .a2{ width:467px; height:200px; left:590px; top:-281px;}
+.Freshtea19 .tCon .a3{ width:434px; height:197px; left:16px; top:72px;}
+.Freshtea19 .tCon .a4{ width:464px; height:263px; left:581px; top:-55px;}
+.Freshtea19 .tCon .a5{ width:305px; height:233px; left:0px; top:374px;}
+.Freshtea19 .tCon .a6{ width:355px; height:236px; left:371px; top:360px;z-index:2;}
+.Freshtea19 .tCon .a7{ width:388px; height:278px; left:650px; top:215px;z-index:1;}
+
+/* 328永康专题*/
+.yongkang1{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_01.jpg) top center no-repeat;}
+.yongkang2{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_02.jpg) top center no-repeat;}
+.yongkang3{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_03.jpg) top center no-repeat;}
+.yongkang4{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_04.jpg) top center no-repeat;}
+.yongkang5{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_05.jpg) top center no-repeat;}
+.yongkang6{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_06.jpg) top center no-repeat;}
+.yongkang7{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_07.jpg) top center no-repeat;}
+.yongkang8{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_08.jpg) top center no-repeat;}
+.yongkang9{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_09.jpg) top center no-repeat;}
+.yongkang101{height:240px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_101.jpg) top center no-repeat;}
+.yongkang102{height:160px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_102.jpg) top center no-repeat;}
+.yongkang11{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_11.jpg) top center no-repeat;}
+.yongkang12{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_12.jpg) top center no-repeat;}
+.yongkang13{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_13.jpg) top center no-repeat;}
+.yongkang14{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_14.jpg) top center no-repeat;}
+.yongkang15{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_15.jpg) top center no-repeat;}
+.yongkang16{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_16.jpg) top center no-repeat;}
+.yongkang17{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_17.jpg) top center no-repeat;}
+.yongkang181{height:162px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_181.jpg) top center no-repeat;}
+.yongkang182{height:238px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_182.jpg) top center no-repeat;}
+.yongkang19{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_19.jpg) top center no-repeat;}
+.yongkang20{height:400px; background:url(http://att.bitgaiwang.com/zt/yongkang/yongkang_20.jpg) top center no-repeat;}
+
+.yongkang5 .tCon .a1{ width:420px; height:150px; left:75px; top:-285px;}
+.yongkang5 .tCon .a2{ width:381px; height:196px; left:23px; top:-94px;}
+.yongkang5 .tCon .a3{ width:321px; height:180px; left:81px; top:176px;}
+.yongkang5 .tCon .a4{ width:554px; height:733px; left:529px; top:-400px;}
+
+.yongkang6 .tCon .a1{ width:253px; height:366px; left:345px; top:86px;}
+.yongkang6 .tCon .a2{ width:293px; height:439px; left:0px; top:253px;}
+.yongkang6 .tCon .a3{ width:300px; height:550px; left:655px; top:147px;}
+
+.yongkang8 .tCon .a1{ width:247px; height:389px; left:340px; top:103px;}
+.yongkang8 .tCon .a2{ width:292px; height:382px; left:0px; top:334px;}
+.yongkang8 .tCon .a3{ width:297px; height:428px; left:656px; top:304px;}
+
+.yongkang101 .tCon .a1{ width:965px; height:400px; left:0px; top:104px;}
+
+.yongkang11 .tCon .a1{ width:283px; height:339px; left:321px; top:147px;}
+.yongkang11 .tCon .a2{ width:301px; height:329px; left:0px; top:400px;}
+.yongkang11 .tCon .a3{ width:308px; height:340px; left:648px; top:400px;}
+
+.yongkang14 .tCon .a1{ width:282px; height:402px; left:336px; top:-101px;}
+.yongkang14 .tCon .a2{ width:293px; height:350px; left:0px; top:169px;}
+.yongkang14 .tCon .a3{ width:294px; height:345px; left:646px; top:182px;}
+
+.yongkang16 .tCon .a1{ width:282px; height:375px; left:338px; top:-68px;}
+.yongkang16 .tCon .a2{ width:291px; height:371px; left:0px; top:168px;}
+.yongkang16 .tCon .a3{ width:289px; height:373px; left:666px; top:165px;}
+
+.yongkang181 .tCon .a1{ width:950px; height:393px; left:0px; top:-78px;}
+
+.yongkang19 .tCon .a1{ width:291px; height:378px; left:331px; top:-68px;}
+.yongkang19 .tCon .a2{ width:300px; height:298px; left:0px; top:236px;}
+.yongkang19 .tCon .a3{ width:250px; height:250px; left:676px; top:291px;}
+
+/* 328家居专题*/
+.household101{height:200px; background:url(http://att.bitgaiwang.com/zt/household/household_01_1.jpg) top center no-repeat;}
+.household102{height:150px; background:url(http://att.bitgaiwang.com/zt/household/household_01_2.jpg) top center no-repeat;}
+.household201{height:150px; background:url(http://att.bitgaiwang.com/zt/household/household_02_1.jpg) top center no-repeat;}
+.household202{height:200px; background:url(http://att.bitgaiwang.com/zt/household/household_02_2.jpg) top center no-repeat;}
+.household3{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_03.jpg) top center no-repeat;}
+.household4{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_04.jpg) top center no-repeat;}
+.household5{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_05.jpg) top center no-repeat;}
+.household6{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_06.jpg) top center no-repeat;}
+.household7{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_07.jpg) top center no-repeat;}
+.household8{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_08.jpg) top center no-repeat;}
+.household9{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_09.jpg) top center no-repeat;}
+.household10{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_10.jpg) top center no-repeat;}
+
+.household11{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_11.jpg) top center no-repeat;}
+.household12{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_12.jpg) top center no-repeat;}
+.household13{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_13.jpg) top center no-repeat;}
+.household14{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_14.jpg) top center no-repeat;}
+.household15{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_15.jpg) top center no-repeat;}
+.household16{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_16.jpg) top center no-repeat;}
+.household17{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_17.jpg) top center no-repeat;}
+.household18{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_18.jpg) top center no-repeat;}
+.household19{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_19.jpg) top center no-repeat;}
+.household20{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_20.jpg) top center no-repeat;}
+
+.household21{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_21.jpg) top center no-repeat;}
+.household22{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_22.jpg) top center no-repeat;}
+.household23{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_23.jpg) top center no-repeat;}
+.household24{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_24.jpg) top center no-repeat;}
+.household25{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_25.jpg) top center no-repeat;}
+.household26{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_26.jpg) top center no-repeat;}
+.household27{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_27.jpg) top center no-repeat;}
+.household28{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_28.jpg) top center no-repeat;}
+.household29{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_29.jpg) top center no-repeat;}
+.household30{height:350px; background:url(http://att.bitgaiwang.com/zt/household/household_30.jpg) top center no-repeat;}
+
+.household31{height:250px; background:url(http://att.bitgaiwang.com/zt/household/household_31.jpg) top center no-repeat;}
+.household32{height:302px; background:url(http://att.bitgaiwang.com/zt/household/household_32.jpg) top center no-repeat;}
+
+
+.household6 .tCon .a1{ width:365px; height:413px; left:393px; top:-6px;}
+.household6 .tCon .a2{ width:365px; height:413px; left:761px; top:-6px;}
+.household6 .tCon .a3{ width:274px; height:312px; left:24px; top:414px;}
+.household6 .tCon .a4{ width:274px; height:312px; left:299px; top:414px;}
+.household6 .tCon .a5{ width:274px; height:312px; left:576px; top:414px;}
+.household6 .tCon .a6{ width:274px; height:312px; left:853px; top:414px;}
+
+.household10 .tCon .a1{ width:365px; height:416px; left:24px; top:-182px;}
+.household10 .tCon .a2{ width:365px; height:416px; left:394px; top:-182px;}
+.household10 .tCon .a3{ width:546px; height:419px; left:24px; top:240px;}
+.household10 .tCon .a4{ width:546px; height:419px; left:578px; top:240px;}
+.household10 .tCon .a5{ width:367px; height:419px; left:24px; top:661px;}
+.household10 .tCon .a6{ width:367px; height:419px; left:393px; top:661px;}
+.household10 .tCon .a7{ width:367px; height:419px; left:761px; top:661px;}
+
+.household15 .tCon .a1{ width:365px; height:419px; left:391px; top:-190px;}
+.household15 .tCon .a2{ width:365px; height:419px; left:763px; top:-190px;}
+.household15 .tCon .a3{ width:546px; height:417px; left:24px; top:233px;}
+.household15 .tCon .a4{ width:546px; height:417px; left:580px; top:233px;}
+.household15 .tCon .a5{ width:367px; height:419px; left:24px; top:652px;}
+.household15 .tCon .a6{ width:367px; height:419px; left:393px; top:652px;}
+.household15 .tCon .a7{ width:367px; height:419px; left:761px; top:652px;}
+
+.household20 .tCon .a1{ width:364px; height:417px; left:24px; top:-222px;}
+.household20 .tCon .a2{ width:365px; height:417px; left:393px; top:-222px;}
+.household20 .tCon .a3{ width:546px; height:417px; left:24px; top:198px;}
+.household20 .tCon .a4{ width:546px; height:417px; left:578px; top:198px;}
+.household20 .tCon .a5{ width:274px; height:314px; left:24px; top:616px;}
+.household20 .tCon .a6{ width:274px; height:314px; left:300px; top:616px;}
+.household20 .tCon .a7{ width:274px; height:314px; left:576px; top:616px;}
+.household20 .tCon .a8{ width:274px; height:314px; left:852px; top:616px;}
+.household20 .tCon .a9{ width:274px; height:314px; left:24px; top:934px;}
+.household20 .tCon .a10{ width:274px; height:314px; left:300px;top:934px;}
+.household20 .tCon .a11{ width:274px; height:314px; left:576px;top:934px;}
+.household20 .tCon .a12{ width:274px; height:314px; left:852px;top:934px;}
+
+.household25 .tCon .a1{ width:364px; height:417px; left:394px; top:-40px;}
+.household25 .tCon .a2{ width:365px; height:417px; left:762px; top:-40px;}
+.household25 .tCon .a3{ width:546px; height:417px; left:24px; top:380px;}
+.household25 .tCon .a4{ width:546px; height:417px; left:578px; top:380px;}
+.household25 .tCon .a5{ width:364px; height:417px; left:24px; top:801px;}
+.household25 .tCon .a6{ width:732px; height:417px; left:396px; top:801px;}
+.household25 .tCon .a7{ width:364px; height:417px; left:24px; top:1220px;}
+.household25 .tCon .a8{ width:364px; height:417px; left:396px; top:1220px;}
+.household25 .tCon .a9{width:364px; height:417px; left:764px; top:1220px;}
+
+/* 328箱包专题 */
+.cases1{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases1.jpg) top center no-repeat;}
+.cases2{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases2.jpg) top center no-repeat;}
+.cases3{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases3.jpg) top center no-repeat;}
+.cases4{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases4.jpg) top center no-repeat;}
+.cases5{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases5.jpg) top center no-repeat;}
+.cases6{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases6.jpg) top center no-repeat;}
+.cases7{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases7.jpg) top center no-repeat;}
+.cases8{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases8.jpg) top center no-repeat;}
+.cases9{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases9.jpg) top center no-repeat;}
+.cases10{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases10.jpg) top center no-repeat;}
+.cases11{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases11.jpg) top center no-repeat;}
+.cases12{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases12.jpg) top center no-repeat;}
+.cases13{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases13.jpg) top center no-repeat;}
+.cases14{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases14.jpg) top center no-repeat;}
+.cases15{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases15.jpg) top center no-repeat;}
+.cases16{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases16.jpg) top center no-repeat;}
+.cases17{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases17.jpg) top center no-repeat;}
+.cases18{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases18.jpg) top center no-repeat;}
+.cases19{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases19.jpg) top center no-repeat;}
+.cases20{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases20.jpg) top center no-repeat;}
+.cases21{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases21.jpg) top center no-repeat;}
+.cases22{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases22.jpg) top center no-repeat;}
+.cases23{height:350px;background:url(http://att.bitgaiwang.com/zt/bags/cases23.jpg) top center no-repeat;}
+.cases24{height:469px;background:url(http://att.bitgaiwang.com/zt/bags/cases24.jpg) top center no-repeat;}
+
+.cases5 .a1{width:377px;height:662px;top:-85px;left:45px;}
+.cases5 .a2{width:338px;height:322px;top:-85px;left:450px;}
+.cases5 .a3{width:338px;height:322px;top:-85px;left:820px;}
+.cases5 .a4{width:338px;height:322px;top:250px;left:450px;}
+.cases5 .a5{width:338px;height:322px;top:250px;left:820px;}
+.cases7 .a1{width:540px;height:315px;top:-100px;left:45px;}
+.cases7 .a2{width:540px;height:315px;top:-100px;left:615px;}
+.cases9 a{height:320px;top:38px;}
+.cases9 .a1{width:346px;left:45px;}
+.cases9 .a2{width:346px;left:410px;}
+.cases9 .a3{width:376px;left:775px;}
+.cases10 a{height:320px;top:30px;}
+.cases10 .a1{width:346px;left:45px;}
+.cases10 .a2{width:346px;left:410px;}
+.cases10 .a3{width:376px;left:775px;}
+.cases11 .a1{width:540px;height:315px;top:22px;left:45px;}
+.cases11 .a2{width:540px;height:315px;top:22px;left:615px;}
+.cases12 a{height:320px;top:20px;}
+.cases12 .a1{width:346px;left:45px;}
+.cases12 .a2{width:346px;left:410px;}
+.cases12 .a3{width:376px;left:775px;}
+.cases14 .a1{width:320px;height:310px;top:125px;left:45px;}
+.cases14 .a2{width:375px;height:662px;top:125px;left:415px;}
+.cases14 .a3{width:320px;height:310px;top:125px;left:830px;}
+.cases15 .a1{width:320px;height:310px;top:125px;left:45px;}
+.cases15 .a2{width:320px;height:310px;top:125px;left:830px;}
+.cases17 .a1{width:320px;height:310px;top:195px;left:45px;}
+.cases17 .a2{width:375px;height:662px;top:195px;left:415px;}
+.cases17 .a3{width:320px;height:310px;top:190px;left:830px;}
+.cases18 .a1{width:320px;height:310px;top:190px;left:45px;}
+.cases18 .a2{width:320px;height:310px;top:190px;left:830px;}
+.cases20  a{width:250px;height:278px;top:-180px;}
+.cases20 .a1{left:50px;}
+.cases20 .a2{left:340px;}
+.cases20 .a3{left:620px;}
+.cases20 .a4{left:900px;}
+.cases22 .a1{width:377px;height:662px;top:-60px;left:45px;}
+.cases22 .a2{width:350px;height:317px;top:-60px;left:450px;}
+.cases22 .a3{width:350px;height:317px;top:-60px;left:810px;}
+.cases22 .a4{width:350px;height:317px;top:285px;left:450px;}
+.cases22 .a5{width:350px;height:317px;top:285px;left:810px;}
+
+/*328数码专题*/
+.Electronics01{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_01.jpg") top center no-repeat;}
+.Electronics02{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_02.jpg") top center no-repeat;}
+.Electronics03{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_03.jpg") top center no-repeat;}
+.Electronics04{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_04.jpg") top center no-repeat;}
+.Electronics05{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_05.jpg") top center no-repeat;}
+.Electronics06{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_06.jpg") top center no-repeat;}
+.Electronics07{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_07.jpg") top center no-repeat;}
+.Electronics08{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_08.jpg") top center no-repeat;}
+.Electronics09{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_09.jpg") top center no-repeat;}
+.Electronics10{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_10.jpg") top center no-repeat;}
+.Electronics11{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_11.jpg") top center no-repeat;}
+.Electronics12{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_12.jpg") top center no-repeat;}
+.Electronics13{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_13.jpg") top center no-repeat;}
+.Electronics14{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_14.jpg") top center no-repeat;}
+.Electronics15{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_15.jpg") top center no-repeat;}
+.Electronics16{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_16.jpg") top center no-repeat;}
+.Electronics17{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_17.jpg") top center no-repeat;}
+.Electronics18{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_18.jpg") top center no-repeat;}
+.Electronics19{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_19.jpg") top center no-repeat;}
+.Electronics20{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_20.jpg") top center no-repeat;}
+.Electronics21{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_21.jpg") top center no-repeat;}
+.Electronics22{height:400px;background:url("http://att.bitgaiwang.com/zt/electronics/Electronics_22.jpg") top center no-repeat;}
+
+.Electronics04 .pCon a{ width:348px;height: 324px;}
+.Electronics04 .pCon .a1{left:8px;top:116px;width:375px;height:661px;}
+.Electronics04 .pCon .a2{left:405px;top:112px;}
+.Electronics04 .pCon .a3{right:-7px;top:112px;}
+.Electronics04 .pCon .a4{left:405px;top:456px;}
+.Electronics04 .pCon .a5{right:-7px;top:456px;}
+
+.Electronics06 .pCon a{ width:348px;height: 324px;}
+.Electronics06 .pCon .a1{left:8px;;top:-3px;width:542px;height:319px;}
+.Electronics06 .pCon .a2{right:0px;top:-3px;width:542px;height:319px;}
+.Electronics06 .pCon .a3{left:8px;top:346px;width:353px;height: 320px;}
+.Electronics06 .pCon .a4{left:385px;top:345px;width:353px;}
+.Electronics06 .pCon .a5{right:-4px;top:345px;width:353px;}
+
+.Electronics09 .pCon a{ width:348px;height: 324px;}
+.Electronics09 .pCon .a1{left:5px;top:-28px;}
+.Electronics09 .pCon .a2{left:372px;top:-28px;}
+.Electronics09 .pCon .a3{right:0px;top:-23px;width:375px;height:661px;}
+.Electronics09 .pCon .a4{left:5px;top:317px;}
+.Electronics09 .pCon .a5{left:372px;top:317px;}
+
+.Electronics11 .pCon a{ width:265px;height: 240px;}
+.Electronics11 .pCon .a1{left:4px;;top:-134px;width:542px;height:319px;}
+.Electronics11 .pCon .a2{right:-2px;top:-141px;width:542px;height:319px;}
+.Electronics11 .pCon .a3{left:10px;top:211px;}
+.Electronics11 .pCon .a4{left:287px;top:211px;}
+.Electronics11 .pCon .a5{right:283px;top:211px;}
+.Electronics11 .pCon .a6{right:3px;top:211px;}
+
+.Electronics13 .pCon a{ width:348px;height: 324px;}
+.Electronics13 .pCon .a1{left:4px;top:207px;}
+.Electronics13 .pCon .a2{left:376px;top:211px;width:375px;height:661px;}
+.Electronics13 .pCon .a3{right:-7px;top:207px;}
+.Electronics13 .pCon .a4{left:4px;top:552px;}
+.Electronics13 .pCon .a5{right:-7px;top:552px;}
+
+.Electronics15 .pCon a{ width:348px;height: 324px;}
+.Electronics15 .pCon .a1{left:5px;;top:100px;width:542px;height:319px;}
+.Electronics15 .pCon .a2{right:0px;top:93px;width:542px;height:319px;}
+.Electronics15 .pCon .a3{left:8px;top:443px;width:353px;height: 320px;}
+.Electronics15 .pCon .a4{left:385px;top:443px;width:353px;}
+.Electronics15 .pCon .a5{right:0px;top:443px;width:345px;}
+
+.Electronics17 .pCon a{ width:265px;height: 240px;}
+.Electronics17 .pCon .a1{left:10px;top:-3px;}
+.Electronics17 .pCon .a2{left:287px;top:-3px;}
+.Electronics17 .pCon .a3{right:283px;top:-3px;}
+.Electronics17 .pCon .a4{right:3px;top:-3px;}
+
+.Electronics19 .pCon a{ width:348px;height: 324px;}
+.Electronics19 .pCon .a1{left:4px;top:34px;width:375px;height:661px;}
+.Electronics19 .pCon .a2{left:402px;top:32px;}
+.Electronics19 .pCon .a3{right:-4px;top:32px;height: 318px}
+.Electronics19 .pCon .a4{left:400px;top:376px;}
+.Electronics19 .pCon .a5{right:18px;top:376px;width:308px;height: 306px;}
+
+.Electronics21 .pCon a{ width:348px;height: 324px;}
+.Electronics21 .pCon .a1{left:5px;;top:-85px;width:542px;height:319px;}
+.Electronics21 .pCon .a2{right:0px;top:-85px;width:542px;height:319px;}
+
+/*328服装*/
+.dress01{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_01.jpg") top center no-repeat;}
+.dress02{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_02.jpg") top center no-repeat;}
+.dress03{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_03.jpg") top center no-repeat;}
+.dress04{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_04.jpg") top center no-repeat;}
+.dress05{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_05.jpg") top center no-repeat;}
+.dress06{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_06.jpg") top center no-repeat;}
+.dress07{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_07.jpg") top center no-repeat;}
+.dress08{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_08.jpg") top center no-repeat;}
+.dress09{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_09.jpg") top center no-repeat;}
+.dress10{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_10.jpg") top center no-repeat;}
+.dress11{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_11.jpg") top center no-repeat;}
+.dress12{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_12.jpg") top center no-repeat;}
+.dress13{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_13.jpg") top center no-repeat;}
+.dress14{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_14.jpg") top center no-repeat;}
+.dress15{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_15.jpg") top center no-repeat;}
+.dress16{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_16.jpg") top center no-repeat;}
+.dress17{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_17.jpg") top center no-repeat;}
+.dress18{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_18.jpg") top center no-repeat;}
+.dress19{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_19.jpg") top center no-repeat;}
+.dress20{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_20.jpg") top center no-repeat;}
+.dress21{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_21.jpg") top center no-repeat;}
+.dress22{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_22.jpg") top center no-repeat;}
+.dress23{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_23.jpg") top center no-repeat;}
+.dress24{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_24.jpg") top center no-repeat;}
+.dress25{height:400px;background:url("http://att.bitgaiwang.com/zt/clothes/dress_25.jpg") top center no-repeat;}
+
+.dress04 .pCon a{ width:343px;height: 319px;}
+.dress04 .pCon .a1{left:402px;top:121px;}
+.dress04 .pCon .a2{right:3px;top:121px;}
+.dress04 .pCon .a3{left:402px;top:464px;}
+.dress04 .pCon .a4{right:3px;top:464px;}
+
+.dress06 .pCon a{width:542px;height:319px;}
+.dress06 .pCon .a1{left:4px;;top:4px;}
+.dress06 .pCon .a2{right:1px;top:4px;}
+.dress06 .pCon .a3{left:4px;top:349px;}
+.dress06 .pCon .a4{right:1px;top:349px;}
+.dress06 .pCon .a5{left:4px;top:695px;width:353px;height: 320px;}
+.dress06 .pCon .a6{left:383px;top:695px;width:353px;}
+.dress06 .pCon .a7{right:5px;top:695px;width:353px;}
+
+.dress10 .pCon a{ width:343px;height: 321px;}
+.dress10 .pCon .a1{left:3px;top:-92px;}
+.dress10 .pCon .a2{left:372px;top:-92px;}
+.dress10 .pCon .a3{left:5px;top:253px;}
+.dress10 .pCon .a4{left:372px;top:253px;}
+
+.dress12 .pCon a{ width:343px;height: 320px;}
+.dress12 .pCon .a1{left:0px;;top:-200px;width:542px;height:319px;}
+.dress12 .pCon .a2{right:3px;top:-208px;width:542px;height:319px;}
+.dress12 .pCon .a3{left:4px;top:129px;}
+.dress12 .pCon .a4{left:382px;top:129px;}
+.dress12 .pCon .a5{right:9px;top:129px;}
+
+.dress14 .pCon a{ width:343px;height: 320px;}
+.dress14 .pCon .a1{left:4px;top:145px;}
+.dress14 .pCon .a2{right:4px;top:145px;}
+.dress14 .pCon .a3{left:4px;top:488px;}
+.dress14 .pCon .a4{right:4px;top:488px;}
+
+.dress17 .pCon a{ width:343px;height: 320px;}
+.dress17 .pCon .a1{left:4px;top:70px;}
+.dress17 .pCon .a2{right:4px;top:70px;}
+.dress17 .pCon .a3{left:4px;top:411px;}
+.dress17 .pCon .a4{right:4px;top:411px;}
+
+.dress19 .pCon a{ width:265px;height: 240px;}
+.dress19 .pCon .a1{left:4px;;top:-44px;width:542px;height:319px;}
+.dress19 .pCon .a2{right:-2px;top:-44px;width:542px;height:319px;}
+.dress19 .pCon .a3{left:3px;top:322px;}
+.dress19 .pCon .a4{left:284px;top:322px;}
+.dress19 .pCon .a5{right:285px;top:322px;}
+.dress19 .pCon .a6{right:1px;top:322px;}
+
+.dress22 .pCon a{ width:343px;height: 319px;}
+.dress22 .pCon .a1{left:406px;top:-76px;}
+.dress22 .pCon .a2{right:-1px;top:-76px;}
+.dress22 .pCon .a3{left:406px;top:270px;}
+.dress22 .pCon .a4{right:-1px;top:270px;}
+
+.dress24 .pCon a{ width:265px;height: 292px;}
+.dress24 .pCon .a1{left:3px;top:-171px;}
+.dress24 .pCon .a2{left:286px;top:-171px;}
+.dress24 .pCon .a3{right:282px;top:-171px;}
+.dress24 .pCon .a4{right:-1px;top:-171px;}
+
+/* 328食品专题 */
+.food1{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food1.jpg) top center no-repeat;}
+.food2{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food2.jpg) top center no-repeat;}
+.food3{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food3.jpg) top center no-repeat;}
+.food4{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food4.jpg) top center no-repeat;}
+.food5{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food5.jpg) top center no-repeat;}
+.food6{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food6.jpg) top center no-repeat;}
+.food7{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food7.jpg) top center no-repeat;}
+.food8{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food8.jpg) top center no-repeat;}
+.food9{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food9.jpg) top center no-repeat;}
+.food10{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food10.jpg) top center no-repeat;}
+.food11{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food11.jpg) top center no-repeat;}
+.food12{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food12.jpg) top center no-repeat;}
+.food13{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food13.jpg) top center no-repeat;}
+.food14{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food14.jpg) top center no-repeat;}
+.food15{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food15.jpg) top center no-repeat;}
+.food16{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food16.jpg) top center no-repeat;}
+.food17{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food17.jpg) top center no-repeat;}
+.food18{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food18.jpg) top center no-repeat;}
+.food19{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food19.jpg) top center no-repeat;}
+.food20{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food20.jpg) top center no-repeat;}
+.food21{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food21.jpg) top center no-repeat;}
+.food22{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food22.jpg) top center no-repeat;}
+.food23{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food23.jpg) top center no-repeat;}
+.food24{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food24.jpg) top center no-repeat;}
+.food25{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food25.jpg) top center no-repeat;}
+.food26{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food26.jpg) top center no-repeat;}
+.food27{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food27.jpg) top center no-repeat;}
+.food28{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food28.jpg) top center no-repeat;}
+.food29{height:350px;background:url(http://att.bitgaiwang.com/zt/foods/food29.jpg) top center no-repeat;}
+.food30{height:416px;background:url(http://att.bitgaiwang.com/zt/foods/food30.jpg) top center no-repeat;}
+
+.food6 a{width:366px;height:412px;top:-90px;}
+.food6 .a1{left:50px;}
+.food6 .a2{left:420px;}
+.food6 .a3{left:790px;}
+.food7 a{width:275px;height:313px;top:-20px;}
+.food7 .a1{left:40px;}
+.food7 .a2{left:320px;}
+.food7 .a3{left:600px;}
+.food7 .a4{left:880px;}
+.food8 a{width:275px;height:313px;top:-50px;}
+.food8 .a1{left:40px;}
+.food8 .a2{left:320px;}
+.food8 .a3{left:600px;}
+.food8 .a4{left:880px;}
+.food9 .a1{width:732px;height:418px;left:50px;top:-85px;}
+.food9 .a2{width:365px;height:418px;left:790px;top:-85px;}
+.food10 a{width:275px;height:313px;top:-10px;}
+.food10 .a1{left:40px;}
+.food10 .a2{left:320px;}
+.food10 .a3{left:600px;}
+.food10 .a4{left:880px;}
+.food11 a{width:275px;height:313px;top:-40px;}
+.food11 .a1{left:40px;}
+.food11 .a2{left:320px;}
+.food11 .a3{left:600px;}
+.food11 .a4{left:880px;}
+.food13 a{width:366px;height:415px;top:-20px;}
+.food13 .a1{left:45px;}
+.food13 .a2{left:415px;}
+.food13 .a3{left:785px;}
+.food14 a{width:366px;height:415px;top:60px;}
+.food14 .a1{left:45px;}
+.food14 .a2{left:415px;}
+.food14 .a3{left:785px;}
+.food17 a{width:366px;height:415px;top:-180px;}
+.food17 .a1{left:45px;}
+.food17 .a2{left:415px;}
+.food17 .a3{left:785px;}
+.food18 a{width:275px;height:313px;top:-110px;}
+.food18 .a1{left:40px;}
+.food18 .a2{left:320px;}
+.food18 .a3{left:600px;}
+.food18 .a4{left:880px;}
+.food19 a{width:275px;height:313px;top:-140px;}
+.food19 .a1{left:40px;}
+.food19 .a2{left:320px;}
+.food19 .a3{left:600px;}
+.food19 .a4{left:880px;}
+.food20 .a1{width:365px;height:408px;left:50px;top:-165px;}
+.food20 .a2{width:732px;height:408px;left:420px;top:-165px;}
+.food21 a{width:275px;height:313px;top:-100px;}
+.food21 .a1{left:40px;}
+.food21 .a2{left:320px;}
+.food21 .a3{left:600px;}
+.food21 .a4{left:880px;}
+.food22 a{width:275px;height:313px;top:-130px;}
+.food22 .a1{left:40px;}
+.food22 .a2{left:320px;}
+.food22 .a3{left:600px;}
+.food22 .a4{left:880px;}
+.food24 a{width:275px;height:313px;top:-130px;}
+.food24 .a1{left:40px;}
+.food24 .a2{left:320px;}
+.food24 .a3{left:600px;}
+.food24 .a4{left:880px;}
+.food25 a{width:275px;height:313px;top:-160px;}
+.food25 .a1{left:40px;}
+.food25 .a2{left:320px;}
+.food25 .a3{left:600px;}
+.food25 .a4{left:880px;}
+.food26 a{width:275px;height:313px;top:-190px;}
+.food26 .a1{left:40px;}
+.food26 .a2{left:320px;}
+.food26 .a3{left:600px;}
+.food26 .a4{left:880px;}
+.food27 a{width:275px;height:313px;top:-225px;}
+.food27 .a1{left:40px;}
+.food27 .a2{left:320px;}
+.food27 .a3{left:600px;}
+.food27 .a4{left:880px;}
+.food28 a{width:275px;height:313px;top:-260px;}
+.food28 .a1{left:40px;}
+.food28 .a2{left:320px;}
+.food28 .a3{left:600px;}
+.food28 .a4{left:880px;}
+
+/* 328香港盛装*/
+.hkdress1{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_01.jpg) top center no-repeat;}
+.hkdress2{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_02.jpg) top center no-repeat;}
+.hkdress3{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_03.jpg) top center no-repeat;}
+.hkdress4{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_04.jpg) top center no-repeat;}
+.hkdress5{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_05.jpg) top center no-repeat;}
+.hkdress6{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_06.jpg) top center no-repeat;}
+.hkdress7{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_07.jpg) top center no-repeat;}
+.hkdress8{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_08.jpg) top center no-repeat;}
+.hkdress9{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_09.jpg) top center no-repeat;}
+.hkdress10{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_10.jpg) top center no-repeat;}
+.hkdress11{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_11.jpg) top center no-repeat;}
+.hkdress12{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_12.jpg) top center no-repeat;}
+.hkdress13{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_13.jpg) top center no-repeat;}
+.hkdress14{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_14.jpg) top center no-repeat;}
+.hkdress15{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_15.jpg) top center no-repeat;}
+.hkdress16{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_16.jpg) top center no-repeat;}
+.hkdress17{height:300px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_17.jpg) top center no-repeat;}
+.hkdress18{height:102px; background:url(http://att.bitgaiwang.com/zt/hkdress/Hkdress_18.jpg) top center no-repeat;}
+
+
+.hkdress3 .tCon .a1{ width:637px; height:434px; left:35px; top:-129px;}
+.hkdress3 .tCon .a2{ width:380px; height:630px; left:680px; top:62px;}
+.hkdress3 .tCon .a3{ width:560px; height:344px; left:68px; top:336px;}
+
+.hkdress6 .tCon .a1{ width:611px; height:446px; left:410px; top:-203px;}
+.hkdress6 .tCon .a2{ width:217px; height:273px; left:64px; top:125px;}
+.hkdress6 .tCon .a3{ width:684px; height:322px; left:330px; top:248px;}
+
+.hkdress9 .tCon .a1{ width:684px; height:381px; left:80px; top:-330px;}
+.hkdress9 .tCon .a2{ width:460px; height:440px; left:0px; top:70px;}
+.hkdress9 .tCon .a3{ width:608px; height:371px; left:493px; top:179px;}
+
+.hkdress12 .tCon .a1{ width:545px; height:394px; left:46px; top:-350px;}
+.hkdress12 .tCon .a2{ width:459px; height:449px; left:647px; top:-291px;}
+.hkdress12 .tCon .a3{ width:547px; height:452px; left:66px; top:43px;}
+
+.hkdress15 .tCon .a1{ width:320px; height:383px; left:74px; top:-369px;}
+.hkdress15 .tCon .a2{ width:381px; height:422px; left:256px; top:57px;}
+.hkdress15 .tCon .a3{ width:408px; height:548px; left:690px; top:-74px;}
+
+.hkdress17 .tCon .a1{ width:466px; height:518px; left:32px; top:-115px;}
+.hkdress17 .tCon .a2{ width:466px; height:518px; left:615px; top:-115px;}
+
+/* 328化妆品*/
+.posFixed{position:fixed;top:50px;display:block !important; margin-left:-387px;}
+.cosmetics_01{height:0px;}
+.cosmetics_02{height: 153px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_02.jpg) top center no-repeat;}
+.cosmetics_03{height: 163px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_03.jpg) top center no-repeat;}
+.cosmetics_04{height: 165px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_04.jpg) top center no-repeat;}
+.cosmetics_05{height: 328px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_05.jpg) top center no-repeat;}
+.cosmetics_06{height: 388px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_06.jpg) top center no-repeat;}
+.cosmetics_007{ height:490px; background:url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_006.jpg) top center no-repeat;}
+.cosmetics_008{ height:408px; background:url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_007.jpg) top center no-repeat;}
+.cosmetics_009{ height:343px; background:url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_008.jpg) top center no-repeat;}
+
+.cosmetics_08{width: 293px;height: 490px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_08.jpg) top center no-repeat; display:none;}
+
+.cosmetics_14{height: 308px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_14.jpg) top center no-repeat;}
+.cosmetics_15{height: 446px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_15.jpg) top center no-repeat;}
+.cosmetics_16{height: 444px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_16.jpg) top center no-repeat;}
+.cosmetics_17{height: 325px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_17.jpg) top center no-repeat;}
+.cosmetics_18{height: 343px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_18.jpg) top center no-repeat;}
+.cosmetics_19{height: 418px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_19.jpg) top center no-repeat;}
+.cosmetics_20{height: 423px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_20.jpg) top center no-repeat;}
+.cosmetics_21{height: 338px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_21.jpg) top center no-repeat;}
+.cosmetics_22{height: 299px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_22.jpg) top center no-repeat;}
+.cosmetics_23{height: 443px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_23.jpg) top center no-repeat;}
+.cosmetics_24{height: 419px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_24.jpg) top center no-repeat;}
+.cosmetics_25{height: 442px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_25.jpg) top center no-repeat;}
+.cosmetics_26{height: 309px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_26.jpg) top center no-repeat;}
+.cosmetics_27{height: 448px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_27.jpg) top center no-repeat;}
+.cosmetics_28{height: 418px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_28.jpg) top center no-repeat;}
+.cosmetics_29{height: 438px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_29.jpg) top center no-repeat;}
+.cosmetics_30{height: 381px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_30.jpg) top center no-repeat;}
+.cosmetics_31{height: 271px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_31.jpg) top center no-repeat;}
+.cosmetics_32{height: 310px;background: url(http://att.bitgaiwang.com/zt/cosmetics/cosmetics_32.jpg) top center no-repeat;}
+
+.cosmetics_08 .cCon .a1{width: 273px;height: 490px;position: absolute;left: 0;top: 0;}
+
+.cosmetics_008 .cCon .a1{width: 364px;height: 416px;left:321px;top:-10px;}
+.cosmetics_008 .cCon .a2{width: 364px;height: 416px;left:689px;top:-10px;}
+
+.cosmetics_009 .cCon .a1{width: 273px;height: 313px;left:-51px;top:3px;}
+.cosmetics_009 .cCon .a2{width: 273px;height: 313px;left:228px;top:3px;}
+.cosmetics_009 .cCon .a3{width: 273px;height: 313px;left:504px;top:3px;}
+.cosmetics_009 .cCon .a4{width: 273px;height: 313px;left:780px;top:3px;}
+
+.cosmetics_15 .cCon .a1{width: 364px;height: 414px;left:-53px;top:30px;}
+.cosmetics_15 .cCon .a2{width: 364px;height: 414px;left:315px;top:30px;}
+
+.cosmetics_16 .cCon .a1{width: 544px;height: 419px;left:-53px;top:2px;}
+.cosmetics_16 .cCon .a2{width: 544px;height: 419px;left:505px;top:2px;}
+
+.cosmetics_18 .cCon .a1{width: 272px;height: 312px;left:-52px;top:25px;}
+.cosmetics_18 .cCon .a2{width: 272px;height: 312px;left:225px;top:25px;}
+.cosmetics_18 .cCon .a3{width: 272px;height: 312px;left:500px;top:25px;}
+.cosmetics_18 .cCon .a4{width: 272px;height: 312px;left:778px;top:25px;}
+
+.cosmetics_19 .cCon .a1{width: 362px;height: 413px;left:318px;top:0;}
+.cosmetics_19 .cCon .a2{width: 362px;height: 413px;left:687px;top:0;}
+
+.cosmetics_20 .cCon .a1{width: 546px;height: 416px;left:-52px;top:2px;}
+.cosmetics_20 .cCon .a2{width: 546px;height: 416px;left:505px;top:2px;}
+
+.cosmetics_21 .cCon .a1{width: 274px;height: 311px;left:-52px;top:0;}
+.cosmetics_21 .cCon .a2{width: 274px;height: 311px;left:225px;top:0;}
+.cosmetics_21 .cCon .a3{width: 274px;height: 311px;left:500px;top:0;}
+.cosmetics_21 .cCon .a4{width: 274px;height: 311px;left:775px;top:0;}
+
+.cosmetics_23 .cCon .a1{width: 363px;height: 416px;left:-52px;top:25px;}
+.cosmetics_23 .cCon .a2{width: 363px;height: 416px;left:315px;top:25px;}
+
+.cosmetics_24 .cCon .a1{width: 546px;height: 416px;left:-52px;top:0;}
+.cosmetics_24 .cCon .a2{width: 546px;height: 416px;left:505px;top:0;}
+
+.cosmetics_25 .cCon .a1{width: 546px;height: 416px;left:-52px;top:2px;}
+.cosmetics_25 .cCon .a2{width: 546px;height: 416px;left:503px;top:2px;}
+
+.cosmetics_27 .cCon .a1{width: 362px;height: 416px;left:318px;top:25px;}
+.cosmetics_27 .cCon .a2{width: 362px;height: 416px;left:687px;top:25px;}
+
+.cosmetics_28 .cCon .a1{width: 546px;height: 416px;left:-52px;top:0;}
+.cosmetics_28 .cCon .a2{width: 546px;height: 416px;left:503px;top:0;}
+
+.cosmetics_29 .cCon .a1{width: 362px;height: 418px;left:-52px;top:0;}
+.cosmetics_29 .cCon .a2{width: 362px;height: 418px;left:318px;top:0;}
+.cosmetics_29 .cCon .a3{width: 362px;height: 418px;left:685px;top:0;}
+
+/* 20150324盖网通*/
+.adream01{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_01.jpg) top center no-repeat;}
+.adream02{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_02.jpg) top center no-repeat;}
+.adream03{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_03.jpg) top center no-repeat;}
+.adream04{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_04.jpg) top center no-repeat;}
+.adream05{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_05.jpg) top center no-repeat;}
+.adream06{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_06.jpg) top center no-repeat;}
+.adream07{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_07.jpg) top center no-repeat;}
+.adream08{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_08.jpg) top center no-repeat;}
+.adream09{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_09.jpg) top center no-repeat;}
+.adream10{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_10.jpg) top center no-repeat;}
+
+.adream11{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_11.jpg) top center no-repeat;}
+.adream12{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_12.jpg) top center no-repeat;}
+.adream13{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_13.jpg) top center no-repeat;}
+.adream14{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_14.jpg) top center no-repeat;}
+.adream15{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_15.jpg) top center no-repeat;}
+.adream16{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_16.jpg) top center no-repeat;}
+.adream17{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_17.jpg) top center no-repeat;}
+.adream18{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_18.jpg) top center no-repeat;}
+.adream19{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_19.jpg) top center no-repeat;}
+.adream20{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_20.jpg) top center no-repeat;}
+
+.adream21{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_21.jpg) top center no-repeat;}
+.adream22{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_22.jpg) top center no-repeat;}
+.adream23{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_23.jpg) top center no-repeat;}
+.adream24{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_24.jpg) top center no-repeat;}
+.adream25{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_25.jpg) top center no-repeat;}
+.adream26{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_26.jpg) top center no-repeat;}
+.adream27{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_27.jpg) top center no-repeat;}
+.adream28{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_28.jpg) top center no-repeat;}
+.adream29{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_29.jpg) top center no-repeat;}
+.adream30{height:150px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_30.jpg) top center no-repeat;}
+.adream31{height:197px; background:url(http://att.bitgaiwang.com/zt/adreamcometrue/adream_31.jpg) top center no-repeat;}
+
+
+.adream07 .tCon .a1{width:230px; height:230px; left:255px; top:-274px;}
+.adream07 .tCon .a2{width:230px; height:230px; left:498px; top:-274px;}
+.adream07 .tCon .a3{width:230px; height:230px; left:741px; top:-274px;}
+.adream07 .tCon .a4{width:230px; height:230px; left:255px; top:-40px;}
+.adream07 .tCon .a5{width:230px; height:230px; left:739px; top:-40px;}
+.adream07 .tCon .a6{width:230px; height:230px; left:255px; top:198px;}
+.adream07 .tCon .a7{width:230px; height:230px; left:498px; top:198px; z-index:2;}
+.adream07 .tCon .a8{width:319px; height:376px; left:721px; top:193px; z-index:1;}
+
+.adream17 .tCon .a1{width:216px; height:216px; left:251px; top:-300px; z-index:2;}
+.adream17 .tCon .a2{width:345px; height:357px; left:121px; top:-133px; z-index:1;}
+.adream17 .tCon .a3{width:216px; height:216px; left:251px; top:162px; z-index:2;}
+.adream17 .tCon .a4{width:226px; height:223px; left:819px; top:-182px;}
+.adream17 .tCon .a5{width:226px; height:223px; left:819px; top:45px;}
+
+.adream28 .tCon .a1{width:246px; height:394px; left:258px; top:-11px;}
+.adream28 .tCon .a2{width:246px; height:394px; left:545px; top:-11px;}
+.adream28 .tCon .a3{width:246px; height:394px; left:828px; top:-11px;}
+
+/* 20150325红包专题*/
+.hongbao01{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_01.jpg) top center no-repeat;}
+.hongbao02{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_02.jpg) top center no-repeat;}
+.hongbao03{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_03.jpg) top center no-repeat;}
+.hongbao04{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_04.jpg) top center no-repeat;}
+.hongbao05{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_05.jpg) top center no-repeat;}
+.hongbao06{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_06.jpg) top center no-repeat;}
+.hongbao07{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_07.jpg) top center no-repeat;}
+.hongbao08{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_08.jpg) top center no-repeat;}
+.hongbao09{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_09.jpg) top center no-repeat;}
+.hongbao10{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_10.jpg) top center no-repeat;}
+
+.hongbao11{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_11.jpg) top center no-repeat;}
+.hongbao12{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_12.jpg) top center no-repeat;}
+.hongbao13{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_13.jpg) top center no-repeat;}
+.hongbao14{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_14.jpg) top center no-repeat;}
+.hongbao15{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_15.jpg) top center no-repeat;}
+.hongbao16{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_16.jpg) top center no-repeat;}
+.hongbao17{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_17.jpg) top center no-repeat;}
+.hongbao18{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_18.jpg) top center no-repeat;}
+.hongbao19{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_19.jpg) top center no-repeat;}
+.hongbao20{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_20.jpg) top center no-repeat;}
+
+.hongbao21{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_21.jpg) top center no-repeat;}
+.hongbao22{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_22.jpg) top center no-repeat;}
+.hongbao23{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_23.jpg) top center no-repeat;}
+.hongbao24{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_24.jpg) top center no-repeat;}
+.hongbao25{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_25.jpg) top center no-repeat;}
+.hongbao26{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_26.jpg) top center no-repeat;}
+.hongbao27{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_27.jpg) top center no-repeat;}
+.hongbao28{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_28.jpg) top center no-repeat;}
+.hongbao29{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_29.jpg) top center no-repeat;}
+.hongbao30{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_30.jpg) top center no-repeat;}
+
+.hongbao31{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_31.jpg) top center no-repeat;}
+.hongbao32{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_32.jpg) top center no-repeat;}
+.hongbao33{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_33.jpg) top center no-repeat;}
+.hongbao34{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_34.jpg) top center no-repeat;}
+.hongbao35{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_35.jpg) top center no-repeat;}
+.hongbao36{height:200px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_36.jpg) top center no-repeat;}
+.hongbao37{height:176px; background:url(http://att.bitgaiwang.com/zt/hongbao/hongbao_37.jpg) top center no-repeat;}
+
+.hongbao06 .tCon a{ width:345px; height:321px;}
+.hongbao06 .tCon .a1{ left:0px; top:35px;}
+.hongbao06 .tCon .a2{ left:375px; top:35px;}
+.hongbao06 .tCon .a3{ left:0px; top:383px;}
+.hongbao06 .tCon .a4{ left:375px; top:383px;}
+.hongbao06 .tCon .a5{ left:749px; top:383px;}
+.hongbao06 .tCon .a6{ left:375px; top:733px;}
+.hongbao06 .tCon .a7{ left:749px; top:733px;}
+
+.hongbao14 .tCon a{ width:348px; height:325px;}
+.hongbao14 .tCon .a1{ left:0px; top:-18px;}
+.hongbao14 .tCon .a2{width:513px; height:325px; left:375px; top:-18px;}
+.hongbao14 .tCon .a3{ left:0px; top:344px;}
+.hongbao14 .tCon .a4{ left:375px; top:344px;}
+.hongbao14 .tCon .a5{ left:749px; top:344px;}
+.hongbao14 .tCon .a6{ left:0px; top:704px;}
+.hongbao14 .tCon .a7{ left:375px; top:704px;}
+
+.hongbao21 .tCon a{ width:344px; height:321px;}
+.hongbao21 .tCon .a1{ left:0px; top:35px;}
+.hongbao21 .tCon .a2{ left:375px; top:35px;}
+.hongbao21 .tCon .a3{ left:0px; top:385px;}
+.hongbao21 .tCon .a4{ left:375px; top:385px;}
+.hongbao21 .tCon .a5{ left:749px; top:385px;}
+.hongbao21 .tCon .a6{ left:375px; top:733px;}
+.hongbao21 .tCon .a7{ left:749px; top:733px;}
+.hongbao21 .tCon .a8{ left:749px; top:1086px;}
+
+.hongbao29 .tCon a{ width:348px; height:325px;}
+.hongbao29 .tCon .a1{ left:0px; top:65px;}
+.hongbao29 .tCon .a2{width:513px; height:325px; left:375px; top:65px;}
+.hongbao29 .tCon .a3{ left:0px; top:425px;}
+.hongbao29 .tCon .a4{ left:375px; top:425px;}
+.hongbao29 .tCon .a5{ left:749px; top:425px;}
+.hongbao29 .tCon .a6{ left:0px; top:787px;}
+.hongbao29 .tCon .a7{ left:375px; top:787px;}
+
+
+/* 乐淘专题 */
+.letao1{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao1.jpg) top center no-repeat;}
+.letao2{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao2.jpg) top center no-repeat;}
+.letao3{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao3.jpg) top center no-repeat;}
+.letao4{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao4.jpg) top center no-repeat;}
+.letao5{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao5.jpg) top center no-repeat;}
+.letao6{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao6.jpg) top center no-repeat;}
+.letao7{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao7.jpg) top center no-repeat;}
+.letao8{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao8.jpg) top center no-repeat;}
+.letao9{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao9.jpg) top center no-repeat;}
+.letao10{height:350px;background:url(http://att.bitgaiwang.com/zt/letao/letao10.jpg) top center no-repeat;}
+.letao11{height:300px;background:url(http://att.bitgaiwang.com/zt/letao/letao11.jpg) top center no-repeat;}
+
+.letao2 a{top:212px;}
+.letao2 .a1{left:40px;}
+.letao2 .a2{left:280px;}
+.letao2 .a3{left:520px;}
+.letao2 .a4{left:755px;}
+.letao2 .a5{left:995px;}
+.letao3 a{top:188px;}
+.letao3 .a1{left:40px;}
+.letao3 .a2{left:280px;}
+.letao3 .a3{left:520px;}
+.letao3 .a4{left:755px;}
+.letao3 .a5{left:995px;}
+.letao5 a{top:-188px;}
+.letao5 .a1{left:40px;}
+.letao5 .a2{left:280px;}
+.letao5 .a3{left:520px;}
+.letao5 .a4{left:755px;}
+.letao5 .a5{left:995px;}
+.letao6 a{top:-108px;}
+.letao6 .a1{left:40px;}
+.letao6 .a2{left:280px;}
+.letao6 .a3{left:520px;}
+.letao6 .a4{left:755px;}
+.letao6 .a5{left:995px;}
+.letao7 a{top:-132px;}
+.letao7 .a1{left:40px;}
+.letao7 .a2{left:280px;}
+.letao7 .a3{left:520px;}
+.letao7 .a4{left:755px;}
+.letao7 .a5{left:995px;}
+.letao8 a{top:-154px;}
+.letao8 .a1{left:40px;}
+.letao8 .a2{left:280px;}
+.letao8 .a3{left:520px;}
+.letao8 .a4{left:755px;}
+.letao8 .a5{left:995px;}
+.letao9 a{top:-66px;}
+.letao9 .a1{left:40px;}
+.letao9 .a2{left:280px;}
+.letao9 .a3{left:520px;}
+.letao9 .a4{left:755px;}
+.letao9 .a5{left:995px;}
+.letao10 a{top:-92px;}
+.letao10 .a1{left:40px;}
+.letao10 .a2{left:280px;}
+.letao10 .a3{left:520px;}
+.letao10 .a4{left:755px;}
+.letao10 .a5{left:995px;}
+.letao11 a{top:-112px;}
+.letao11 .a1{left:40px;}
+.letao11 .a2{left:280px;}
+.letao11 .a3{left:520px;}
+.letao11 .a4{left:755px;}
+.letao11 .a5{left:995px;}
+/*中粮*/
+.ZhongLiang01{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_01.jpg") top center no-repeat;}
+.ZhongLiang02{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_02.jpg") top center no-repeat;}
+.ZhongLiang03{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_03.jpg") top center no-repeat;}
+.ZhongLiang04{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_04.jpg") top center no-repeat;}
+.ZhongLiang05{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_05.jpg") top center no-repeat;}
+.ZhongLiang06{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_06.jpg") top center no-repeat;}
+.ZhongLiang07{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_07.jpg") top center no-repeat;}
+.ZhongLiang08{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_08.jpg") top center no-repeat;}
+.ZhongLiang09{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_09.jpg") top center no-repeat;}
+.ZhongLiang10{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_10.jpg") top center no-repeat;}
+.ZhongLiang11{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_11.jpg") top center no-repeat;}
+.ZhongLiang12{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_12.jpg") top center no-repeat;}
+.ZhongLiang13{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_13.jpg") top center no-repeat;}
+.ZhongLiang14{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_14.jpg") top center no-repeat;}
+.ZhongLiang15{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_15.jpg") top center no-repeat;}
+.ZhongLiang16{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_16.jpg") top center no-repeat;}
+.ZhongLiang17{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_17.jpg") top center no-repeat;}
+.ZhongLiang18{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_18.jpg") top center no-repeat;}
+.ZhongLiang19{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_19.jpg") top center no-repeat;}
+.ZhongLiang20{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_20.jpg") top center no-repeat;}
+.ZhongLiang21{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_21.jpg") top center no-repeat;}
+.ZhongLiang22{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_22.jpg") top center no-repeat;}
+.ZhongLiang23{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_23.jpg") top center no-repeat;}
+.ZhongLiang24{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_24.jpg") top center no-repeat;}
+.ZhongLiang25{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_25.jpg") top center no-repeat;}
+.ZhongLiang26{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_26.jpg") top center no-repeat;}
+.ZhongLiang27{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_27.jpg") top center no-repeat;}
+.ZhongLiang28{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_28.jpg") top center no-repeat;}
+.ZhongLiang29{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_29.jpg") top center no-repeat;}
+.ZhongLiang30{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_30.jpg") top center no-repeat;}
+.ZhongLiang31{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_31.jpg") top center no-repeat;}
+.ZhongLiang32{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_32.jpg") top center no-repeat;}
+.ZhongLiang33{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_33.jpg") top center no-repeat;}
+.ZhongLiang34{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_34.jpg") top center no-repeat;}
+.ZhongLiang35{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_35.jpg") top center no-repeat;}
+.ZhongLiang36{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_36.jpg") top center no-repeat;}
+.ZhongLiang37{height:400px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_37.jpg") top center no-repeat;}
+.ZhongLiang38{height:213px;background:url("http://att.bitgaiwang.com/zt/zhongLiang/ZhongLiang_38.jpg") top center no-repeat;}
+
+.ZhongLiang03 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang03 .pCon .a1{left:-2px;top:116px;}
+.ZhongLiang03 .pCon .a2{right:0px;top:116px;}
+
+.ZhongLiang05 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang05 .pCon .a1{left:-2px;top:-243px;}
+.ZhongLiang05 .pCon .a2{left:291px;top:-243px;}
+.ZhongLiang05 .pCon .a3{right:291px;top:-243px;}
+.ZhongLiang05 .pCon .a4{right:-2px;top:-243px;}
+.ZhongLiang05 .pCon .a5{left:-2px;top:199px;}
+.ZhongLiang05 .pCon .a6{left:291px;top:199px;}
+.ZhongLiang05 .pCon .a7{right:291px;top:199px;}
+.ZhongLiang05 .pCon .a8{right:-2px;top:199px;}
+
+.ZhongLiang07 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang07 .pCon .a1{left:-2px;top:-158px;}
+.ZhongLiang07 .pCon .a2{right:0px;top:-158px;}
+
+.ZhongLiang09 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang09 .pCon .a1{left:-2px;top:-112px;}
+.ZhongLiang09 .pCon .a2{right:0px;top:-112px;}
+
+.ZhongLiang10 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang10 .pCon .a1{left:-2px;top:-73px;}
+.ZhongLiang10 .pCon .a2{left:291px;top:-73px;}
+.ZhongLiang10 .pCon .a3{right:291px;top:-73px;}
+.ZhongLiang10 .pCon .a4{right:-2px;top:-73px;}
+
+.ZhongLiang12 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang12 .pCon .a1{left:-2px;top:-10px;}
+.ZhongLiang12 .pCon .a2{left:291px;top:-10px;}
+.ZhongLiang12 .pCon .a3{right:291px;top:-10px;}
+.ZhongLiang12 .pCon .a4{right:-2px;top:-10px;}
+
+.ZhongLiang13 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang13 .pCon .a1{left:-2px;top:29px;}
+.ZhongLiang13 .pCon .a2{right:0px;top:29px;}
+
+.ZhongLiang14 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang14 .pCon .a1{left:-2px;top:71px;}
+.ZhongLiang14 .pCon .a2{left:291px;top:71px;}
+.ZhongLiang14 .pCon .a3{right:291px;top:71px;}
+.ZhongLiang14 .pCon .a4{right:-2px;top:71px;}
+.ZhongLiang14 .pCon .a5{left:-2px;top:511px;}
+.ZhongLiang14 .pCon .a6{left:291px;top:511px;}
+.ZhongLiang14 .pCon .a7{right:291px;top:511px;}
+.ZhongLiang14 .pCon .a8{right:-2px;top:511px;}
+
+.ZhongLiang16 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang16 .pCon .a1{left:-2px;top:152px;}
+
+.ZhongLiang17 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang17 .pCon .a1{left:-2px;top:192px;}
+.ZhongLiang17 .pCon .a2{left:291px;top:192px;}
+.ZhongLiang17 .pCon .a3{right:291px;top:192px;}
+.ZhongLiang17 .pCon .a4{right:-2px;top:192px;}
+.ZhongLiang17 .pCon .a5{left:-2px;top:633px;}
+.ZhongLiang17 .pCon .a6{left:291px;top:633px;}
+.ZhongLiang17 .pCon .a7{right:291px;top:633px;}
+.ZhongLiang17 .pCon .a8{right:-2px;top:633px;}
+
+.ZhongLiang20 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang20 .pCon .a1{left:-2px;top:297px;}
+.ZhongLiang20 .pCon .a2{left:291px;top:297px;}
+.ZhongLiang20 .pCon .a3{right:291px;top:297px;}
+.ZhongLiang20 .pCon .a4{right:-2px;top:297px;}
+
+.ZhongLiang21 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang21 .pCon .a1{left:-2px;top:337px;}
+.ZhongLiang21 .pCon .a2{right:0px;top:337px;}
+
+.ZhongLiang22 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang22 .pCon .a1{left:-2px;top:377px;}
+.ZhongLiang22 .pCon .a2{left:291px;top:377px;}
+.ZhongLiang22 .pCon .a3{right:291px;top:377px;}
+.ZhongLiang22 .pCon .a4{right:-2px;top:377px;}
+
+.ZhongLiang25 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang25 .pCon .a1{left:-2px;top:31px;}
+.ZhongLiang25 .pCon .a2{left:291px;top:31px;}
+
+.ZhongLiang26 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang26 .pCon .a1{left:-2px;top:71px;}
+.ZhongLiang26 .pCon .a2{left:291px;top:71px;}
+.ZhongLiang26 .pCon .a3{right:291px;top:71px;}
+.ZhongLiang26 .pCon .a4{right:-2px;top:71px;}
+.ZhongLiang26 .pCon .a5{left:-2px;top:513px;}
+.ZhongLiang26 .pCon .a6{left:291px;top:513px;}
+.ZhongLiang26 .pCon .a7{right:291px;top:513px;}
+.ZhongLiang26 .pCon .a8{right:-2px;top:513px;}
+
+.ZhongLiang29 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang29 .pCon .a1{right:291px;top:-244px;}
+.ZhongLiang29 .pCon .a2{right:-0px;top:-244px;}
+
+.ZhongLiang30 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang30 .pCon .a1{left:-2px;top:-202px;}
+.ZhongLiang30 .pCon .a2{left:291px;top:-202px;}
+.ZhongLiang30 .pCon .a3{right:291px;top:-202px;}
+.ZhongLiang30 .pCon .a4{right:-2px;top:-202px;}
+
+.ZhongLiang31 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang31 .pCon .a1{left:-2px;top:-159px;}
+
+.ZhongLiang33 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang33 .pCon .a1{left:-2px;top:-98px;}
+.ZhongLiang33 .pCon .a2{left:291px;top:-98px;}
+
+.ZhongLiang34 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang34 .pCon .a1{left:-2px;top:-58px;}
+.ZhongLiang34 .pCon .a2{left:291px;top:-58px;}
+.ZhongLiang34 .pCon .a3{right:291px;top:-58px;}
+.ZhongLiang34 .pCon .a4{right:-2px;top:-58px;}
+.ZhongLiang34 .pCon .a5{left:-2px;top:384px;}
+.ZhongLiang34 .pCon .a6{left:291px;top:384px;}
+.ZhongLiang34 .pCon .a7{right:291px;top:384px;}
+.ZhongLiang34 .pCon .a8{right:-2px;top:384px;}
+
+.ZhongLiang36 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang36 .pCon .a1{right:290px;top:27px;}
+.ZhongLiang36 .pCon .a2{right:0px;top:27px;}
+
+.ZhongLiang37 .pCon a{ width:279px; height:420px; top:0;}
+.ZhongLiang37 .pCon .a1{left:-2px;top:71px;}
+.ZhongLiang37 .pCon .a2{left:291px;top:71px;}
+.ZhongLiang37 .pCon .a3{right:291px;top:71px;}
+.ZhongLiang37 .pCon .a4{right:-2px;top:71px;}
+/*地区*/
+.diqu1{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu1.jpg) top center no-repeat;}
+.diqu2{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu2.jpg) top center no-repeat;}
+.diqu3{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu3.jpg) top center no-repeat;}
+.diqu4{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu4.jpg) top center no-repeat;}
+.diqu5{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu5.jpg) top center no-repeat;}
+.diqu6{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu6.jpg) top center no-repeat;}
+.diqu7{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu7.jpg) top center no-repeat;}
+.diqu8{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu8.jpg) top center no-repeat;}
+.diqu9{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu9.jpg) top center no-repeat;}
+.diqu10{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu10.jpg) top center no-repeat;}
+.diqu11{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu11.jpg) top center no-repeat;}
+.diqu12{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu12.jpg) top center no-repeat;}
+.diqu13{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu13.jpg) top center no-repeat;}
+.diqu14{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu14.jpg) top center no-repeat;}
+.diqu15{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu15.jpg) top center no-repeat;}
+.diqu16{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu16.jpg) top center no-repeat;}
+.diqu17{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu17.jpg) top center no-repeat;}
+.diqu18{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu18.jpg) top center no-repeat;}
+.diqu19{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu19.jpg) top center no-repeat;}
+.diqu20{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu20.jpg) top center no-repeat;}
+.diqu21{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu21.jpg) top center no-repeat;}
+.diqu22{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu22.jpg) top center no-repeat;}
+.diqu23{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu23.jpg) top center no-repeat;}
+.diqu24{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu24.jpg) top center no-repeat;}
+.diqu25{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu25.jpg) top center no-repeat;}
+.diqu26{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu26.jpg) top center no-repeat;}
+.diqu27{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu27.jpg) top center no-repeat;}
+.diqu28{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu28.jpg) top center no-repeat;}
+.diqu29{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu29.jpg) top center no-repeat;}
+.diqu30{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu30.jpg) top center no-repeat;}
+.diqu31{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu31.jpg) top center no-repeat;}
+.diqu32{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu32.jpg) top center no-repeat;}
+.diqu33{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu33.jpg) top center no-repeat;}
+.diqu34{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu34.jpg) top center no-repeat;}
+.diqu35{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu35.jpg) top center no-repeat;}
+.diqu36{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu36.jpg) top center no-repeat;}
+.diqu37{height:350px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu37.jpg) top center no-repeat;}
+.diqu38{height:302px;background:url(http://att.bitgaiwang.com/zt/diqu/diqu38.jpg) top center no-repeat;}
+
+
+.diqu4 a{width:279px;height:468px;top:90px;}
+.diqu4 .a1{left:30px;}
+.diqu4 .a2{left:315px;}
+.diqu4 .a3{left:610px;}
+.diqu4 .a4{left:900px;}
+.diqu6 a{width:366px;height:469px;top:-12px;}
+.diqu6 .a1{left:20px;}
+.diqu6 .a2{left:405px;}
+.diqu6 .a3{left:790px;}
+.diqu8 a{width:366px;height:469px;top:-112px;}
+.diqu8 .a2{left:405px;}
+.diqu8 .a3{left:790px;}
+.diqu9 a{width:366px;height:469px;top:15px;}
+.diqu9 .a1{left:20px;}
+.diqu9 .a2{left:405px;}
+.diqu9 .a3{left:790px;}
+.diqu11 a{width:366px;height:469px;top:-82px;}
+.diqu11 .a1{left:20px;}
+.diqu11 .a2{left:405px;}
+.diqu11 .a3{left:790px;}
+.diqu12 a{width:366px;height:469px;top:45px;}
+.diqu12 .a1{left:20px;}
+.diqu12 .a2{left:405px;}
+.diqu12 .a3{left:790px;}
+.diqu13 a{width:366px;height:469px;top:172px;}
+.diqu13 .a1{left:20px;}
+.diqu13 .a2{left:405px;}
+.diqu13 .a3{left:790px;}
+.diqu15 a{width:279px;height:468px;top:60px;}
+.diqu15 .a1{left:30px;}
+.diqu15 .a2{left:315px;}
+.diqu15 .a3{left:610px;}
+.diqu15 .a4{left:900px;}
+.diqu17 a{width:366px;height:469px;top:-22px;}
+.diqu17 .a1{left:30px;}
+.diqu17 .a2{left:415px;}
+.diqu17 .a3{left:800px;}
+.diqu19 a{width:366px;height:469px;top:-128px;}
+.diqu19 .a2{left:420px;}
+.diqu19 .a3{left:805px;}
+.diqu20 a{width:366px;height:469px;top:-5px;}
+.diqu20 .a1{left:35px;}
+.diqu20 .a2{left:420px;}
+.diqu20 .a3{left:805px;}
+.diqu21 a{width:366px;height:469px;top:120px;}
+.diqu21 .a1{left:35px;}
+.diqu21 .a2{left:420px;}
+.diqu21 .a3{left:805px;}
+.diqu24 a{width:366px;height:469px;top:-62px;}
+.diqu24 .a2{left:415px;}
+.diqu24 .a3{left:800px;}
+.diqu25 a{width:366px;height:469px;top:65px;}
+.diqu25 .a1{left:30px;}
+.diqu25 .a2{left:415px;}
+.diqu25 .a3{left:800px;}
+.diqu28 a{width:366px;height:469px;top:-115px;}
+.diqu28 .a1{left:38px;}
+.diqu28 .a2{left:423px;}
+.diqu28 .a3{left:808px;}
+.diqu30 a{width:366px;height:469px;top:40px;}
+.diqu30 .a1{left:38px;}
+.diqu30 .a2{left:423px;}
+.diqu30 .a3{left:808px;}
+.diqu33 a{width:366px;height:469px;top:-75px;}
+.diqu33 .a1{left:33px;}
+.diqu33 .a2{left:418px;}
+.diqu33 .a3{left:802px;}
+.diqu35 a{width:366px;height:469px;top:-215px;}
+.diqu35 .a1{left:33px;}
+.diqu35 .a2{left:418px;}
+.diqu35 .a3{left:802px;}
+.diqu36 a{width:366px;height:469px;top:-10px;}
+.diqu36 .a1{left:33px;}
+.diqu36 .a2{left:418px;}
+.diqu36 .a3{left:802px;}
+.diqu38 a{width:366px;height:469px;top:-230px;}
+.diqu38 .a1{left:33px;}
+.diqu38 .a2{left:418px;}
+.diqu38 .a3{left:802px;}
+/*主场*/
+.home01{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_01.jpg) top center no-repeat;}
+.home02{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_02.jpg) top center no-repeat;}
+.home03{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_03.jpg) top center no-repeat;}
+.home04{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_04.jpg) top center no-repeat;}
+.home05{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_05.jpg) top center no-repeat;}
+.home06{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_06.jpg) top center no-repeat;}
+.home07{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_07.jpg) top center no-repeat;}
+.home08{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_08.jpg) top center no-repeat;}
+.home09{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_09.jpg) top center no-repeat;}
+.home10{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_10.jpg) top center no-repeat;}
+
+.home11{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_11.jpg) top center no-repeat;}
+.home12{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_12.jpg) top center no-repeat;}
+.home13{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_13.jpg) top center no-repeat;}
+.home14{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_14.jpg) top center no-repeat;}
+.home15{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_15.jpg) top center no-repeat;}
+.home16{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_16.jpg) top center no-repeat;}
+.home17{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_17.jpg) top center no-repeat;}
+.home18{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_18.jpg) top center no-repeat;}
+.home19{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_19.jpg) top center no-repeat;}
+.home20{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_20.jpg) top center no-repeat;}
+
+.home21{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_21.jpg) top center no-repeat;}
+.home22{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_22.jpg) top center no-repeat;}
+.home23{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_23.jpg) top center no-repeat;}
+.home24{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_24.jpg) top center no-repeat;}
+.home25{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_25.jpg) top center no-repeat;}
+.home26{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_26.jpg) top center no-repeat;}
+.home27{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_27.jpg) top center no-repeat;}
+.home28{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_28.jpg) top center no-repeat;}
+.home29{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_29.jpg) top center no-repeat;}
+.home30{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_30.jpg) top center no-repeat;}
+
+.home31{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_31.jpg) top center no-repeat;}
+.home32{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_32.jpg) top center no-repeat;}
+.home33{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_33.jpg) top center no-repeat;}
+.home34{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_34.jpg) top center no-repeat;}
+.home35{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_35.jpg) top center no-repeat;}
+.home36{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_36.jpg) top center no-repeat;}
+.home37{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_37.jpg) top center no-repeat;}
+.home38{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_38.jpg) top center no-repeat;}
+.home39{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_39.jpg) top center no-repeat;}
+.home40{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_40.jpg) top center no-repeat;}
+
+.home41{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_41.jpg) top center no-repeat;}
+.home42{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_42.jpg) top center no-repeat;}
+.home43{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_43.jpg) top center no-repeat;}
+.home44{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_44.jpg) top center no-repeat;}
+.home45{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_45.jpg) top center no-repeat;}
+.home46{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_46.jpg) top center no-repeat;}
+.home47{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_47.jpg) top center no-repeat;}
+.home48{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_48.jpg) top center no-repeat;}
+.home49{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_49.jpg) top center no-repeat;}
+.home50{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_50.jpg) top center no-repeat;}
+
+.home51{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_51.jpg) top center no-repeat;}
+.home52{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_52.jpg) top center no-repeat;}
+.home53{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_53.jpg) top center no-repeat;}
+.home54{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_54.jpg) top center no-repeat;}
+.home55{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_55.jpg) top center no-repeat;}
+.home56{height:300px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_56.jpg) top center no-repeat;}
+.home57{height:279px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_57.jpg) top center no-repeat;}
+.home06 .tCon .a1{ width:1104px; height:567px; top:-13px;}
+.home10 .tCon .a1{ width:1104px; height:403px; top:-131px;}
+
+.home12 .tCon a{ width:365px; height:416px; top:166px;}
+.home12 .tCon .a1{ left:0px;}
+.home12 .tCon .a2{ left:372px;}
+.home12 .tCon .a3{ left:741px;}
+
+.home16 .tCon a{ width:365px; height:416px;}
+.home16 .tCon .a1{ left:0px; top:-105px;}
+.home16 .tCon .a2{ left:372px; top:-105px;}
+.home16 .tCon .a3{ left:741px; top:-105px;}
+.home16 .tCon .a4{ width:546px; left:0px; top:316px;}
+.home16 .tCon .a5{ width:546px; left:555px; top:316px;}
+.home16 .tCon .a6{ left:0px; top:737px;}
+.home16 .tCon .a7{ left:372px; top:737px;}
+.home16 .tCon .a8{ left:741px; top:737px;}
+
+.home22 .tCon a{ width:365px; height:416px;}
+.home22 .tCon .a1{ left:0px; top:-155px;}
+.home22 .tCon .a2{ left:372px; top:-155px;}
+.home22 .tCon .a3{ left:741px; top:-155px;}
+.home22 .tCon .a4{ left:0px; top:267px;}
+.home22 .tCon .a5{ left:372px; top:267px;}
+.home22 .tCon .a6{ left:741px; top:267px;}
+.home22 .tCon .a7{ left:0px; top:686px;}
+.home22 .tCon .a8{ left:372px; top:686px;}
+.home22 .tCon .a9{ left:741px; top:686px;}
+
+.home28 .tCon a{ width:365px; height:416px;}
+.home28 .tCon .a1{ left:0px; top:-210px;}
+.home28 .tCon .a2{ left:372px; top:-210px;}
+.home28 .tCon .a3{ left:741px; top:-210px;}
+.home28 .tCon .a4{width:274px; height:310px; left:0px; top:213px;}
+.home28 .tCon .a5{width:274px; height:310px; left:278px; top:213px;}
+.home28 .tCon .a6{width:274px; height:310px; left:554px; top:213px;}
+.home28 .tCon .a7{width:274px; height:310px; left:830px; top:213px;}
+
+.home32 .tCon a{ width:365px; height:416px;}
+.home32 .tCon .a1{ left:0px; top:-196px;}
+.home32 .tCon .a2{ left:372px; top:-196px;}
+.home32 .tCon .a3{ left:741px; top:-196px;}
+.home32 .tCon .a4{ left:0px; top:226px;}
+.home32 .tCon .a5{ left:372px; top:226px;}
+.home32 .tCon .a6{ left:741px; top:226px;}
+
+.home36 .tCon .a1{width:365px; height:416px; left:0px; top:-72px;}
+.home36 .tCon .a2{width:365px; height:416px; left:372px; top:-72px;}
+.home36 .tCon .a3{width:365px; height:416px; left:741px; top:-72px;}
+.home36 .tCon .a4{width:550px; height:416px; left:0px; top:350px;}
+.home36 .tCon .a5{width:550px; height:416px; left:553px; top:350px;}
+.home36 .tCon .a6{width:275px; height:314px; left:0px; top:770px;}
+.home36 .tCon .a7{width:275px; height:314px; left:276px; top:770px;}
+.home36 .tCon .a8{width:275px; height:314px; left:554px; top:770px;}
+.home36 .tCon .a9{width:275px; height:314px; left:830px; top:770px;}
+.home36 .tCon .a10{width:364px; height:310px; left:0px; top:1089px;}
+.home36 .tCon .a11{width:364px; height:310px; left:369px; top:1089px;}
+.home36 .tCon .a12{width:364px; height:310px; left:739px; top:1089px;}
+
+.home42 .tCon a{ width:365px; height:416px;}
+.home42 .tCon .a1{ left:0px; top:56px;}
+.home42 .tCon .a2{ left:372px; top:56px;}
+.home42 .tCon .a3{ left:741px; top:56px;}
+.home42 .tCon .a4{ left:0px; top:478px;}
+.home42 .tCon .a5{ left:372px; top:478px;}
+.home42 .tCon .a6{ left:741px; top:478px;}
+.home42 .tCon .a7{ width:550px;height:389px; left:0px;top:898px; }
+.home42 .tCon .a8{ width:550px;height:389px; left:555px; top:898px;}
+
+.home48 .tCon a{ width:365px; height:416px;}
+.home48 .tCon .a1{ left:0px; top:-55px;}
+.home48 .tCon .a2{ left:372px; top:-55px;}
+.home48 .tCon .a3{ left:741px; top:-55px;}
+.home48 .tCon .a4{ left:0px; top:367px;}
+.home48 .tCon .a5{ left:372px; top:367px;}
+.home48 .tCon .a6{ left:741px; top:367px;}
+.home48 .tCon .a7{ width:550px;height:389px; left:0px;top:788px; }
+.home48 .tCon .a8{ width:550px;height:389px; left:555px; top:788px;}
+
+.home52 .tCon a{ width:284px; height:160px;}
+.home52 .tCon .a1{ left:-24px; top:80px;}
+.home52 .tCon .a2{ left:264px; top:80px;}
+.home52 .tCon .a3{ left:554px; top:80px;}
+.home52 .tCon .a4{ left:843px; top:80px;}
+.home52 .tCon .a5{ left:-24px; top:245px;}
+.home52 .tCon .a6{ left:264px; top:245px;}
+.home52 .tCon .a7{ left:554px; top:245px;}
+.home52 .tCon .a8{ left:843px; top:245px;}
+.home52 .tCon .a9{ left:-24px; top:408px;}
+.home52 .tCon .a10{ left:264px; top:408px;}
+.home52 .tCon .a11{ left:554px; top:408px;}
+.home52 .tCon .a12{ left:843px; top:408px;}
+.home52 .tCon .a13{ width:1155px; left:-24px; top:572px;}
+
+.homeright{ width:203px; height:643px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_58.png) no-repeat; position:absolute;margin-left:1070px; margin-top:-70px; }
+.homeleft{ width:234px; height:573px; background:url(http://att.bitgaiwang.com/zt/homecourt/Home_59.png) no-repeat; position:absolute;margin-left:-256px; margin-top:366px;}
+.homega{ position:fixed; top:10%; margin-top:0px;}
+.homegb{ position:fixed; top:5%; margin-top:0px;}
+
+.homeleft .a1{ width:175px; height:280px;margin-left:58px; margin-top:55px;}
+.homeleft .a2{ width:175px; height:237px;margin-left:58px; margin-top:336px;}
+.homeright a{ width:110px; height:39px; margin-left:57px;}
+.homeright .a1{ margin-top:70px;}
+.homeright .a2{ margin-top:110px;}
+.homeright .a3{ margin-top:150px;}
+.homeright .a4{ margin-top:190px;}
+.homeright .a5{ margin-top:230px;}
+.homeright .a6{ margin-top:270px;}
+.homeright .a7{ margin-top:310px;}
+.homeright .a8{ margin-top:350px;}
+.homeright .a9{ margin-top:390px;}
+.homeright .a10{ margin-top:430px;}
+.homeright .a11{ margin-top:470px;}
+.homeright .a12{ margin-top:510px;}
+.homeright .a13{ margin-top:550px;}
+.homeright .a14{ margin-top:590px;}
+/* 地区328专题 */
+.puyu1{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu1.jpg) top center no-repeat;}
+.puyu2{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu2.jpg) top center no-repeat;}
+.puyu3{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu3.jpg) top center no-repeat;}
+.puyu4{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu4.jpg) top center no-repeat;}
+.puyu5{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu5.jpg) top center no-repeat;}
+.puyu6{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu6.jpg) top center no-repeat;}
+.puyu7{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu7.jpg) top center no-repeat;}
+.puyu8{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu8.jpg) top center no-repeat;}
+.puyu9{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu9.jpg) top center no-repeat;}
+.puyu10{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu10.jpg) top center no-repeat;}
+.puyu11{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu11.jpg) top center no-repeat;}
+.puyu12{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu12.jpg) top center no-repeat;}
+.puyu13{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu13.jpg) top center no-repeat;}
+.puyu14{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu14.jpg) top center no-repeat;}
+.puyu15{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu15.jpg) top center no-repeat;}
+.puyu16{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu16.jpg) top center no-repeat;}
+.puyu17{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu17.jpg) top center no-repeat;}
+.puyu18{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu18.jpg) top center no-repeat;}
+.puyu19{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu19.jpg) top center no-repeat;}
+.puyu20{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu20.jpg) top center no-repeat;}
+.puyu21{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu21.jpg) top center no-repeat;}
+.puyu22{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu22.jpg) top center no-repeat;}
+.puyu23{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu23.jpg) top center no-repeat;}
+.puyu24{height:320px;background:url(http://att.bitgaiwang.com/zt/putao/puyu24.jpg) top center no-repeat;}
+.puyu25{height:241px;background:url(http://att.bitgaiwang.com/zt/putao/puyu25.jpg) top center no-repeat;}
+
+.puyu3 a{width:867px;height:314px;left:121px;top:47px;}
+.puyu5 a{width:660px;height:504px;left:232px;top:-202px;}
+.puyu6 a{width:1227px;height:640px;left:-145px;}
+.puyu8 a{width:247px;height:439px;top:95px;}
+.puyu8 .a1{left:93px;}
+.puyu8 .a2{left:353px;}
+.puyu8 .a3{left:613px;}
+.puyu8 .a4{left:873px;}
+.puyu10 a{width:247px;height:439px;top:-62px;}
+.puyu10 .a1{left:93px;}
+.puyu10 .a2{left:353px;}
+.puyu10 .a3{width:285px;left:613px;}
+.puyu10 .a4{width:190;left:908px;}
+.puyu12 .a1{width:505px;height:503px;left:100px;top:-204px;}
+.puyu12 .a2{width:800px;height:270px;left:257px;top:-204px;}
+.puyu13 a{width:760px;height:503px;left:618px;top:-235px;}
+.puyu15 a{width:760px;height:200px;left:50px;top:-5px;}
+.puyu16 a{width:800px;height:200px;left:150px;top:-20px;}
+.puyu17 a{width:970px;height:230px;left:202px;top:-13px;}
+.puyu18 a{width:970px;height:230px;left:150px;top:5px;}
+.puyu19 a{width:970px;height:300px;left:120px;top:-56px;}
+.puyu20 a{width:970px;height:200px;left:121px;top:-50px;}
+.puyu22 a{width:995px;height:402px;left:110px;}
+.puyu24 a{width:406px;height:601px;top:-75px;}
+.puyu24 .a1{left:200px;}
+.puyu24 .a2{left:655px;}
+
+
+/* 箱包328专题 */
+/*.wangyouyingli1{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli1.jpg) top center no-repeat;}*/
+.wangyouyingli1_1{height:175px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli1_01.jpg) top center no-repeat;}
+.wangyouyingli1_2{height:175px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli1_02.jpg) top center no-repeat;}
+.wangyouyingli2_1{height:175px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli2_01.jpg) top center no-repeat;}
+.wangyouyingli2_2{height:175px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli2_02.jpg) top center no-repeat;}
+
+.wangyouyingli2{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli2.jpg) top center no-repeat;}
+.wangyouyingli3{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli3.jpg) top center no-repeat;}
+.wangyouyingli4{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli4.jpg) top center no-repeat;}
+.wangyouyingli5{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli5.jpg) top center no-repeat;}
+.wangyouyingli6{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli6.jpg) top center no-repeat;}
+.wangyouyingli7{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli7.jpg) top center no-repeat;}
+.wangyouyingli8{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli8.jpg) top center no-repeat;}
+.wangyouyingli9{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli9.jpg) top center no-repeat;}
+.wangyouyingli10{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli10.jpg) top center no-repeat;}
+.wangyouyingli11{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli11.jpg) top center no-repeat;}
+.wangyouyingli12{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli12.jpg) top center no-repeat;}
+.wangyouyingli13{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli13.jpg) top center no-repeat;}
+.wangyouyingli14{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli14.jpg) top center no-repeat;}
+.wangyouyingli15{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli15.jpg) top center no-repeat;}
+.wangyouyingli16{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli16.jpg) top center no-repeat;}
+.wangyouyingli17{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli17.jpg) top center no-repeat;}
+.wangyouyingli18{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli18.jpg) top center no-repeat;}
+.wangyouyingli19{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli19.jpg) top center no-repeat;}
+.wangyouyingli20{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli20.jpg) top center no-repeat;}
+.wangyouyingli21{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli21.jpg) top center no-repeat;}
+.wangyouyingli22{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli22.jpg) top center no-repeat;}
+.wangyouyingli23{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli23.jpg) top center no-repeat;}
+.wangyouyingli24{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli24.jpg) top center no-repeat;}
+.wangyouyingli25{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli25.jpg) top center no-repeat;}
+.wangyouyingli26{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli26.jpg) top center no-repeat;}
+.wangyouyingli27{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli27.jpg) top center no-repeat;}
+.wangyouyingli28{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli28.jpg) top center no-repeat;}
+.wangyouyingli29{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli29.jpg) top center no-repeat;}
+.wangyouyingli30{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli30.jpg) top center no-repeat;}
+.wangyouyingli31{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli31.jpg) top center no-repeat;}
+.wangyouyingli32{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli32.jpg) top center no-repeat;}
+.wangyouyingli33{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli33.jpg) top center no-repeat;}
+.wangyouyingli34{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli34.jpg) top center no-repeat;}
+.wangyouyingli35{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli35.jpg) top center no-repeat;}
+.wangyouyingli36{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli36.jpg) top center no-repeat;}
+.wangyouyingli37{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli37.jpg) top center no-repeat;}
+.wangyouyingli38{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli38.jpg) top center no-repeat;}
+.wangyouyingli39{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli39.jpg) top center no-repeat;}
+.wangyouyingli40{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli40.jpg) top center no-repeat;}
+.wangyouyingli41{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli41.jpg) top center no-repeat;}
+.wangyouyingli42{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli42.jpg) top center no-repeat;}
+.wangyouyingli43{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli43.jpg) top center no-repeat;}
+.wangyouyingli44{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli44.jpg) top center no-repeat;}
+.wangyouyingli45{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli45.jpg) top center no-repeat;}
+.wangyouyingli46{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli46.jpg) top center no-repeat;}
+.wangyouyingli47{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli47.jpg) top center no-repeat;}
+.wangyouyingli48{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli48.jpg) top center no-repeat;}
+.wangyouyingli49{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli49.jpg) top center no-repeat;}
+.wangyouyingli50{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli50.jpg) top center no-repeat;}
+.wangyouyingli51{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli51.jpg) top center no-repeat;}
+.wangyouyingli52{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli52.jpg) top center no-repeat;}
+.wangyouyingli53{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli53.jpg) top center no-repeat;}
+.wangyouyingli54{height:350px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli54.jpg) top center no-repeat;}
+.wangyouyingli55{height:128px;background:url(http://att.bitgaiwang.com/zt/gravity/wangyouyingli55.jpg) top center no-repeat;}
+
+.wangyouyingli4 a{height:296px;top:-95px;}
+.wangyouyingli4 .a1{width:257px;left:177px;}
+.wangyouyingli4 .a2{width:264px;left:436px;}
+.wangyouyingli4 .a3{width:270px;left:702px;}
+
+.wangyouyingli5 .a1{width:1100px;height:416px;left:48px;top:141px;}
+
+.wangyouyingli8 .a1{width:1100px;height:445px;left:48px;top:-219px;}
+
+.wangyouyingli9 a{width:293px;height:259px;top:120px;}
+.wangyouyingli9 .a1{left:50px;}
+.wangyouyingli9 .a2{left:445px;}
+.wangyouyingli9 .a3{left:830px;}
+
+.wangyouyingli10 a{width:293px;height:259px;top:50px;}
+.wangyouyingli10 .a1{left:525px;}
+.wangyouyingli10 .a2{left:830px;}
+
+.wangyouyingli12 a{width:262px;height:229px;top:130px;}
+.wangyouyingli12 .a1{width:280px;left:70px;}
+.wangyouyingli12 .a2{left:425px;}
+.wangyouyingli12 .a3{left:830px;}
+
+.wangyouyingli13 a{width:262px;height:229px;top:35px;}
+.wangyouyingli13 .a1{width:280px;left:70px;}
+.wangyouyingli13 .a2{left:425px;}
+.wangyouyingli13 .a3{left:830px;}
+
+.wangyouyingli14 a{width:262px;height:229px;top:-35px;}
+.wangyouyingli14 .a1{width:280px;left:70px;}
+.wangyouyingli14 .a2{left:425px;}
+.wangyouyingli14 .a3{left:830px;}
+
+.wangyouyingli16 .a1{width:1100px;height:380px;left:50px;top:-110px;}
+
+
+
+.wangyouyingli17 .a1{width:485px;height:347px;top:-80px;left:48px;}
+.wangyouyingli17 .a2{width:267px;height:347px;top:-80px;left:533px;}
+.wangyouyingli17 .a3{width:350px;height:347px;left:800px;top:-80px;}
+
+.wangyouyingli18 .a1{width:555px;height:305px;top:-83px;left:48px;}
+.wangyouyingli18 .a2{width:546px;height:305px;top:-83px;left:603px;}
+
+.wangyouyingli19 .a1{width:550px;height:368px;top:140px;}
+.wangyouyingli19 .a2{width:550px;height:368px;top:140px;left:556px;}
+
+.wangyouyingli20 .a1{width:550px;height:358px;top:160px;}
+.wangyouyingli20 .a2{width:550px;height:358px;top:160px;left:556px;}
+
+.wangyouyingli22 .a1{width:742px;height:764px;top:75px;left:48px;}
+.wangyouyingli22 .a2{width:358px;height:348px;top:75px;left:791px;}
+
+.wangyouyingli23 .a1{width:211px;height:330px;left:523px;top:159px;z-index:2;}
+.wangyouyingli23 .a2{width:415px;height:415px;left:734px;top:76px;z-index:2;}
+
+.wangyouyingli25 .a1{width:364px;height:348px;left:50px;top:128px;}
+.wangyouyingli25 .a2{width:364px;height:348px;left:418px;top:128px;}
+.wangyouyingli25 .a3{width:364px;height:348px;left:786px;top:128px;}
+
+.wangyouyingli26 .a1{width:277px;height:265px;left:49px;top:126px;}
+.wangyouyingli26 .a2{width:275px;height:265px;left:326px;top:126px;}
+.wangyouyingli26 .a3{width:277px;height:265px;left:600px;top:126px;}
+
+.wangyouyingli27 .a1{width:277px;height:265px;left:325px;top:41px;}
+.wangyouyingli27 .a2{width:275px;height:265px;left:875px;top:41px;}
+
+.wangyouyingli28 .a1{width:403px;height:249px;left:50px;top:-44px;}
+.wangyouyingli28 .a2{width:326px;height:251px;left:451px;top:-44px;}
+.wangyouyingli28 .a3{width:374px;height:251px;left:777px;top:-44px;}
+
+.wangyouyingli29 .a1{width:1100px;height:504px;left:49px;top:-9px;}
+
+.wangyouyingli31 .a1{width:365px;height:328px;top:10px;left:48px;}
+.wangyouyingli31 .a2{width:365px;height:328px;top:10px;left:425px;}
+.wangyouyingli31 .a3{width:365px;height:328px;top:10px;left:800px;}
+
+.wangyouyingli32 .a1{width:365px;height:328px;top:10px;left:265px;}
+.wangyouyingli32 .a2{width:365px;height:328px;top:10px;left:650px;}
+
+.wangyouyingli33 .a1{width:667px;height:303px;top:255px;left:50px;}
+.wangyouyingli33 .a2{width:435px;height:303px;top:255px;left:715px;}
+
+.wangyouyingli34 .a1{width:248px;height:375px;top:208px;left:50px;}
+.wangyouyingli34 .a2{width:193px;height:273px;top:208px;left:299px;}
+.wangyouyingli34 .a3{width:284px;height:273px;top:208px;left:491px;}
+.wangyouyingli34 .a4{width:374px;height:273px;top:208px;left:775px;}
+
+.wangyouyingli35 .a1{width:248px;height:305px;top:233px;left:50px;}
+.wangyouyingli35 .a2{width:530px;height:403px;top:132px;left:298px;}
+.wangyouyingli35 .a3{width:322px;height:318px;top:132px;left:829px;}
+
+.wangyouyingli36 .a1{width:248px;height:300px;top:188px;left:50px;}
+.wangyouyingli36 .a2{width:530px;height:301px;top:185px;left:298px;}
+.wangyouyingli36 .a3{width:322px;height:386px;top:102px;left:829px;}
+
+.wangyouyingli38 .a1{width:195px;height:503px;top:11px;left:50px;}
+.wangyouyingli38 .a2{width:215px;height:560px;top:11px;left:245px;}
+.wangyouyingli38 .a3{width:235px;height:637px;top:11px;left:460px;}
+.wangyouyingli38 .a4{width:235px;height:560px;top:11px;left:695px;}
+.wangyouyingli38 .a5{width:218px;height:503px;top:11px;left:930px;}
+
+.wangyouyingli40 .a1{width:664px;height:496px;top:-14px;left:260px;}
+
+.wangyouyingli41 .a1{width:248px;height:297px;top:160px;left:63px;}
+.wangyouyingli41 .a2{width:248px;height:297px;top:160px;left:339px;}
+.wangyouyingli41 .a3{width:248px;height:297px;top:160px;left:628px;}
+.wangyouyingli41 .a4{width:248px;height:297px;top:160px;left:887px;}
+
+.wangyouyingli43 .a1{width:598px;height:341px;top:49px;left:50px;}
+.wangyouyingli43 .a2{width:501px;height:341px;top:50px;left:649px;}
+
+.wangyouyingli44 .a1{width:598px;height:276px;top:41px;left:50px;}
+.wangyouyingli44 .a2{width:501px;height:276px;top:41px;left:649px;}
+
+.wangyouyingli45 .a1{width:348px;height:296px;top:250px;left:50px;}
+.wangyouyingli45 .a2{width:348px;height:296px;top:250px;left:430px;}
+.wangyouyingli45 .a3{width:348px;height:296px;top:250px;left:785px;}
+
+.wangyouyingli46 .a1{width:269px;height:230px;top:213px;left:50px;}
+.wangyouyingli46 .a2{width:269px;height:230px;top:213px;left:320px;}
+.wangyouyingli46 .a3{width:269px;height:230px;top:213px;left:601px;}
+.wangyouyingli46 .a4{width:269px;height:230px;top:213px;left:879px;}
+
+.wangyouyingli47 .a1{width:269px;height:230px;top:94px;left:50px;}
+.wangyouyingli47 .a2{width:269px;height:230px;top:94px;left:320px;}
+.wangyouyingli47 .a3{width:269px;height:230px;top:94px;left:601px;}
+.wangyouyingli47 .a4{width:269px;height:230px;top:94px;left:879px;}
+
+.wangyouyingli48 .a1{width:269px;height:230px;top:-25px;left:50px;}
+.wangyouyingli48 .a2{width:269px;height:230px;top:-25px;left:320px;}
+.wangyouyingli48 .a3{width:269px;height:230px;top:-25px;left:601px;}
+.wangyouyingli48 .a4{width:269px;height:230px;top:-25px;left:879px;}
+
+.wangyouyingli49 .a1{width:424px;height:350px;top:182px;left:50px;}
+.wangyouyingli49 .a2{width:278px;height:246px;top:182px;left:474px;}
+.wangyouyingli49 .a3{width:401px;height:349px;top:182px;left:749px;}
+
+.wangyouyingli50 .a1{width:424px;height:326px;top:223px;left:50px;}
+.wangyouyingli50 .a2{width:276px;height:211px;top:108px;left:474px;}
+.wangyouyingli50 .a3{width:276px;height:201px;top:348px;left:474px;}
+.wangyouyingli50 .a4{width:401px;height:326px;top:223px;left:749px;}
+
+.wangyouyingli52 .a1{width:323px;height:274px;top:118px;left:59px;}
+.wangyouyingli52 .a2{width:323px;height:274px;top:118px;left:423px;}
+.wangyouyingli52 .a3{width:323px;height:274px;top:118px;left:790px;}
+
+.wangyouyingli53 .a1{width:323px;height:274px;top:70px;left:59px;}
+.wangyouyingli53 .a2{width:323px;height:274px;top:70px;left:423px;}
+.wangyouyingli53 .a3{width:323px;height:274px;top:70px;left:790px;}
+
+.wangyouyingli54 .a1{width:323px;height:274px;top:26px;left:59px;}
+.wangyouyingli54 .a2{width:323px;height:274px;top:26px;left:423px;}
+.wangyouyingli54 .a3{width:323px;height:274px;top:26px;left:790px;}
+
+
+.wangyouyingli5  .a1:hover{opacity: 0;}
+.wangyouyingli8  .a1:hover{opacity: 0;}
+.wangyouyingli9  a:hover{opacity: 0;}
+.wangyouyingli10  a:hover{opacity: 0;}
+.wangyouyingli12  a:hover{opacity: 0;}
+.wangyouyingli13  a:hover{opacity: 0;}
+.wangyouyingli14  a:hover{opacity: 0;}
+.wangyouyingli10  a:hover{opacity: 0;}
+.BBackTop{width:176px;height:699px;position: fixed;top:70px;right:50px;background:url(http://att.bitgaiwang.com/zt/gravity/backTop.png) top center;}
+.BBackTop a{width:137px;height:37px;display: block;position: relative; left: 25px;top:18px;margin-bottom:1px;}
+.noTouch{cursor:default;}
+/* 牛仔裤专题 */
+.niuzaiku1{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku1.jpg) top center no-repeat;z-index:2;}
+.niuzaiku2{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku2.jpg) top center no-repeat;z-index:2;}
+.niuzaiku3{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku3.jpg) top center no-repeat;z-index:2;}
+.niuzaiku4{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku4.jpg) top center no-repeat;z-index:2;}
+.niuzaiku5{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku5.jpg) top center no-repeat;z-index:2;}
+.niuzaiku6{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku6.jpg) top center no-repeat;z-index:2;}
+.niuzaiku7{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku7.jpg) top center no-repeat;z-index:2;}
+.niuzaiku8{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku8.jpg) top center no-repeat;z-index:2;}
+.niuzaiku9{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku9.jpg) top center no-repeat;z-index:2;}
+.niuzaiku10{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku10.jpg) top center no-repeat;z-index:2;}
+.niuzaiku11{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku11.jpg) top center no-repeat;z-index:2;}
+.niuzaiku12{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku12.jpg) top center no-repeat;z-index:2;}
+.niuzaiku13{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku13.jpg) top center no-repeat;z-index:2;}
+.niuzaiku14{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku14.jpg) top center no-repeat;z-index:2;}
+.niuzaiku15{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku15.jpg) top center no-repeat;z-index:2;}
+.niuzaiku16{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku16.jpg) top center no-repeat;z-index:2;}
+.niuzaiku17{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku17.jpg) top center no-repeat;z-index:2;}
+.niuzaiku18{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku18.jpg) top center no-repeat;z-index:2;}
+.niuzaiku19{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku19.jpg) top center no-repeat;z-index:2;}
+.niuzaiku20{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku20.jpg) top center no-repeat;z-index:2;}
+.niuzaiku21{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku21.jpg) top center no-repeat;z-index:2;}
+.niuzaiku22{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku22.jpg) top center no-repeat;z-index:2;}
+.niuzaiku23{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku23.jpg) top center no-repeat;z-index:2;}
+.niuzaiku24{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku24.jpg) top center no-repeat;z-index:2;}
+.niuzaiku25{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku25.jpg) top center no-repeat;z-index:2;}
+.niuzaiku26{height:188px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku26.jpg) top center no-repeat;z-index:2;}
+.niuzaiku34{height:278px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku34.jpg) top center no-repeat;z-index:2;}
+.niuzaiku35{height:320px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku35.jpg) top center no-repeat;z-index:2;}
+.niuzaiku36{height:100px;background:url(http://att.bitgaiwang.com/zt/jeans/niuzaiku36.jpg) top center no-repeat;z-index:2;}
+
+.niuzaiku6 a{width:236px;height:451px;top:52px;}
+.niuzaiku6 .a1{left:99px;}
+.niuzaiku6 .a2{left:354px;}
+.niuzaiku6 .a3{left:609px;}
+.niuzaiku6 .a4{left:864px;}
+.niuzaiku8 a{width:160px;height:450px;top:148px;}
+.niuzaiku8 .a1{left:100px;}
+.niuzaiku8 .a2{left:267px;}
+.niuzaiku8 .a3{left:434px;}
+.niuzaiku8 .a4{left:606px;}
+.niuzaiku8 .a5{left:773px;}
+.niuzaiku8 .a6{left:940px;}
+.niuzaiku11 a{width:313px;height:440px;top:50px;}
+.niuzaiku11 .a1{left:100px;}
+.niuzaiku11 .a2{left:444px;}
+.niuzaiku11 .a3{left:787px;}
+.niuzaiku14 a{width:313px;height:440px;top:-37px;}
+.niuzaiku14 .a1{left:100px;}
+.niuzaiku14 .a2{left:444px;}
+.niuzaiku14 .a3{left:787px;}
+.niuzaiku16 a{width:313px;height:440px;top:-177px;}
+.niuzaiku16 .a1{left:100px;}
+.niuzaiku16 .a2{left:444px;}
+.niuzaiku16 .a3{left:787px;}
+.niuzaiku18 a{width:313px;height:440px;top:61px;}
+.niuzaiku18 .a1{left:100px;}
+.niuzaiku18 .a2{left:444px;}
+.niuzaiku18 .a3{left:787px;}
+.niuzaiku20 a{width:313px;height:440px;top:-79px;}
+.niuzaiku20 .a1{left:100px;}
+.niuzaiku20 .a2{left:444px;}
+.niuzaiku20 .a3{left:787px;}
+.niuzaiku22 a{width:313px;height:440px;top:-219px;}
+.niuzaiku22 .a1{left:100px;}
+.niuzaiku22 .a2{left:444px;}
+.niuzaiku22 .a3{left:787px;}
+.niuzaiku24 a{top:31px;}
+.niuzaiku24 .a1{width:281px;height:711px;left:100px;}
+.niuzaiku24 .a2{width:190px;height:345px;left:401px;}
+.niuzaiku24 .a3{width:190px;height:345px;left:611px;}
+.niuzaiku24 .a4{width:282px;height:711px;left:820px;}
+.niuzaiku25 a{top:76px;}
+.niuzaiku25 .a1{width:190px;height:345px;left:401px;}
+.niuzaiku25 .a2{width:190px;height:345px;left:611px;}
+
+.niuzaiku37 {margin: 0 auto;position: relative;width: 1100px;}
+
+.BBackTOP{position:absolute;left:1045px;width:207px;height:420px;padding-top:80px;background: url(http://att.bitgaiwang.com/zt/jeans/BBackTOP.png) top center no-repeat;}
+.BBackTOP a{display:block;width:100%;height:42px;margin-bottom:5px;}
+
+/*盖粉年会特刊*/
+.pCon{ width:968px; margin:0 auto; position:relative;}
+.pCon a{ position:absolute;display:block;}
+.gatefun01{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun01.jpg) top center no-repeat;}
+.gatefun02{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun02.jpg) top center no-repeat;}
+.gatefun03{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun03.jpg) top center no-repeat;}
+.gatefun04{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun04.jpg) top center no-repeat;}
+.gatefun05{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun05.jpg) top center no-repeat;}
+.gatefun06{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun06.jpg) top center no-repeat;}
+.gatefun07{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun07.jpg) top center no-repeat;}
+.gatefun08{height:301px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun08.jpg) top center no-repeat;}
+.gatefun09{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun09.jpg) top center no-repeat;}
+.gatefun10{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun10.jpg) top center no-repeat;}
+.gatefun11{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun11.jpg) top center no-repeat;}
+.gatefun12{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun12.jpg) top center no-repeat;}
+.gatefun13{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun13.jpg) top center no-repeat;}
+.gatefun14{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun14.jpg) top center no-repeat;}
+.gatefun15{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun15.jpg) top center no-repeat;}
+.gatefun16{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun16.jpg) top center no-repeat;}
+.gatefun17{height:300px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun17.jpg) top center no-repeat;}
+.gatefun18{height:550px; background:url(http://att.bitgaiwang.com/zt/gemallfun/gatefun18.jpg) top center no-repeat;}
+
+
+.gatefun04 .pCon a{ width:190px; height:46px; top:274px;}
+.gatefun04 .pCon .a1{left:-8px; }
+.gatefun04 .pCon .a2{left:202px; width:210px;}
+
+.gatefun08 .pCon a{ width:190px; height:46px; top:134px;}
+.gatefun08 .pCon .a1{left:584px; }
+.gatefun08 .pCon .a2{left:794px; width:210px;}
+
+.gatefun12 .pCon a{ width:190px; height:46px; top:64px;}
+.gatefun12 .pCon .a1{left:281px; }
+.gatefun12 .pCon .a2{left:491px; width:210px;}
+
+.gatefun13 .pCon a{ width:190px; height:46px; top:270px;}
+.gatefun13 .pCon .a1{left:566px; }
+.gatefun13 .pCon .a2{left:776px; width:210px;}
+
+.gatefun16 .pCon a{ width:190px; height:46px; top:119px;}
+.gatefun16 .pCon .a1{left:-66px; }
+.gatefun16 .pCon .a2{left:144px; width:210px;}
+/*连衣裙专题*/
+.lianyiqun1{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun1.jpg) top center no-repeat;}
+.lianyiqun2{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun2.jpg) top center no-repeat;}
+.lianyiqun3{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun3.jpg) top center no-repeat;}
+.lianyiqun4{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun4.jpg) top center no-repeat;}
+.lianyiqun5{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun5.jpg) top center no-repeat;}
+.lianyiqun6{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun6.jpg) top center no-repeat;}
+.lianyiqun7{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun7.jpg) top center no-repeat;}
+.lianyiqun8{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun8.jpg) top center no-repeat;}
+.lianyiqun9{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun9.jpg) top center no-repeat;}
+.lianyiqun10{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun10.jpg) top center no-repeat;}
+.lianyiqun11{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun11.jpg) top center no-repeat;}
+.lianyiqun12{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun12.jpg) top center no-repeat;}
+.lianyiqun13{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun13.jpg) top center no-repeat;}
+.lianyiqun14{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun14.jpg) top center no-repeat;}
+.lianyiqun15{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun15.jpg) top center no-repeat;}
+.lianyiqun16{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun16.jpg) top center no-repeat;}
+.lianyiqun17{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun17.jpg) top center no-repeat;}
+.lianyiqun18{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun18.jpg) top center no-repeat;}
+.lianyiqun19{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun19.jpg) top center no-repeat;}
+.lianyiqun20{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun20.jpg) top center no-repeat;}
+.lianyiqun21{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun21.jpg) top center no-repeat;}
+.lianyiqun22{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun22.jpg) top center no-repeat;}
+.lianyiqun23{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun23.jpg) top center no-repeat;}
+.lianyiqun24{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun24.jpg) top center no-repeat;}
+.lianyiqun25{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun25.jpg) top center no-repeat;}
+.lianyiqun26{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun26.jpg) top center no-repeat;}
+.lianyiqun27{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun27.jpg) top center no-repeat;}
+.lianyiqun28{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun28.jpg) top center no-repeat;}
+.lianyiqun29{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun29.jpg) top center no-repeat;}
+.lianyiqun30{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun30.jpg) top center no-repeat;}
+.lianyiqun31{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun31.jpg) top center no-repeat;}
+.lianyiqun32{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun32.jpg) top center no-repeat;}
+.lianyiqun33{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun33.jpg) top center no-repeat;}
+.lianyiqun34{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun34.jpg) top center no-repeat;}
+.lianyiqun35{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun35.jpg) top center no-repeat;}
+.lianyiqun36{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun36.jpg) top center no-repeat;}
+.lianyiqun37{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun37.jpg) top center no-repeat;}
+.lianyiqun38{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun38.jpg) top center no-repeat;}
+.lianyiqun39{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun39.jpg) top center no-repeat;}
+.lianyiqun40{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun40.jpg) top center no-repeat;}
+.lianyiqun41{height:300px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun41.jpg) top center no-repeat;}
+.lianyiqun42{height:228px;background:url(http://att.bitgaiwang.com/zt/dress/lianyiqun42.jpg) top center no-repeat;}
+
+.lianyiqun4 a{width:193px;height:377px;}
+.lianyiqun4 .a1{left:220px;top:-81px;}
+.lianyiqun4 .a2{left:413px;top:-83px;}
+.lianyiqun4 .a3{left:606px;top:-113px;}
+.lianyiqun4 .a4{left:800px;top:-80px;}
+.lianyiqun6 a{width:1100px;height:306px;top:-86px;}
+.lianyiqun7 a{top:-55px;}
+.lianyiqun7 .a1{width:582px;height:805px;left:51px;}
+.lianyiqun7 .a2{width:247px;height:419px;left:637px;}
+.lianyiqun7 .a3{width:260px;height:419px;left:890px;}
+.lianyiqun8 a{top:71px;}
+.lianyiqun8 .a1{width:247px;height:360px;left:637px;}
+.lianyiqun8 .a2{width:260px;height:360px;left:890px;}
+.lianyiqun10 a{width:370px;height:684px;top:-113px;}
+.lianyiqun10 .a1{left:50px;}
+.lianyiqun10 .a2{left:425px;width:338px;height:540px;}
+.lianyiqun10 .a3{width:380px;left:770px;}
+.lianyiqun12 a{top:7px;}
+.lianyiqun12 .a1{width:261px;height:420px;left:50px;}
+.lianyiqun12 .a2{width:248px;height:420px;left:315px;}
+.lianyiqun12 .a3{width:582px;height:805px;left:568px;}
+.lianyiqun13 a{top:132px;}
+.lianyiqun13 .a1{width:261px;height:380px;left:50px;}
+.lianyiqun13 .a2{width:248px;height:380px;left:315px;}
+.lianyiqun15 a{width:1100px;height:306px;top:147px;}
+.lianyiqun17 a{width:278px;height:500px;top:-99px;}
+.lianyiqun17 .a1{left:50px;width:276px;}
+.lianyiqun17 .a2{left:326px;width:274px;height:535px;}
+.lianyiqun17 .a3{width:322px;height:550px;left:600px;}
+.lianyiqun17 .a4{left:922px;width:227px;height:535px;}
+.lianyiqun19 .a1{left:49px;width:244px;height:623px;top:-123px;}
+.lianyiqun19 .a2{left:293px;width:328px;height:641px;top:-123px;}
+.lianyiqun19 .a3{width:280px;height:623px;left:621px;top:-123px;}
+.lianyiqun19 .a4{left:902px;width:248px;height:571px;top:-40px;}
+.lianyiqun22 .a1{width:225px;height:548px;left:49px;top:-260px;}
+.lianyiqun22 .a2{width:232px;height:519px;left:274px;top:-288px;}
+.lianyiqun22 .a3{width:220px;height:487px;left:506px;top:-241px;}
+.lianyiqun22 .a4{width:196px;height:504px;left:727px;top:-284px;}
+.lianyiqun22 .a5{width:228px;height:542px;left:923px;top:-284px;}
+.lianyiqun24 a{width:1100px;height:306px;top:-33px;}
+.lianyiqun25 a{top:2px;}
+.lianyiqun25 .a1{width:582px;height:805px;left:49px;}
+.lianyiqun25 .a2{width:247px;height:417px;left:636px;}
+.lianyiqun25 .a3{width:260px;height:417px;left:889px;}
+.lianyiqun27 a{top:-173px;}
+.lianyiqun27 .a1{width:247px;height:380px;left:636px;}
+.lianyiqun27 .a2{width:260px;height:380px;left:889px;}
+.lianyiqun28 a{top:-57px;}
+.lianyiqun28 .a1{width:370px;height:803px;left:49px;}
+.lianyiqun28 .a2{width:337px;height:511px;left:425px;}
+.lianyiqun28 .a3{width:380px;height:870px;left:769px;}
+.lianyiqun29 a{width:337px;height:511px;left:425px;top:166px;}
+.lianyiqun31 a{top:138px;}
+.lianyiqun31 .a1{width:261px;height:420px;left:49px;}
+.lianyiqun31 .a2{width:247px;height:420px;left:315px;}
+.lianyiqun31 .a3{width:582px;height:805px;left:568px;}
+.lianyiqun33 .a1{width:261px;height:380px;left:49px;top:-37px;}
+.lianyiqun33 .a2{width:247px;height:380px;left:315px;top:-37px;}
+.lianyiqun35 a{width:1100px;height:306px;top:-15px;}
+.lianyiqun37 .a1{width:288px;height:570px;top:-239px;left:49px;}
+.lianyiqun37 .a2{width:258px;height:568px;top:-228px;left:337px;}
+.lianyiqun37 .a3{width:278px;height:574px;top:-198px;left:595px;}
+.lianyiqun37 .a4{width:277px;height:606px;top:-228px;left:873px;}
+.lianyiqun39 .a1{width:211px;height:471px;top:-111px;left:50px;}
+.lianyiqun39 .a2{width:244px;height:471px;top:-113px;left:261px;}
+.lianyiqun39 .a3{width:201px;height:540px;top:-123px;left:505px;}
+.lianyiqun39 .a4{width:221px;height:500px;top:-115px;left:706px;}
+.lianyiqun39 .a5{width:222px;height:520px;top:-121px;left:927px;}
+.lianyiqun41 a{width:193px;height:374px;top:81px;}
+.lianyiqun41 .a1{left:118px;}
+.lianyiqun41 .a2{left:311px;}
+.lianyiqun41 .a3{left:504px;}
+.lianyiqun41 .a4{left:697px;}
+.lianyiqun41 .a5{left:890px;}
+/*红包秒杀活动*/
+.seckillRed01{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed01.jpg) top center no-repeat;}
+.seckillRed02{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed02.jpg) top center no-repeat;}
+.seckillRed03{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed03.jpg) top center no-repeat;}
+.seckillRed04{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed04.jpg) top center no-repeat;}
+.seckillRed05{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed05.jpg) top center no-repeat;}
+.seckillRed06{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed06.jpg) top center no-repeat;}
+.seckillRed07{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed07.jpg) top center no-repeat;}
+.seckillRed08{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed08.jpg) top center no-repeat;}
+.seckillRed09{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed09.jpg) top center no-repeat;}
+.seckillRed10{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed10.jpg) top center no-repeat;}
+.seckillRed11{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed11.jpg) top center no-repeat;}
+.seckillRed12{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed12.jpg) top center no-repeat;}
+.seckillRed13{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed13.jpg) top center no-repeat;}
+.seckillRed14{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed14.jpg) top center no-repeat;}
+.seckillRed15{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed15.jpg) top center no-repeat;}
+.seckillRed16{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed16.jpg) top center no-repeat;}
+.seckillRed17{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed17.jpg) top center no-repeat;}
+.seckillRed18{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed18.jpg) top center no-repeat;}
+.seckillRed19{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed19.jpg) top center no-repeat;}
+.seckillRed20{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed20.jpg) top center no-repeat;}
+.seckillRed21{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed21.jpg) top center no-repeat;}
+.seckillRed22{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed22.jpg) top center no-repeat;}
+.seckillRed23{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed23.jpg) top center no-repeat;}
+.seckillRed24{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed24.jpg) top center no-repeat;}
+.seckillRed25{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed25.jpg) top center no-repeat;}
+.seckillRed26{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed26.jpg) top center no-repeat;}
+.seckillRed27{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed27.jpg) top center no-repeat;}
+.seckillRed28{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed28.jpg) top center no-repeat;}
+.seckillRed29{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed29.jpg) top center no-repeat;}
+.seckillRed30{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed30.jpg) top center no-repeat;}
+.seckillRed31{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed31.jpg) top center no-repeat;}
+.seckillRed32{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed32.jpg) top center no-repeat;}
+.seckillRed33{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed33.jpg) top center no-repeat;}
+.seckillRed34{height:300px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed34.jpg) top center no-repeat;}
+.seckillRed35{height:231px; background:url(http://att.bitgaiwang.com/zt/seckillRed/seckillRed35.jpg) top center no-repeat;}
+
+.seckillRed06 .pCon a{ width:245px; height:330px; top:-140px;}
+.seckillRed06 .pCon .a1{left:3px; }
+.seckillRed06 .pCon .a2{left:286px; }
+.seckillRed06 .pCon .a3{right:285px; }
+.seckillRed06 .pCon .a4{right:0;}
+
+.seckillRed07 .pCon a{ width:245px; height:330px; top:-62px;}
+.seckillRed07 .pCon .a1{left:3px; }
+.seckillRed07 .pCon .a2{left:286px; }
+.seckillRed07 .pCon .a3{right:285px; }
+.seckillRed07 .pCon .a4{right:0;}
+
+.seckillRed08 .pCon a{ width:245px; height:333px; top:23px;}
+.seckillRed08 .pCon .a1{left:3px; }
+.seckillRed08 .pCon .a2{left:286px; }
+.seckillRed08 .pCon .a3{right:285px; }
+.seckillRed08 .pCon .a4{right:0;}
+
+.seckillRed11 .pCon a{ width:271px; height:555px; top:-136px;}
+.seckillRed11 .pCon .a1{left:0; }
+.seckillRed11 .pCon .a2{left:276px; }
+.seckillRed11 .pCon .a3{right:276px; }
+.seckillRed11 .pCon .a4{right:0; }
+
+.seckillRed13 .pCon a{ width:271px; height:555px; top:-38px;}
+.seckillRed13 .pCon .a1{left:0; }
+.seckillRed13 .pCon .a2{left:276px; }
+.seckillRed13 .pCon .a3{right:276px; }
+.seckillRed13 .pCon .a4{right:0; }
+
+.seckillRed15 .pCon a{ width:271px; height:555px; top:61px;}
+.seckillRed15 .pCon .a1{left:0; }
+.seckillRed15 .pCon .a2{left:276px; }
+.seckillRed15 .pCon .a3{right:276px; }
+.seckillRed15 .pCon .a4{right:0; }
+
+.seckillRed18 .pCon a{ width:271px; height:555px; top:-138px;}
+.seckillRed18 .pCon .a1{left:0; }
+.seckillRed18 .pCon .a2{left:276px; }
+.seckillRed18 .pCon .a3{right:276px; }
+.seckillRed18 .pCon .a4{right:0; }
+
+.seckillRed20 .pCon a{ width:271px; height:555px; top:-34px;}
+.seckillRed20 .pCon .a1{left:0; }
+.seckillRed20 .pCon .a2{left:276px; }
+.seckillRed20 .pCon .a3{right:276px; }
+.seckillRed20 .pCon .a4{right:0; }
+
+.seckillRed23 .pCon a{ width:271px; height:555px; top:-235px;}
+.seckillRed23 .pCon .a1{left:0; }
+.seckillRed23 .pCon .a2{left:276px; }
+.seckillRed23 .pCon .a3{right:276px; }
+.seckillRed23 .pCon .a4{right:0; }
+
+.seckillRed25 .pCon a{ width:271px; height:555px; top:-134px;}
+.seckillRed25 .pCon .a1{left:0; }
+.seckillRed25 .pCon .a2{left:276px; }
+.seckillRed25 .pCon .a3{right:276px; }
+.seckillRed25 .pCon .a4{right:0; }
+
+.seckillRed27 .pCon a{ width:271px; height:555px; top:-38px;}
+.seckillRed27 .pCon .a1{left:0; }
+.seckillRed27 .pCon .a2{left:276px; }
+.seckillRed27 .pCon .a3{right:276px; }
+.seckillRed27 .pCon .a4{right:0; }
+
+.seckillRed30 .pCon a{ width:271px; height:555px; top:-244px;}
+.seckillRed30 .pCon .a1{left:0; }
+.seckillRed30 .pCon .a2{left:276px; }
+.seckillRed30 .pCon .a3{right:276px; }
+.seckillRed30 .pCon .a4{right:0; }
+
+.seckillRed32 .pCon a{ width:271px; height:555px; top:-150px;}
+.seckillRed32 .pCon .a1{left:0; }
+.seckillRed32 .pCon .a2{left:276px; }
+.seckillRed32 .pCon .a3{right:276px; }
+.seckillRed32 .pCon .a4{right:0; }
+
+/*你好色彩家居*/
+.haosejiaju1{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju1.jpg) top center no-repeat;}
+.haosejiaju2{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju2.jpg) top center no-repeat;}
+.haosejiaju3{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju3.jpg) top center no-repeat;}
+.haosejiaju4{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju4.jpg) top center no-repeat;}
+.haosejiaju5{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju5.jpg) top center no-repeat;}
+.haosejiaju6{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju6.jpg) top center no-repeat;}
+.haosejiaju7{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju7.jpg) top center no-repeat;}
+.haosejiaju8{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju8.jpg) top center no-repeat;}
+.haosejiaju9{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju9.jpg) top center no-repeat;}
+.haosejiaju10{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju10.jpg) top center no-repeat;}
+.haosejiaju11{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju11.jpg) top center no-repeat;}
+.haosejiaju12{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju12.jpg) top center no-repeat;}
+.haosejiaju13{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju13.jpg) top center no-repeat;}
+.haosejiaju14{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju14.jpg) top center no-repeat;}
+.haosejiaju15{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju15.jpg) top center no-repeat;}
+.haosejiaju16{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju16.jpg) top center no-repeat;}
+.haosejiaju17{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju17.jpg) top center no-repeat;}
+.haosejiaju18{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju18.jpg) top center no-repeat;}
+.haosejiaju19{height:300px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju19.jpg) top center no-repeat;}
+.haosejiaju20{height:100px;background:url(http://att.bitgaiwang.com/zt/homeFurnishing/haosejiaju20.jpg) top center no-repeat;}
+
+.haosejiaju2 a{width:270px;height:320px;top:153px;}
+.haosejiaju2 .a1{left:38px;}
+.haosejiaju2 .a2{left:325px;}
+.haosejiaju2 .a3{left:620px;}
+.haosejiaju4 a{width:270px;height:320px;top:-118px;}
+.haosejiaju4 .a1{left:57px;}
+.haosejiaju4 .a2{width:340px;left:358px;}
+.haosejiaju4 .a3{width:320px;left:770px;}
+.haosejiaju5 a{width:270px;height:405px;top:-48px;}
+.haosejiaju5 .a1{left:285px;}
+.haosejiaju5 .a2{left:570px;}
+.haosejiaju5 .a3{left:853px;}
+.haosejiaju6 a{width:280px;height:300px;top:84px;}
+.haosejiaju6 .a1{left:118px;}
+.haosejiaju6 .a2{width:304px;left:452px;}
+.haosejiaju6 .a3{left:826px;}
+.haosejiaju7 a{width:280px;height:360px;top:114px;}
+.haosejiaju7 .a1{width:340px;left:125px;}
+.haosejiaju7 .a2{left:490px;}
+.haosejiaju9 a{width:340px;height:340px;top:-115px;}
+.haosejiaju9 .a1{width:310px;left:130px;}
+.haosejiaju9 .a2{left:453px;}
+.haosejiaju9 .a3{left:810px;}
+.haosejiaju10 a{width:340px;height:340px;top:-45px;}
+.haosejiaju10 .a1{left:444px;}
+.haosejiaju10 .a2{left:800px;}
+.haosejiaju11 a{width:315px;height:410px;}
+.haosejiaju11 .a1{left:124px;top:-65px;}
+.haosejiaju11 .a2{left:508px;top:18px;}
+.haosejiaju12 .a1{width:335px;height:300px;left:110px;top:58px;}
+.haosejiaju12 .a2{width:280px;height:400px;left:835px;top:-130px;}
+.haosejiaju13 a{width:325px;}
+.haosejiaju13 .a1{left:118px;height:320px;top:125px;}
+.haosejiaju13 .a2{height:380px;left:450px;top:60px;}
+.haosejiaju14 a{width:325px;height:350px;top:150px;}
+.haosejiaju14 .a1{left:100px;}
+.haosejiaju14 .a2{left:427px;}
+.haosejiaju14 .a3{height:380px;left:800px;top:40px;}
+.haosejiaju15 a{width:325px;height:380px;left:800px;top:130px;}
+.haosejiaju17 a{;top:-115px;}
+.haosejiaju17 .a1{width:280px;height:380px;left:80px;}
+.haosejiaju17 .a2{width:350px;height:380px;left:380px;}
+.haosejiaju17 .a3{width:350px;height:360px;left:758px;top:-74px;}
+.haosejiaju18 a{width:350px;height:288px;top:14px;}
+.haosejiaju18 .a1{height:315px;top:-13px;left:106px;}
+.haosejiaju18 .a2{width:305px;height:315px;top:-13px;left:500px;}
+.haosejiaju18 .a3{width:340px;left:807px;}
+.haosejiaju19 a{width:280px;height:375px;top:10px;}
+.haosejiaju19 .a1{left:122px;}
+.haosejiaju19 .a2{left:513px;}
+.haosejiaju19 .a3{left:838px;}

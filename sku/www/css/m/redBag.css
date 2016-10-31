@@ -1,0 +1,138 @@
+/*redBag body Background*/
+body{background: url("../../images/m/bg/redBagBg.jpg") #1a1a1a;color:#fff;}
+.redbg{background:#ba2219;}
+.yellow{color:#ffcc02;}
+.brown{color:#4d3300;}
+.blue{color:#00b0ff}
+.white{color:#fff}
+.txtC{text-align:center;}
+.lh3{line-height:3;}
+.lh2{line-height:2;}
+/*redBag Banner layout*/
+.redBagBanner .item{overflow:hidden;height:183px;}
+.redBagBanner02 .item{overflow:hidden;height:207px;}
+.redBagBanner .item img,.redBagBanner02 .item img{width:100%;}
+.redBagCon{width:100%;text-align:center;}
+.redBagCon h1{height:30px;line-height:2.5;}
+.line{display:inline-block;width:26%;height:3px;}
+.line.red{background:#fa3737;}
+.redBagNum{width:87.5%;margin:20px auto;overflow:hidden;text-align:center;}
+.redBagNum .numItems{display:inline-block;}
+.redBagNum .item{display:inline-block;float:left;width:35px;height:48px;margin:0 5px;color:#fff;font-size:140%;line-height:2.5;background:url(../../images/m/bg/ico_redBag.png) top center no-repeat;background-size:100%;overflow:hidden;}
+.redBagNum .item.on{color:#ffcc02;}
+.redBagTit{width:100%;}
+.redBagTit.Tit01{background:url(../../images/m/bg/redBag_TxtBg01.png) top center no-repeat;background-size:100%;}
+.redBagTit.Tit02{background:url(../../images/m/bg/redBag_TxtBg02.png) top center no-repeat;background-size:100%;}
+.redBagTit.Tit03{background:url(../../images/m/bg/redBag_TxtBg03.png) top center no-repeat;background-size:100%;}
+.redBagTit.Tit04{background:url(../../images/m/bg/redBag_TxtBg04.png) top center no-repeat;background-size:100%;}
+/*Active list*/
+.activeList li{float:left;width:46.875%;margin:0 1.5625%;-webkit-box-sizing:border-box;border-radius:5px;-webkit-border-radius:5px;overflow:hidden;}
+.activeList li a{display:block;position:relative;width:100%;height:100%;text-align:center;background:transparent;}
+.activeList li a img{width:100%;border-radius:5px 5px 0 0;}
+.activeList li .actName{width:100%;height:40px;font-size:120%;line-height:2.4;color:#db3032;background:#fff;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+.activeList li:first-child .actName{color:#00b0ff}
+.activeList li .actIco{display:block;position:absolute;z-index:5;left:40%;bottom:30px;width:52px;height:46px;background:url(../../images/m/bg/ico_redBaglist.png) top center no-repeat;background-size:100%;overflow:hidden;}
+.activeList li:nth-child(2) .actIco{background-position:0 -46px;}
+.activeList li:nth-child(3) .actIco{background-position:0 -92px;}
+.activeList li:last-child{width:96.875%;margin:20px 1.5625%;border-radius:0 5px 5px 0;}
+.activeList li:last-child img{float:left;width:69.365%;height:auto;border-radius:5px 0 0 5px;}
+.activeList li:last-child .actName{width:30.635%;line-height:1;}
+.activeList li:last-child .actName .h1{display:inline-block;font-size:160%;margin-top:32%;overflow:hidden;}
+.activeList li:last-child .actIco{left:63%;bottom:30%;z-index:6;}
+
+/*btn*/
+.btnDiv{width:75%;margin:0 auto;}
+.btnDiv02{width:85%;margin:0 auto;}
+.btnDiv .btnShare{display:inline-block;width:91.25%;padding-left:8.75%;background:url(../../images/m/bg/btn_shareLink.png)left bottom no-repeat;}
+.btnDiv .btnShare .btn{display:inline-block;width:90%;padding-right:12%;background:url(../../images/m/bg/btn_shareLink.png)bottom right no-repeat;}
+.btnDiv .btnShare .btn .btncon{display:inline-block;width:100%;height:50px;font-size:160%;line-height:2;text-align:center;background:url(../../images/m/bg/btn_shareLink_bg.png) left bottom repeat-x;}
+.btnYellow{display:inline-block;width:100%;height:30px;font-size:110%;line-height:1.95;background:url(../../images/m/bg/btn_yellow.png) left bottom repeat-x;border-radius:5px;}
+.btnYellow02{display:inline-block;width:100%;height:50px;font-size:120%;line-height:2.95;text-align:center;background:url(../../images/m/bg/btn_shareLink_bg.png) left bottom repeat-x;border-radius:5px;-moz-box-shadow:2px 3px 5px #2a2a2a;-webkit-box-shadow:2px 3px 5px #2a2a2a; box-shadow:2px 3px 5px #2a2a2a;}
+.ico_redbag{display:inline-block;width:21px;height:24px;background:url(../../images/m/bg/ico_singleRedBag.png) bottom left no-repeat;background-size:100%}
+.btnDiv02 .ico_redbag{width:30px;height:30px;margin-bottom:-5px;background:url(../../images/m/bg/ico_redBag02.png) center left no-repeat;background-size:100%}
+/*couponsList layout*/
+.couponTit{position:relative;width:96.875%;height:40px;margin:0 auto;text-align:center;}
+.couponTit .titCon{position:relative;z-index:3;width:100px;margin:0 auto;background:url("../../images/m/bg/redBagBg.jpg") #1a1a1a;}
+.couponTit .bigTit{font-size:140%;margin:0 3px}
+.couponTit .yelline{display:inline-block;position:absolute;left:0;top:17px;z-index:2;width:100%;height:3px;background:#ffcc02}
+.couponsList li{position:relative;width:96.875%;height:auto;margin:10px 1.5625%;margin-bottom:20px;-moz-box-shadow:0px 3px 5px #000;-webkit-box-shadow:0px 3px 5px #000; box-shadow:0px 3px 5px #000;overflow:hidden;}
+.couponsList li img{}
+.couponsList li .btn{position:absolute;right:10%;bottom:10%;width:25%;}
+.couponsList li .imgIntro{position:absolute;right:0;top:0;width:46.935%;color:#8c1818;height:100%;font-size:110%;line-height:1;text-align:center;float:right;background:url(../../images/m/bg/bg_coupons.png)right bottom no-repeat;background-size:100%}
+.couponsList li .imgIntro p{margin-top:5px;}
+.couponsList li .imgIntro .white02{color:#f2f3a3;font-size:140%;}
+
+.mallClass02 li{float:left;width:49.5%;height:100%;border-bottom:1px solid #eee;border-right:1px solid #eee;}
+.mallClass02 li  img{width:100%;vertical-align:middle;}
+.mallClass02 li:nth-child(even){float:right;width:50%;border-right:none;}
+
+/*redbagRegister */
+.registerStep,.shareStep{width:93.75%;margin:0 auto;text-align:left;}
+.registerStep .bigTit{font-size:140%;}
+.registerStep .btnDiv{position:relative;}
+.registerStep .btnDiv .ico_vip{display:inline-block;position:absolute;z-index:5;bottom:40px;right:45%;width:28px;height:22px;font-size:0;line-height:3;background:url(../../images/m/bg/ico_vip.png)center no-repeat;background-size:100%;overflow:hidden;}
+.txtCon .ico_redbag{margin-bottom:-5px;}
+.pptList{width:85%;margin:0 auto;}
+.pptList li{width:100%;height:50px;margin-bottom:10px;}
+.pptList li dl dt{float:left;width:64%;height:40px;line-height:1.7;border-radius:40px;background:red;}
+.pptList li dl dt .bigTit{margin:0 8px;font-style:italic;}
+.pptList li dl dd{float:left;width:36%;height:40px;margin-top:10px;background:url(../../images/m/bg/ico_arrow_right.png) left bottom no-repeat;}
+.pptList li:nth-child(1) dl dt{background:white;color:#ffcc02;}
+.pptList li:nth-child(2) dl dt{background:#fc7f05;}
+.pptList li:nth-child(3) dl dt{background:#e02e25;}
+.pptList li:nth-child(4) dl dt{background:#00b0ff;}
+.pptList li:nth-child(even) dl dd{float:right;width:36%;height:40px;background:url(../../images/m/bg/ico_arrow_left.png) right bottom no-repeat;}
+.pptList li:nth-child(even) dl dt{float:right;}
+
+/*share layout*/
+.shareStep .step{margin-top:20px;}
+.shareStep .step p{line-height:3;}
+.shareStep .step .bigTit{font-size:160%;}
+.shareStep .step .imgItem{width:100%;height:154px;background:#f6f6f6;border-radius:10px;margin:10px 0;overflow:hidden;}
+.shareStep .step .imgItem img{width:100%;}
+
+/*Dialog layout*/
+.dialogTable{width:93.75%;margin:0 3.125%;height:180px;text-align:center;overflow:hidden;background:#ffb502;border-radius:10px;}
+.dialogTable .dialogTh{margin-top:10px;}
+.dialogTable .bigTit{font-size:160%;color:#4d3300;}
+.dialogTable .dialogBody{color:#4d3300;line-height:1.8;height:80px;}
+.dialogTable .dialogBtn{width:53%;height:40px;margin:5px auto;}
+.dialogTable .dialogBtn .btn{display:inline-block;width:100%;height:40px;color:#fff;line-height:2.85;background:url(../../images/m/bg/btn_pink.png) center left repeat-x;border-radius:5px;}
+
+/*Receive redBag*/
+.redBagLogin{width:70%;margin:10px auto;}
+.redBagLogin .divInput{margin-bottom:10px;}
+.redBagLogin .divInput .inputTxt{border:none;width:100%;height:45px;border:1px solid #fff;line-height:3;border-radius:4px;padding-left:5px;}
+.redBagLogin .divInput .inputTxt:focus{border:1px solid #c90000;}
+.redBagLogin .codeCon{position:relative;}
+.redBagLogin .codeCon .sendCode{position:absolute;right:0;top:7px;z-index:2;padding:0 5px;height:30px;line-height:2;border:1px solid #dbdbdb;border-radius:3px;background:#f3f3f3;color:#f23f36;}
+.msgTip{width:96%;margin:10px auto;line-height:2}
+.redBagLogin .errorMessage{margin-top:0;padding:0;text-align:left;display:none;}
+.redBagLogin .codeCon .LFBut2{position:absolute;right:0;top:7px;z-index:2;border:none;background: url("../../images/m/bg/m_but2.png") no-repeat; background-size:100%; width:60px;height:31px;}
+.redBagLogin .btnDiv{width:100%;margin:0 auto;}
+.redBagLogin .btnDiv .btnReceive{border:none;background: url("../../images/m/bg/btn_receiveredbag.jpg") no-repeat; background-size:100%; width:230px;height:38px;}
+.shareTips{width:100%;}
+.shareTips .imgItem{width:100%;overflow:hidden;}
+.shareTips .imgTit{line-height:2.5}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

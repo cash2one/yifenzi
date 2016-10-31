@@ -1,0 +1,26 @@
+<?php 
+ //语言包文件 
+return array (
+  '请选择上传图片' => 'Please select picture to upload',
+  '请输入相关链接,以http://的形式' => 'Please input related link in the form of http://',
+  '请输入商品id' => 'Please input ID of goods',
+  '请输入商品分类id' => 'Please input ID of goods type',
+  '主键' => 'Primary key',
+  '名称' => 'Name',
+  '所属广告' => 'Ads',
+  '开始时间' => 'Start time',
+  '结束时间' => 'End time',
+  '排序' => 'Rank',
+  '状态' => 'Status',
+  '目标类型' => 'Target type',
+  '目标' => 'Target',
+  '小组' => 'Group',
+  '位置' => 'Location',
+  '文字内容' => 'Text content',
+  '图片' => 'Picture',
+  '启用' => 'Enable',
+  '禁用' => 'Disable',
+  '网址' => 'URL',
+  '商品' => 'Goods',
+  '商品分类' => 'Goods type',
+);

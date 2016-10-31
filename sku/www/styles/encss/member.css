@@ -1,0 +1,154 @@
+/*=====
+@Date:2014-11-05
+@content:»áÔ±ÖÐÐÄ£¬×¢²á£¬µÇÂ¼
+=====*/
+/*all---²¼¾Ö*/
+.w1200{ width:1200px; margin:0 auto; overflow:hidden; }
+.browserSug{ width:1168px; margin:0 auto; border:1px solid #e5debc; background:#fff7d1; line-height:24px; padding-left:30px; background-position:12px -2212px;}
+
+.inputtxt{ border:1px solid #dcdcdc; border-radius:5px; height:18px; line-height:18px; padding:5px; width:230px;}
+.inputtxt:focus{ border-color:#c83353;}
+
+.m_icon_v{ background-image:url(../../images/bgs/m_icon_v.png); background-repeat: no-repeat;}
+
+.ta_c{ text-align:center;}
+.ta_l{ text-align:left;}
+.ta_r{ text-align:right;}
+ 
+ /*all---Í·²¿*/
+.header{ }
+.guideWrap{ background:#e8e8e8; height:28px; line-height:28px; border-bottom:1px solid #c8c8c8;}
+.guideWel{ width:1200px; margin:0 auto;}
+.guideWel .welcome{width:402px; overflow:hidden; height:28px;}
+.guideWel .welcome .welcomeGw{ display:inline-block; float:left;}
+.guideWel .welcome .lgName{ margin-left:5px;width:65px; text-align:center; overflow:hidden; display:inline-block;float:left;}
+.guide{ float:right; padding:7px 0; height:14px; line-height:14px; width:752px;}
+.guide li{ float:left; padding:0 10px 0 35px; border-left:1px solid #9b9b9b; position:relative; cursor:pointer;}
+.guide li.myCart{ border-left:0; height:24px; z-index:100;}
+.guide li.myCart em{ font-style:normal; color:#c83253; width:12px; height:14px; line-height:18px; text-align:center; overflow:hidden; display:inline-block;}
+.guide li.myCart i{ width:17px; height:17px; background-position:0 0; display:inline-block; position:absolute; top:0; left:11px; transition:transform 0.3s ease-in 0s;}
+.guide li.myCart:hover i{ transform:rotate(360deg);}
+.guide li.myaccount{ background-position:10px -28px;}
+.guide li.business{ padding:0 10px;}
+.guide li.collect{ background-position:10px -51px;}
+.guide li.language{ padding:0 10px;}
+.guide li.share{ padding:0 10px; border-left:0; top:-5px;display:none;}
+
+/*registerMember01---Í·²¿*/
+.regHeader{ border-bottom:5px solid #c83353; padding:20px 0;}
+.logo{ margin:0; width:215px; height:85px; overflow:hidden;}
+.regHeader h1{ float:left; margin-left:30px; line-height:85px; font-size:30px; }
+
+/*registerMember01---×¢²á*/
+.registerTopImg{ width:959px; margin:20px auto 0;}
+.register{ width:958px; margin:20px auto 0; }
+.register .title{ height:42px; font-family:"Î¢ÈíÑÅºÚ"; font-size:18px; padding-left:22px;}
+.register .title a{ display:block; float:left; padding:0 15px; border:2px solid #e6e6e6; line-height:38px; height:38px; overflow:hidden; position:relative; top:2px; z-index:9; background:#f3f3f3; color:#313131; margin-right:10px;}
+.register .title a.curr{ border-bottom:2px solid #fff; background:#fff; color:#c83353;}
+.register .content{ width:850px; border:2px solid #e6e6e6;  padding:0 50px;}
+.reg_t{ width:450px; margin:30px 10px 0 0;}
+.reg_t th{ text-align:right; padding:10px 3px; line-height:15px; font-weight:100; width:125px;}
+.reg_t td{ padding:10px 3px; line-height:30px; font-weight:100;}
+.reg_t td .error{ border-color:#c83353;}
+.reg_t td .verInputtxt{ width:145px;}
+.reg_t td .passInputtxt{ padding-right:30px; width:205px; }
+.reg_t td .passOn{ position:relative; background:url(../../images/bgs/m_icon_v.png) no-repeat 0 0; width:21px; height:13px; display:inline-block;left:-35px; top:3px;}
+.reg_t td.td_pass .errorMessage{ margin-left:-20px;}
+.reg_t td .passOff{ background-position:0 -38px; }
+.reg_t td .codeInputtxt{width:155px; }
+.reg_t td .changeCode img{width:70px; height:30px; vertical-align:bottom; border:1px solid #e5e5e5;}
+.reg_t td .regBtn{ background:#c83353; border-bottom:1px solid #cccccc; border-radius:4px; font-size:20px; color:#fff; padding:8px 10px; width:250px; cursor:pointer; margin-top:20px;}
+.reg_t td .agreement{ color:#005aa0;}
+.reg_t .btnMobCode{ border:1px solid #c1c1c1; border-radius:3px; background:#ebebeb; color:#313131; padding:0 5px; height:22px; line-height:22px; display:inline-block; vertical-align:middle;}
+
+.keyReg{ width:370px; margin:30px 0 0 0;  border:1px solid #e9e9e9; border-top:3px solid #54a40e; background:#fafafa;}
+.keyReg_t th{ text-align:right; padding:8px 5px; line-height:28px; font-weight:100; width:80px;}
+.keyReg_t th.regTit{ width:360px; text-align:center; color:#898989; font-size:18px; line-height:40px; font-family:"Î¢ÈíÑÅºÚ";}
+.keyReg_t td{ padding:8px 0; line-height:28px;}
+.keyReg_t td .error{ border-color:#c83353;}
+.keyReg_t td .inputtxt{ padding-top:3px; padding-bottom:3px; width:210px;}
+.keyReg_t td .codeInputtxt{ width:145px;}
+.keyReg_t td .changeCode img{width:70px; height:30px; vertical-align:middle; border:1px solid #e5e5e5;}
+.keyReg_t td .hr{ border-bottom:1px solid #e5e5e5; padding:20px 0; width:280px; margin:0 auto;}
+.keyReg_t td .regBtn{ background:#54a40e; border-bottom:1px solid #cccccc; border-radius:4px; font-size:20px; color:#fff; padding:8px 10px; width:250px; cursor:pointer; margin:20px 0;}
+.keyReg_t td .passInputtxt{ padding-right:30px; width:185px; }
+.keyReg_t td .passOn{ position:relative; background:url(../../images/bgs/m_icon_v.png) no-repeat 0 0; width:21px; height:13px; display:inline-block;left:-35px; top:3px;}
+.keyReg_t td.td_pass .errorMessage{ margin-left:-15px;}
+.keyReg_t td .passOff{ background-position:0 -38px; }
+.register .content .serviceTell{ margin-top:50px; float:left; width:100%; color:#1b1b1b; line-height:24px; padding-bottom:10px;}
+.register .content .serviceTell img{ vertical-align:middle;}
+.register .content .serviceTell .serTell{ background-position:0 -81px; height:24px; width:85px; display:inline-block; float:left;}
+
+.register .busiLink{ margin:0 auto; text-align:center;}
+.register .busiLink .btnBusiReg{ display:inline-block; border-radius:3px; background:#77bdf6; color:#fff; font-size:16px; text-align:center; font-family:"Î¢ÈíÑÅºÚ"; padding:10px; width:130px;}
+.register .weiXin{ width:400px; margin:0 auto; margin-top:55px; }
+.register .weiXin span{ margin-right:30px; width:92px; float:left; line-height:25px;  }
+
+/*registerSuccess---×¢²á³É¹¦*/
+.register .regSuc{ padding-top:55px;}
+.register .sucTip{ margin-left:125px; line-height:45px;font-family:"Î¢ÈíÑÅºÚ"; background-position:0 -126px; padding-left:50px;  font-size:22px; color:#7abd54; font-weight:100;}
+.register .sucInfo{ margin-top:40px; text-align:center; font-family:"ËÎÌå";}
+.register .sucInfo span{ color:#c83253; margin-right:15px;}
+.register .sucInfo p{ line-height:28px;}
+.register .sucInfo a.personInfo{color:#005aa0;}
+.register .sucInfo .shoppBtn{ display:inline-block; width:150px; border:1px solid #ddd; padding:8px 0;  font-size:22px;color:#313131;text-align:center; border:1px solid #ddd; background:#f6f6f6; border-radius:2px;}
+.register .sucInfo .checkRedBtn{display:inline-block; margin-right:45px; width:150px; border:1px solid #ddd; padding:8px 0;  font-size:22px; color:#fff;text-align:center; border:1px solid #ddd; background:#c83353; border-radius:2px;}
+.mgt40{ margin-top:40px;}
+
+/*registerCompany01---×¢²á*/
+.comReg_t{ width:500px;}
+.comReg_t .inputtxt{ width:300px;}
+.comReg_t td .passOn{ left:290px}
+.comReg_t td .passInputtxt{ padding-right:30px; width:275px; }
+.comReg_t td .verInputtxt{ width:215px;}
+
+.register .comTips{ width:176px; margin-left:250px; text-align:left; line-height:30px;}
+.register .comTips .orange{color:#f56b0f;}
+ 
+ /*all---µ×²¿*/
+.footer{ margin-top:20px; }
+.footLink{ margin-top:30px; padding-bottom:30px; border-top:2px solid #c83253; background:#323232; color:#fff; text-align:center; line-height:20px;}
+.gwLinks{ padding:15px 0 0 0; }
+.gwLinks a{ color:#fff; padding:0 10px; }
+.gwLinks a:hover{ color:#c83253;}
+.copyRight{ color:#7d7d7d; line-height:24px;}
+
+/*all---µ¯´°*/
+.dialog-overlay{ opacity:0.5; filter:alpha(opacity:50); background:#ccc; width:100%;height:100%;}
+.dialog{ border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px; padding:5px;  background:url(../images/bgs/dialogbg01.png); _background:none #c6c6c6; }
+.dialog_inner{ float:left; border:1px solid #ACACAC; background:#FFF} 
+.dialog .bar{ position:relative; cursor:move; height:37px; line-height:37px; padding:0 10px; border:1px solid #FFF; background:url(../images/bgs/dialogbg02.png) repeat-x; overflow:hidden;}
+.dialog .bar .title{ float:left; white-space:nowrap; font-weight:700; font-size:15px; color:#1b1b1b; font-family:'Î¢ÈíÑÅºÚ'}
+.dialog .bar .title .gray{ font-size:12px; font-weight:normal;}
+.dialog .bar .closeDialog{ color:#fff; cursor:pointer; text-decoration: none;  text-indent:-9999px; z-index:10; float:right; display:inline; margin:5px 0; width:20px; height:20px;  overflow:hidden; background:url(../images/bgs/dialogbg02.png) 0 -38px;}
+.dialog .Dcontent{  float:left; padding:0px; background:#fff; border:1px solid #FFF; border-top:none;}
+.dialog .Dcontent iframe{ float:left; vertical-align: bottom;}
+
+/*»¶Ó­Éý¼¶*/
+.registerUpdate{ margin:20px 0 0 0; width:1200px;}
+.registerUpdate .title{ height:40px; line-height:40px; background:#e7e7e7; border-top:2px solid #c83353; padding-left:0;}
+.registerUpdate .title h3{ display:inline-block; padding:0 30px; color:#fff; font-size:14px; font-family:"Î¢ÈíÑÅºÚ"; font-weight:100; background:#c83353;}
+.registerUpdate .content{ border:1px solid #e7e7e7; width:988px; padding-left:160px; padding-bottom:20px;}
+
+.registerUpdate .step{ background:url(../images/bgs/registerUpdatebg01.jpg) no-repeat; height:82px; width:790px; margin:50px 0 0 0;}
+.regUp_t{ width:790px; font-size:14px; font-family:"Î¢ÈíÑÅºÚ"; margin:65px 0 0 0;}
+.regUp_t th{ text-align:right; padding:20px 12px; line-height:40px; font-weight:100;}
+.regUp_t td{ padding:20px 12px; line-height:40px;}
+.regUp_t .inputtxt{ padding:10px 5px; width:265px;}
+.regUp_t td .regBtn{ background:#c83353; border-bottom:1px solid #cccccc; border-radius:4px; font-size:20px; color:#fff; padding:8px 10px; width:250px; cursor:pointer;}
+.regUp_t td .agreement{ color:#005aa0; margin-left:48px;}
+
+.activePhoneTips{ width:430px; height:175px;}
+.activePhoneTips p.tips{ padding-top:30px; text-align:center; font-size:14px; font-family:"Î¢ÈíÑÅºÚ"; line-height:24px;}
+.activePhoneTips .do{ margin-top:20px; text-align:center;}
+.activePhoneTips .do .btnActiveLogin{ height:40px; line-height:40px; background-color:#c83253; border-radius:5px; border:0 none; display:inline-block; color:#fff; font-size:14px; width:130px;}
+
+
+/*4/23×¢²áÒ³Ãæ*/
+.reg_t td.td_pass .errorMessage{margin-left:0px;}
+.pwd_c{position:absolute;margin-top:-12px;}
+.pwd_c+div{margin:-12px 0 0 225px;}
+.pwd_c2{position:absolute;margin-top:-12px;}
+.pwd_c2+div{margin:-12px 0 0 247px;}
+.keyReg_t td .passOff3{left:195px;margin-top:-8px;}
+.reg_t td .passOff3{left:216px;margin-top:-8px;}

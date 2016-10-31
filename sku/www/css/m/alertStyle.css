@@ -1,0 +1,43 @@
+/*
+	@topic EMall Module.css
+	@author by paddy
+	@date Dec 25th 2014
+*/
+/*12.29选择颜色*/
+.setMask{position: fixed;left:0px;bottom:-100%; opacity: 0.6; background-color: rgb(0, 0, 0);width: 100%;height:100%;z-index:887;}
+.setColorItem{position:fixed;left:0px;bottom:-100%;width:100%;z-index:888;background:#fff}
+.setColorItem .OSProducts{height: 100px;padding: 10px 4%;border-bottom: 1px #dbdbdb solid;}
+.setColorItem .OSProductsRight{width: 58%;margin-left: 20px;color:#9d9d9d;display: block;}
+.setColorItem .OSProducts span{display:block;}
+.setColorItem .OSProducts img{width:80px;height:80px;}
+.OSProducts{display: block;/* height:100px; */padding: 10px 4%;border-bottom: 1px #dbdbdb solid;}
+.OSProductsInfo{color: #313131;display:block; overflow : hidden;white-space:nowrap;text-overflow:ellipsis;width: 100%;height:25px;}
+.d32f2f{color:#d32f2f}
+.setColorItem .SCPriced{text-decoration:line-through;font-size: 12px;margin-left: 10px;}
+.ColorList{color: #313131;margin-top: 20px;}
+.ColorList p{margin-left: 4%;}
+.ColorList span{display: block;border: 1px #dbdbdb solid;border-radius:4px;background: #fff;padding: 5px 10px;float: left;margin: 8px 0 8px 4%;cursor: pointer;}
+.ColorList .SelectColorItem{background: #f44336;color: #fff;border: 1px #f44336 solid;}
+.SelNum{border-top:1px #dbdbdb solid;border-bottom:1px #dbdbdb solid;padding: 15px 0;margin-top: 15px;}
+.SelNumLeft{margin-left: 4%;height: 35px;line-height: 35px;}
+.SelNumLeft span{margin-left: 10px;font-size: 12px;}
+.SelNumLeft .inventory{font-style:normal;}
+.SelNumRight{margin-right: 4%;border: 1px #dbdbdb solid;line-height: 35px;}
+.SelNumRight,.SelNumJian,.SelNumJia{height: 35px;}
+.SelNumJian,.SelNumJia{font-weight: bold;text-align: center;color: #a0a0a0;width: 35px;cursor:pointer;}
+.SelNumJian{background: url("../../images/m/bg/m_jian.jpg") no-repeat center;background-size:15px 3px;}
+.SelNumJia{background: url("../../images/m/bg/m_jia.png") no-repeat center;background-size:15px 15px;}
+.SelNumRight input{border: 0px;height: 35px;display: block;width: 35px;text-align: center;border-left: 1px #dbdbdb solid;border-right: 1px #dbdbdb solid; }
+.bgf49436{background: #f49436;}
+.bgf44336{background: #f44336;color: #fff;border: 0px;}
+
+/*订单（购物车）编辑 12/29*/
+.editItem{position:fixed;left:0px;bottom:-100%;width:100%;z-index:888;background:#fff}
+.cartTitleRight{cursor:pointer;font-size:0;}
+.cartTitleOK{border:none;padding:0px 10px;margin-top:3px;font-size:100%;border-radius:4px;height:34px;line-height:2.5;background:#f44336;color:#fff;cursor:pointer;}
+.cartTitleOK img{display:none;}
+.ODItem2Info02{display:inline-block;width:100%;position:relative;}
+.ODItem2Info02 span{display:inline-block;}
+.ODItem2Info02{display:none;}
+.ODItem2Info02 .selectItem{display:inline-block;margin-bottom:3px;}
+.ODItem2Info02 .SelNumRight{/* position:absolute;right:4%;top:0 */width:auto;}
